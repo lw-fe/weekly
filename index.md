@@ -6,6 +6,41 @@
 
 `本周轮值主编`: 陈明成 `下周轮值主编`: 王建中
 
+> 技术干货
+* [ 190917 ] JavaScript 之 import export Vs require module.exports：<https://dwz.cn/PSw8HOyK> [ from 君毅 ]
+    * 而 ES6 模块的运行机制与 CommonJS 不一样：JS 引擎对脚本静态分析的时候，遇到模块加载命令 import，就会生成一个只读引用
+  
+* [ 190918 ] 探索如何使用 JSON.stringify() 去序列化一个 Error
+<https://juejin.im/post/5d81ee1151882570315f56ad> [ from 正杰 ]
+
+* 为什么0.1 + 0.2 != 0.3
+<https://0.30000000000000004.com>  [ from 建中 ]
+* 技术胖的2019新版React全家桶免费视频（84集） <https://juejin.im/post/5d817a15f265da039929a761> [ from 婉如 ]
+* 快速了解window.name特性与作用 <https://www.zhangxinxu.com/wordpress/2019/09/window-name/> [ from 婉如 ]
+
+
+> 经验之说
+* [ 190916 ] React 单元测试 <https://gitissue.com/issues/5d813ed4602cf61a3e093961> [from 文玲]
+    * reducer、selector 层的逻辑代码要求 100% 覆盖
+    * saga（副作用）层：是否拿到了正确的参数、是否调用了正确的 API、是否保存了正确的数据、业务逻辑、异常逻辑五个层面要求 100% 覆盖
+    * action 层选择性覆盖：可不测
+    * utils 层的纯函数要求 100% 覆盖
+    * 组件层：
+    * 分支渲染逻辑必测、事件、交互调用要求 100% 覆盖；
+    * @connect 过的高阶组件不测
+    * 纯 UI 一般不测
+  
+* React Router 4.x 开发，这些雷区我们都帮你踩过了：<https://juejin.im/entry/5b50518bf265da0f6436c34a> [ from 子哲 ] 
+  
+* [ 190920 ] 用 Git 和 Github 提高效率的 10 个技巧!: <https://mp.weixin.qq.com/s/P9iSzpJujL0TsKtohmuPNw> [ from 思源 ]
+> 资讯杂谈
+* [ 190912 ] W3C 首次发布小程序标准化白皮书，小程序要实现统一了吗？ <https://www.infoq.cn/article/EYWyxH5KcN0erxYkMLvG> [ from 明成 ]
+
+* [ 190415 ] 5G 是什么：<https://mp.weixin.qq.com/s/q_cjy8O0EECGiOSAevmC1A> [ from 君毅 ]
+  * 5G(5th Generation)，指的是第 5 代移动网络，官方名称IMT-2020，即2020年完成5G的前期部署
+
+* [ 190916 ] npm沦为金钱工具背后的故事： <https://mp.weixin.qq.com/s/BxnR6EBNAlSKSfvo8kA4xw> [ from 思源 ]
+
 ## 190902-190907
 
 `本周轮值主编`: 陈荣 `下周轮值主编`: 陈明成
