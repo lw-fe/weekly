@@ -17,7 +17,7 @@
 <https://0.30000000000000004.com>  [ from 建中 ]
 * 技术胖的2019新版React全家桶免费视频（84集） <https://juejin.im/post/5d817a15f265da039929a761> [ from 婉如 ]
 * 快速了解window.name特性与作用 <https://www.zhangxinxu.com/wordpress/2019/09/window-name/> [ from 婉如 ]
-
+* [ 190918 ] 让你成为灵魂画手的 JS 引擎：Zdog <https://zzz.dog> github <https://github.com/metafizzy/zdog> [ from 大民 ]
 
 > 经验之说
 * [ 190916 ] React 单元测试 <https://gitissue.com/issues/5d813ed4602cf61a3e093961> [from 文玲]
