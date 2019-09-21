@@ -19,6 +19,70 @@
 * 快速了解window.name特性与作用 <https://www.zhangxinxu.com/wordpress/2019/09/window-name/> [ from 婉如 ]
 * [ 190918 ] 让你成为灵魂画手的 JS 引擎：Zdog <https://zzz.dog> github <https://github.com/metafizzy/zdog> [ from 大民 ]
 
+> Rxjs 专栏
+
+是时候给大家安利 Rxjs 了：
+
+**初识**
+
+[RxJS 入门指引和初步应用](https://github.com/xufei/blog/issues/44)
+
+RxJS是一个强大的Reactive编程库，提供了强大的数据流组合与控制能力，从事件到流，它被称为 lodash for events，倒不如说是lodash for stream更贴切，它提供的这些操作符也确实可以跟lodash媲美。 
+
+使用 RxJS 就将所有的输入都装换为数据流（`stream`）:
+
+```bash
+数据       |>
+用户操作    |>
+网络响应    |>  => Observable
+定时器     |> 
+Worker    |>
+缓存      |>
+``` 
+
+数据流是一种可观察的序列，可以被订阅(subscribe)，也可以被用来做一些转换操作，可以对若干个数据流进行组合。 由于 RxJS的抽象程度很高，所以，可以用很简短代码表达很复杂的含义，这对开发人员的要求也会比较高，需要有比较强的归纳能力。
+
+然后作者列出了几个场景示例，有兴趣的可以理解下示例五，测试下自己的抽象归纳能力。
+
+**来个实际的例子**
+
+[LeetCode 中国区招聘笔试题: 用 RxJS 处理复杂的异步业务](https://github.com/LeetCode-OpenSource/hire/blob/master/rxjs_zh.md)
+使用 RxJS 6+，实现一个 Autocomplete 组件的基本行为，需满足以下要求：
+ * (1) 用户停止输入 500ms 后，再发送请求；
+ * (2) 如果请求没有返回时，用户就再次输入，要取消之前的请求；
+ * (3) 不能因为搜索而影响用户正常输入新的字符；
+ * (4) 如果用户输入超过 30 个字符，取消所有请求，并显示提示：您输入的字符数过多。
+
+当然，这个只是一个提纲而已，我们不妨将这个问题更细化一下，然后试着用传统的方式去解决（lodash）当你正在去实现的时候，会发现如下问题：
+
+对于问题 `(1)`，这个太简单了，加个 debounce 就可以了； 
+
+问题 `（2）` 这个稍微有点难了，首先我们的 http 需要加入 abort 机制了，然后需要在业务层去做加入各种判断，到这里 lodash 已经无能为力了，因为它无法处理异步逻辑；
+
+甚至我们还可以将问题 `（3）` 和问题 `（2）` 合起来考虑， 发出多个异步事件之后，每个事件所耗费的时间不一定相同。如果前一个异步所用时间较后一个长，那么当它最终返回结果时，有可能把后面的异步率先返回的结果覆盖，这个就个很蛋疼的问题了，但是在 Rxjs 中，一个 `flatMapLatest` 就搞定。
+
+解决了 问题 `（3）`，问题`(4)` 就不是什么困难了。
+
+综上，我们发现将每个问题拆开来看，使用传统的方式来处理，虽然有些复杂，但是依然有解，可如果将这些问题通通考虑进去，就会发现非常棘手，因为同步和异步逻辑相互交融，还要考虑用户体验。
+
+我们看看 RxJS 是怎么解决的： [楼上的答案:探索 RxJS - 做一个 github 小应用](https://github.com/ecmadao/Coding-Guide/blob/master/Notes/RxJS/%E6%8E%A2%E7%B4%A2RxJS-%E5%81%9A%E4%B8%80%E4%B8%AAgithub%E5%B0%8F%E5%BA%94%E7%94%A8.md) [demo地址](https://ecmadao.github.io/rxjs-example/)
+
+
+上面几篇文章算是对 Rxjs 有一个具象的认识，但只能算是小试牛刀，如果要用一句来描述 Rxjs，那么就是 `其文简，其意博，其理奥，其趣深`。
+
+**进阶**
+
+想要深入的理解 Rxjs，请继续打怪升级：
+
+[参考文章:30 天精通 RxJS系列](https://ithelp.ithome.com.tw/articles/10186465)
+[书籍推荐：陈墨大佬的深入浅出RxJS](https://book.douban.com/subject/30217949/)
+
+Rxjs 学得差不多了，怎样在实战中应用起来呢？
+
+[vue: vue-rx](https://github.com/vuejs/vue-rx/blob/master/README-CN.md)
+[react: rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks)
+[rect: redux-observable](https://redux-observable.js.org/)
+
 > 经验之说
 * [ 190916 ] React 单元测试 <https://gitissue.com/issues/5d813ed4602cf61a3e093961> [from 文玲]
     * reducer、selector 层的逻辑代码要求 100% 覆盖
