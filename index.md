@@ -2,6 +2,75 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 190923-190928
+
+`本周轮值主编`: 王建中 `下周轮值主编`: 聂正杰
+
+> 技术干货
+* [ 190927 ] 常见的前端架构风格和案例 <https://juejin.im/post/5d7ffad551882545ff173083#heading-0>[ from xp ]
+    > 系统架构上的套路，用于解决某类问题的方式方法
+    * 分层风格
+    * 管道和过滤器
+    * 事件驱动
+    * MV*
+    * 微前端
+    * 组件化
+* [ 190925 ] 十个超级实用的 JS 特性 <https://segmentfault.com/a/1190000020482546 >[ from mc ]
+* [ 190927 ] 一个react-hooks工具库：https://github.com/streamich/react-use [ from sy ]
+* [190917] 常见前端架构风格和案例: https://juejin.im/post/5d7ffad551882545ff173083[from dm]
+* [170118]CSS伪类与伪元素完全指南: https://www.jianshu.com/p/9086114e07d4[from jz]
+    * 重要的内容可不要使用伪元素生成的内容，原因如下：
+        * 屏幕阅读器读不到它
+        * 无法选中
+        * 如果为了装饰而在生成内容中使用了多余的内容，那么支持CSS生成内容的屏幕阅读器会大声地把它读出来，导致用户体验更差
+    * 伪类分类
+        * 状态伪类（active, link, hover...）
+        * 结构化伪类(first-of-type, LAST-CHILD, ...)
+        * 验证伪类(checked, default, DISABLED...)
+        * 语言伪类(lang, DIR)
+        * 其他伪类(root, fullscreen...)
+    * 伪元素(before, after)
+> 其他
+* [ 190827 ] 2019年公安大数据行业发展现状和市场格局分析：https://www.qianzhan.com/analyst/detail/220/190827-144336e1.html [from jy]
+    * 2016-2019上半年我国公安大数据建设项目共分布在全国28个省、直辖市和自治区内
+    * 2016-2019上半年我国246个公安大数据建设项目中，中标供应商多达235家
+    * 全国各地政府在招标建设公安大数据项目的时候具备明显的地域性，还具备公平性原则
+
+* [190922] 怎样学会控制情绪：https://weibo.com/3052465574/I8aeij3gJ?from=embedded_weibo&type=comment [from jy]
+    * 情绪是大脑根据以往经验给出的一种猜测，是可以通过训练而培养，控制的，每个人都该为自己的情绪负起责任
+
+* [190927] 如何成为技术大牛 https://mp.weixin.qq.com/s/QaBTm_9AJC01Isr3LLR3aw[from dm]
+
+> Mobx 小专栏 [form cr]
+
+* [MobX](https://Mobx.js.org/) 是一个经过战火洗礼的库，它通过透明的函数响应式编程(transparently applying functional reactive programming - TFRP)使得状态管理变得简单和可扩展。
+* [我为什么从Redux迁移到了Mobx](https://tech.youzan.com/mobx_vs_redux/)
+* [Mobx 思想的实现原理，及与 Redux 对比](https://zhuanlan.zhihu.com/p/25585910)
+
+一个简单的例子 [mobx-react](https://mobx-react.js.org/)，例子中的[源码](https://github.com/mobxjs/mobx-react-docz/blob/master/content/examples/TodoList.tsx)
+
+综上：
+
+选择 Mobx 的原因：
+
+1. Redux 繁琐，流程较多，需要配置/创建 Store，编写 Reducer，Action，如果涉及异步任务，还需要引入 Redux-thunk 或 redux-saga 等中间件编写额外代码，Mobx 流程相比就简单很多，并且不需要额外异步处理库；
+
+2. 面向对象编程：Mobx 支持面向对象编程，我们可以使用 @Observable，@observer，以面向对象编程方式使得 JavaScript 对象具有响应式能力，同时 Mobx 对 Typescript 的支持也比 Redux 更好；Redux 推荐遵循函数式编程，当然 Mobx 也支持函数式编程；
+
+3. Redux 全局只能存在一个 Store，而 Mobx 则不受此限制;
+
+4. 拥有比Redux 更加精准的数据[更新机制](https://tech.youzan.com/mobx_vs_redux/)；
+
+不选择 Mobx 的原因：
+
+1. 过于自由：Mobx 提供的约定及模版代码很少，这导致开发代码编写很自由，如果不做一些约定，比较容易导致团队代码风格不统一;
+2. 依然没有彻底的解决副作用的问题(这是目前几乎所有框架所面临的共同问题): 
+    Redux 将副作用交给了 middleware，Vue 则是通过把 Action 和 Mutation 分开来实现， 目前主流的框架对异步 Action 的最终行为都是只能通过多个 Action 组合(异步 Action + 同步 Action)使用来完成。
+    
+    Mobx 同样跳不出这个诅咒， 即时使用了 async 函数，其执行过程中也是不能被追踪的，即使这个 async 函数也被标记为 Action，若果在该函数内操作了数据，还会被误判是在 Action 外修改了数据。（不过 Mobx 对异步的处理要比其它框架友好的多，，通过`runInAction` Mobx 工具函数，或者 MST 已经可以曲线救国, Mobx State Tree 利用了Generator，使异步操作可以在一个 Action 函数内完成并且可以被追踪。但这又是在捆绑了 Generator 的前提下实现的）
+    
+    当然，最根本的原因还是由于 JavaScript 的限制，异步操作天生就难以被追踪。
+
 ## 190916-190921
 
 `本周轮值主编`: 陈明成 `下周轮值主编`: 王建中
