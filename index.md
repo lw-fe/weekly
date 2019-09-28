@@ -17,8 +17,8 @@
     * 组件化
 * [ 190925 ] 十个超级实用的 JS 特性 <https://segmentfault.com/a/1190000020482546 >[ from mc ]
 * [ 190927 ] 一个react-hooks工具库：https://github.com/streamich/react-use [ from sy ]
-* [190917] 常见前端架构风格和案例: https://juejin.im/post/5d7ffad551882545ff173083[from dm]
-* [170118]CSS伪类与伪元素完全指南: https://www.jianshu.com/p/9086114e07d4[from jz]
+* [190917] 常见前端架构风格和案例: https://juejin.im/post/5d7ffad551882545ff173083 [from dm]
+* [170118]CSS伪类与伪元素完全指南: https://www.jianshu.com/p/9086114e07d4 [from jz]
     * 重要的内容可不要使用伪元素生成的内容，原因如下：
         * 屏幕阅读器读不到它
         * 无法选中
