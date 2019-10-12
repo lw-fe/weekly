@@ -1,12 +1,39 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> ## 191008-191012
+
+`本周轮值主编`: 聂正杰 `下周轮值主编`: 吴海萍
+
+> 技术干货
+
+* [191010] 星星整理的nginx安装使用规范 http://wiki.lvwan-inc.com/pages/viewpage.action?pageId=27262123 [ from 文玲 ]
+* [191010] 你未必知道的CSS知识点（第二季）https://juejin.im/post/5d9ec8b0518825651b1dffa3 [ from 良辰 ] 
+* [190611] 通俗的告诉你，为什么是 devDependencies http://www.imooc.com/article/287779 [ from 正杰 ]
+* [191011] Windy：Create Animation：https://www.windy.com/?35.693,139.709,5
+以粒子的形式配合风地图对世界的风进行了可视化；效果极佳，且功能丰富；以提供世界最佳天气预报服务为目标 [ from 君毅 ]
+* [191011] Element-UI 技术揭秘（5）- 色彩、字体、边框与图标：https://juejin.im/post/5d9ebaddf265da5b591b64b3 [ from 红梅 ]
+* [191009] 1.5万字概括ES6全部特性 <https://juejin.im/post/5d9bf530518825427b27639d> 本文整理了《ES6标准入门》的精华内容，囊括了整个`ES6>
+体系`的所有特性。 [ from 文玲 ]
+    * 表达式：声明、解构赋值
+    * 内置对象：字符串扩展、数值扩展、对象扩展、数组扩展、函数扩展、正则扩展、Symbol、Set、Map、Proxy、Reflect
+    * 语句与运算：Class、Module、Iterator
+    * 异步编程：Promise、Generator、Async
+* [191011] javascript实现一段文字展开、收起：https://blog.csdn.net/erdouzhang/article/details/71105188 [ from 子哲 ]
+* [191011] 浏览器支持图片懒加载loading='lazy': https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/  [ from 海萍 ]
+
+> 其他
+
+* 莫拉维克悖论: https://zh.wikipedia.org/wiki/%E8%8E%AB%E6%8B%89%E7%B6%AD%E5%85%8B%E6%82%96%E8%AB%96 [ from 建中 ]
+* [190111] 做笔记的心得 https://mp.weixin.qq.com/s/otGbffBEkj0pc3xiLEyFYw [ from 思源 ]
+
 
 ## 190923-190928
 
 `本周轮值主编`: 王建中 `下周轮值主编`: 聂正杰
 
 > 技术干货
+
 * [ 190927 ] 常见的前端架构风格和案例 <https://juejin.im/post/5d7ffad551882545ff173083#heading-0>[ from xp ]
     > 系统架构上的套路，用于解决某类问题的方式方法
     * 分层风格
