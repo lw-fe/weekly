@@ -2,6 +2,31 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191014-191019
+
+`本周轮值主编`: 吴海萍 `下周轮值主编`: 黄良辰
+
+> 有用的js库
+* [191018] React Hook Form https://react-hook-form.com/ [ from 红梅 ]
+   * Performant, flexible and extensible forms with easy to use for validation.
+* [191015] Rough.js: Create graphics with a hand-drawn, sketchy, appearance：https://roughjs.com/ [ from 君毅 ]
+   * Rough.js is a small (~8.5kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style. The library defines primitives to draw lines, curves, arcs, polygons, circles, and ellipses   
+* [191015] roughViz.js: Create Hand-Drawn Styled Charts in the Browser：https://github.com/jwilber/roughViz [ from 君毅 ]
+   * Supports bar, donut, line, pie and scatter charts for now and uses Rough.js under the hood which provides the same sort of thing for drawing shapes generally
+* [191015] JavaScript工具函数： https://mp.weixin.qq.com/s/mhKdCN5w_4TNRZofBbzwZQ [ from 思源 ]
+   * 数量较多，可作为储备自行了解
+* [191018] 巧用drop-shadow，拯救不开心：https://zhuanlan.zhihu.com/p/86202978 [ from 思源 ]
+   * 易于实现不规则形状的阴影效果
+   * 可用于给png图片图标换色
+   
+> 新鲜特性
+* [191008] 可以在async之外使用的top-level-await： https://v8.dev/features/top-level-await [ from 建中 ]
+
+> 资讯
+* [191018] Material Design 设计奖揭晓，Google 选出了 4 款最佳应用： https://sspai.com/post/56961  [ from 建中 ]
+* [191015] 10个网页设计灵感站：https://mp.weixin.qq.com/s/u190LBOqub_nKY1ujcm2DA [from 海萍]
+
+
 ## 191008-191012
 
 `本周轮值主编`: 聂正杰 `下周轮值主编`: 吴海萍
