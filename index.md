@@ -26,6 +26,9 @@
 * [191018] Material Design 设计奖揭晓，Google 选出了 4 款最佳应用： https://sspai.com/post/56961  [ from 建中 ]
 * [191015] 10个网页设计灵感站：https://mp.weixin.qq.com/s/u190LBOqub_nKY1ujcm2DA [from 海萍]
 
+> 成长
+
+* [191017] 前端工程师的产品思维 https://mp.weixin.qq.com/s/XD07GPyMXDXNqdHu--3hAA [ from 晓朋 ]
 
 ## 191008-191012
 
