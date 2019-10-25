@@ -2,6 +2,17 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191020-191026
+
+`本周轮值主编`: 黄良辰 `下周轮值主编`: 赵文玲
+
+> 技术干货
+
+* [191021] Turf.js 主要用实现在网页端来空间几何对象关系的计算，点、线、面之间包含、相交等一系统运算 http://turfjs.org/ [ from 文玲]
+* [191013] 增强体验小技巧，实现a元素href URL链接自动刷新或新窗口打开： https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/ [ from 海萍]
+* [191024] 现代浏览器观察者 Observer API 指南 https://juejin.im/post/5db10695e51d452a091fde90 [ from 正杰 ]
+
+
 ## 191014-191019
 
 `本周轮值主编`: 吴海萍 `下周轮值主编`: 黄良辰
