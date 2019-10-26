@@ -8,9 +8,33 @@
 
 > 技术干货
 
-* [191021] Turf.js 主要用实现在网页端来空间几何对象关系的计算，点、线、面之间包含、相交等一系统运算 http://turfjs.org/ [ from 文玲]
-* [191013] 增强体验小技巧，实现a元素href URL链接自动刷新或新窗口打开： https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/ [ from 海萍]
+* [191021] Turf.js 主要用实现在网页端来空间几何对象关系的计算，点、线、面之间包含、相交等一系统运算 http://turfjs.org/ [ from 文玲 ]
 * [191024] 现代浏览器观察者 Observer API 指南 https://juejin.im/post/5db10695e51d452a091fde90 [ from 正杰 ]
+* [191026] webpack 5 之持久化缓存指南 https://mp.weixin.qq.com/s/oB5eYax_NndcM5IinPgzNQ [ from 学聪 ]
+
+> 技巧
+
+* [191025] 小工具，将 string 字符串通过正则表达式替换为 react 组件 https://github.com/iansinnott/react-string-replace [ from 陈荣 ]
+* [191013] 增强体验小技巧，实现a元素href URL链接自动刷新或新窗口打开： https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/ [ from 海萍 ]
+* [191015] 5 个 JS 不良编码习惯，你占几个呢https://segmentfault.com/a/1190000020685959 [ from 子哲 ]
+* [191025] 你未必知道的49个CSS知识点 https://juejin.im/post/5d3eca78e51d4561cb5dde12 [ from 红梅 ]
+  
+> 工作
+
+* [191025] http://172.17.10.41:8020/zhaowenling/zhizi/zhizi-upgrade-191025.md.html 智子系统升级的过程记录，发上线单的注意事项 [ from 文玲 ]
+
+> 资讯
+
+* [191024] Javascript New Features  https://itnext.io/javascript-new-features-part-1-f1a4360466 [ from 建中 ]
+* [191024] sass推出模块系统 https://css-tricks.com/introducing-sass-modules/ [ from 思源]
+    Sass 模块系统是解决命名冲突的更强大的方案，新增 @use 和 @forward 规则，而 @import 将被 Sass 逐渐放弃
+
+> 其他
+
+* [191016] 超多案例帮你读懂交互设计7大定律 https://www.uisdc.com/7-interactive-design-law [from 良辰]
+* [191026] 85%的AI项目以失败为告终，切记这6条成功原则 https://mp.weixin.qq.com/s/WOVVnZYTHCVAVHU6hNQcAQ [ from 文玲 ]
+* [191024]硅谷看上中国N线城市“码工”：只拿1/3薪水，肯加班无怨言：https://mp.weixin.qq.com/s/TgyCNBj7BmoGWiV4uLmk8Q [ from 君毅]
+    如果说中国“出口制造”的时代正在消逝，也许“出口脑力”的时代正在到来
 
 
 ## 191014-191019
