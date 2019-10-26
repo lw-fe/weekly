@@ -32,7 +32,7 @@
 > 其他
 
 * [191016] 超多案例帮你读懂交互设计7大定律 https://www.uisdc.com/7-interactive-design-law [from 良辰]
-* [191026] 85%的AI项目以失败为告终，切记这6条成功原则 https://mp.weixin.qq.com/s/WOVVnZYTHCVAVHU6hNQcAQ [ from 文玲 ]
+* [191026] 85%的AI项目以失败为告终，切记这6条成功原则 https://mp.weixin.qq.com/s/WOVVnZYTHCVAVHU6hNQcAQ [ from 晓朋 ]
 * [191024]硅谷看上中国N线城市“码工”：只拿1/3薪水，肯加班无怨言：https://mp.weixin.qq.com/s/TgyCNBj7BmoGWiV4uLmk8Q [ from 君毅]
     如果说中国“出口制造”的时代正在消逝，也许“出口脑力”的时代正在到来
 
