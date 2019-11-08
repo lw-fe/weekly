@@ -2,6 +2,33 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191104-191109
+
+`本周轮值主编`: 晓朋 `下周轮值主编`: 学聪 
+
+> css
+
+* [ 全面掌握 Content 的用法] <http://www.imooc.com/article/294954> [ from 正杰 ]
+	* 清除浮动
+	* 生成一些装饰性的符号或文字
+	* 使用 content: attr(data-tip)实现自定义的悬浮提示效果
+	* 使用 content: counter(item)实现计数器
+	* Counter-reset 属性
+ 	* Counter-increment
+	* 使用 content: counters(item, string)实现复杂的列表嵌套的序号问题
+
+> 框架&库
+
+* [ 打造高品质Axure组件库，就是这么简单！ ] <http://www.woshipm.com/rp/779504.html> [ from 学聪 ]
+
+> 成长
+
+* [ 玉伯：我的前端成长之路 ] <https://www.yuque.com/yubo/morning/grow-up-at-alibaba> [ from 学聪 ]
+
+> 资讯
+
+* [ 研究估计五成 WebAssembly 网站将其用于恶意目的 ] <https://dwz.cn/uGYE2Gvc> [ from 大民 ]
+
 ## 191020-191026
 
 `本周轮值主编`: 赵文玲 `下周轮值主编`: 樊晓朋
