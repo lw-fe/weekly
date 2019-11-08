@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="http://258i.com/docs/markdown_res/bootstrap/css/bootstrap.min.css" media="all"/>
+    <link rel="stylesheet" type="text/css" href="http://258i.com/docs/markdown_res/bootstrap/css/bootstrap-theme.min.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="http://258i.com/docs/markdown_res/css/github-markdown.css" media="all" />
+    <script src="http://258i.com/docs/markdown_res/js/jquery-1.9.1.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css" media="all">
+
+img {max-width: 100%; cursor: pointer; }
+pre, code {color: #048ebd; }
+li>p {display: block;}
+p>code, li>code {color: red;}
+blockquote {display:block; border-left: 4px solid #abc; margin: 30px 0; padding: 11px 20px 1px; font-size: 14px; }
+ul, ol{margin-left: 22px;}
+ul ul,
+ul ol,
+ol ol,
+ol ul{margin-left: 22px;}
+
+.markdown-body {
+    margin: 40px 0 0 180px;
+    padding: 0 50px;
+    overflow: auto;
+    font-size: 14px;
+    color: #000;
+
+    /* 解决高版本Chrome下深色小字体的发虚发白的问题 */
+    -webkit-font-smoothing: antialiased;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+    padding-left: 0;
+}
+.markdown-body ol ol,
+.markdown-body ul ol {
+    list-style-type: decimal;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+    list-style-type: decimal;
+}
+
+.markdown-body code {
+    font-size: 96%;
+}
+
+.markdown-body pre code {
+    /**
+     * 1. Courier（而非Courier-New）字体为首选，在safari和chrome下都能使用，表现一致
+     * 2. Consolas字体，在chrome下不能使用
+     * 3. monospace字体，作为最终等宽字体
+     */
+    font-family: Courier, Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.markdown-body pre>code {
+    font-size: 112%;
+}
+
+@media print {
+
+    div#navbar-auto {
+        width: auto ! important;
+        position: static ! important;
+        padding-right: 3px ! important;
+        box-shadow: none ! important;
+        -webkit-box-shadow: none ! important;
+        overflow: scroll ! important;
+        background-color: #fff ! important;
+        border-right: none ! important; 
+    }
+
+    div#navbar-auto::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+
+    .markdown-body {
+        margin-left: 40px ! important;
+        font-size: 12px ! important;
+    }
+
+    .markdown-body blockquote {
+        color: #777 ! important;
+        border: none ! important;
+        border-left: 4px solid #ddd ! important;
+        font-size: 12px ! important;
+    }
+
+    .markdown-body blockquote * {
+        color: #777 ! important;
+    }
+
+    .markdown-body code {
+        color: #e6550d ! important;
+    }
+
+    .markdown-body pre code {
+        color: #048ebd ! important;
+    }
+
+    .markdown-body a[href] {
+        color: #4078c0 ! important;
+    }
+
+    .markdown-body a[href]:after {
+        content: "" ! important;
+    }
+}
+
+@media screen and ( max-width: 600px ) {
+    div#navbar-auto {
+        width: auto;
+        position: static;
+        padding-right: 5px;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+        overflow: scroll;
+        background-color: #fff;
+        border-right: none; 
+    }
+
+
+    .markdown-body {
+        margin-left: 16px;
+        margin-right: 16px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+#navbar-auto {
+    width: 180px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    padding-right: 3px;
+    overflow: scroll;
+    background-color: #fff;
+}
+
+#navbar-auto::-webkit-scrollbar {
+    width: 2px;
+    height: 0;
+}
+
+#navbar-auto::-webkit-scrollbar-track {
+    background-color: #f5f5f5;
+}
+
+#navbar-auto::-webkit-scrollbar-thumb {
+    background-color: rgba( 0, 0, 0, 0.2 );
+}
+
+#navbar-auto ul{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 10px;
+}
+
+
+.nav {
+    padding-left: 0px;
+}
+
+#navbar-auto .nav > li > a {
+    padding: 0;
+    padding-left: 6px;
+}
+
+#navbar-auto li{
+    height: 24px; 
+}
+
+#navbar-auto li.active a {
+    color: #d62728;
+    border-left-color: #d62728;
+}
+
+
+#navbar-auto a,
+#navbar-auto a:link,
+#navbar-auto a:hover,
+#navbar-auto a:active,
+#navbar-auto a:visited {
+    display: block;
+    overflow: hidden;
+    border-left: 4px solid #fff;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    text-decoration: none;
+    color: #666;
+    line-height: 24px;
+    font-family: Arial;
+    font-size: 12px; 
+}
+ 
+#navbar-auto .navi {
+    position: fixed;
+    left: 0px;
+    bottom: 0;
+    width: 40px;
+    height: 90px;
+}
+
+#navbar-auto .arrow {
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+    opacity: 0.7;
+    background-image: url(http://258i.com/docs/markdown_res/img/icon.png);
+    background-position: 44px 2px;
+    cursor: pointer;
+}
+ 
+#navbar-auto .arrow.up {
+
+}
+ 
+#navbar-auto .arrow.down {
+    transform: rotate(180deg);
+}
+ 
+#navbar-auto .arrow.active {
+    background-position: 2px 2px;
+}
+
+    </style>
+</head>
+<body class="markdown-body">
+
+
+<h1> 技术快报</h1>
+
+<blockquote>
+
+<p> 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，<a href="./editors.md" title="轮值主编制度参考">轮值主编制度参考</a>
+</p>
+
+</blockquote>
+
+<h2> 191104-191109</h2>
+
+<p><code>本周轮值主编</code>: 晓朋 <code>下周轮值主编</code>: 学聪 
+</p>
+
+<blockquote>
+
+<p> css
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 全面掌握 Content 的用法] <a href="http://www.imooc.com/article/294954">http://www.imooc.com/article/294954</a> [ from 正杰 ]
+    <ul>
+
+    <li>清除浮动
+    </li>
+
+    <li>生成一些装饰性的符号或文字
+    </li>
+
+    <li>使用 content: attr(data-tip)实现自定义的悬浮提示效果
+    </li>
+
+    <li>使用 content: counter(item)实现计数器
+    </li>
+
+    <li>Counter-reset 属性
+    </li>
+
+    <li>Counter-increment
+    </li>
+
+    <li>使用 content: counters(item, string)实现复杂的列表嵌套的序号问题
+    </li>
+
+    </ul>
+
+</li>
+
+<li>【 纯css实现的油画效果，在chrome下是很完美的，别的浏览器看起来呈现出有趣的效果 ] <a href="https://diana-adrianne.com/purecss-lace/">https://diana-adrianne.com/purecss-lace/</a> [ from 红梅 ]
+</li>
+
+<li>[ 你应该知道的折叠屏收集适配 ] <a href="https://juejin.im/post/5dc4cc0bf265da4d525fdcdb">https://juejin.im/post/5dc4cc0bf265da4d525fdcdb</a> [ from 文玲 ]
+    <ul>
+
+    <li>响应式设计9项基本原则
+    </li>
+
+    <li>折叠屏常见适配问题
+    </li>
+
+    </ul>
+
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 框架&库
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 打造高品质Axure组件库，就是这么简单！ ] <a href="http://www.woshipm.com/rp/779504.html">http://www.woshipm.com/rp/779504.html</a> [ from 学聪 ]
+</li>
+
+<li>[ SWR - React Hooks for Remote Data Fetching：]<a href="https://swr.now.sh">https://swr.now.sh</a> [ from 君毅 ]
+    <ul>
+
+    <li>SWR is a React Hooks library for remote data fetching. With SWR, components will get a stream of data updates constantly and automatically, Thus, the UI will be always fast and reactive
+    </li>
+
+    </ul>
+
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 方法论
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 降低软件复杂性的一般原则和方法 ]<a href="https://mp.weixin.qq.com/s/-Gu_XkY2bZq9Lf2ZCJZPtQ">https://mp.weixin.qq.com/s/-Gu_XkY2bZq9Lf2ZCJZPtQ</a> [ from 晓朋 ]
+</li>
+
+<li>[ 玉伯：我的前端成长之路 ] <a href="https://www.yuque.com/yubo/morning/grow-up-at-alibaba">https://www.yuque.com/yubo/morning/grow-up-at-alibaba</a> [ from 学聪 ]
+</li>
+
+<li>[ 重构：代码命名之逆袭女神 ] <a href="https://juejin.im/post/5db94780e51d452a34438f43">https://juejin.im/post/5db94780e51d452a34438f43</a>[ from 子哲 ] 
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 资讯
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 现代 Web 开发的现状与未来（JSDC 2019 演讲全文）]<a href="https://zhuanlan.zhihu.com/p/88616149">https://zhuanlan.zhihu.com/p/88616149</a> [ from 良辰 ]
+</li>
+
+<li>[ 研究估计五成 WebAssembly 网站将其用于恶意目的 ] <a href="https://dwz.cn/uGYE2Gvc">https://dwz.cn/uGYE2Gvc</a> [ from 大民 ]
+</li>
+
+<li>[ Edge新的Logo，不再像ie浏览器 ] <a href="https://www.theverge.com/2019/11/2/20944341/microsoft-edge-chromium-browser-logo-icon-wave-surf-new">https://www.theverge.com/2019/11/2/20944341/microsoft-edge-chromium-browser-logo-icon-wave-surf-new</a> [ from 红梅 ]
+</li>
+
+<li>[ 最近程序员频繁被抓，如何避免面向监狱编程！？] <a href="https://juejin.im/post/5db64bc7f265da4d0c1747d3">https://juejin.im/post/5db64bc7f265da4d0c1747d3</a> [ from 文玲 ]
+</li>
+
+<li>[ OpenJS 基金会推出两个 Node.js 证书，只要通过考试就能拿到。以后，JavaScript 开发也有考证了。] <a href="https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/">https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/</a> [ from 建中 ]
+</li>
+
+</ul>
+
+<h2> 191020-191026</h2>
+
+<p><code>本周轮值主编</code>: 赵文玲 <code>下周轮值主编</code>: 樊晓朋
+</p>
+
+<blockquote>
+
+<p> 干货
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 191029 ] 你能实现多少种水平垂直居中的布局（定宽高和不定宽高）<a href="https://juejin.im/post/5db706d5f265da4d31073959">https://juejin.im/post/5db706d5f265da4d31073959</a> [ from 正杰 ]
+</li>
+
+<li>[ 191028 ] 200行代码实现前端无痕埋点 <a href="https://juejin.im/post/5db5cf2e6fb9a02074738b25">https://juejin.im/post/5db5cf2e6fb9a02074738b25</a> [ from 鹏程 ]
+</li>
+
+<li>[ 190428 ] Git操作中crlf和lf冲突问题 <a href="https://www.cnblogs.com/dahe1989/archive/2019/04/28/10784581.html">https://www.cnblogs.com/dahe1989/archive/2019/04/28/10784581.html</a> [ from 红梅 ]
+</li>
+
+<li>[ 191027 ] 对document.readyState和DOMContentLoaded的新认识: <a href="https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/?from=timeline&amp;isappinstalled=0">https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/?from=timeline&amp;isappinstalled=0</a> [ from 海萍 ] 
+</li>
+
+<li>document.readyState有3种状态loading， interactive和complete
+</li>
+
+<li>loading状态时，绑定DOMContentLoaded事件才能触发
+</li>
+
+<li>js入口文件放到body底部时，不需要再$(document).ready()
+</li>
+
+<li>[ 190114 ] 常见的CSS图形绘制合集 <a href="https://www.zhangxinxu.com/wordpress/2019/01/pure-css-shapes/">https://www.zhangxinxu.com/wordpress/2019/01/pure-css-shapes/</a> [ from 海萍 ]
+</li>
+
+<li>[ 191013 ] 耐人寻味的CSS属性white-space <a href="https://segmentfault.com/a/1190000020669781">https://segmentfault.com/a/1190000020669781</a> [ from 子哲 ]
+</li>
+
+<li>
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 新鲜货
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 191028 ] 了解JavaScript新特性：Optional Chaining <a href="https://mp.weixin.qq.com/s/PC1C8ZcpgbSfzNL1N-Z10A">https://mp.weixin.qq.com/s/PC1C8ZcpgbSfzNL1N-Z10A</a> [ from 思源 ]
+</li>
+
+<li>[ 191022 ] Node v13.0.0 <a href="https://nodejs.org/en/blog/release/v13.0.0/">https://nodejs.org/en/blog/release/v13.0.0/</a> [ from 学聪 ]
+</li>
+
+<li>[ 191101 ] [译] Node.js 12 新特性将颠覆 AI、物联网等更多惊人领域 <a href="https://juejin.im/post/5dbb8d70f265da4d12067a3e">https://juejin.im/post/5dbb8d70f265da4d12067a3e</a> [ from 文玲 ]
+    <ul>
+
+    <li>多线程趋向稳定
+    </li>
+
+    <li>支持ES模块
+    </li>
+
+    <li>装载新版V8引擎
+    </li>
+
+    <li>支持HTTP/2
+    </li>
+
+    </ul>
+
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 手册
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 160613 ] 正则表达式前端使用手册 <a href="http://louiszhai.github.io/2016/06/13/regexp/">http://louiszhai.github.io/2016/06/13/regexp/</a> [ from 晓朋 ]
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 工具
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 191022 ] Electron 7.0 Released <a href="https://electronjs.org/blog/electron-7-0">https://electronjs.org/blog/electron-7-0</a> [ from 红梅 ]
+</li>
+
+<li>[ 180201 ] immer.js 简介及源码简析：更简单，更快速的创建不可变数据类型 <a href="https://zhangzhao.name/posts/immer-immutable/">https://zhangzhao.name/posts/immer-immutable/</a> [ from 明成 ]
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 体系建设
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 191016 ] 漫谈 Typescript 研发体系建设 <a href="https://mp.weixin.qq.com/s/qcvh9M6xhSm3I8jalxxfVg">https://mp.weixin.qq.com/s/qcvh9M6xhSm3I8jalxxfVg</a> [ from 陈荣 ]
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 资讯
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 191101 ] 卸载、抵制Notepad++ <a href="https://mp.weixin.qq.com/s/P9XR5LZigDkoZYr8Pgqn0Q">https://mp.weixin.qq.com/s/P9XR5LZigDkoZYr8Pgqn0Q</a> [ from 建中 ]
+</li>
+
+</ul>
+
+<blockquote>
+
+<p> 其他
+</p>
+
+</blockquote>
+
+<ul>
+
+<li>[ 191101 ] QQ红包 | 趣味新玩法是怎么设计的？<a href="https://isux.tencent.com/articles/qq-red-envelope.html">https://isux.tencent.com/articles/qq-red-envelope.html</a> [ from 良辰 ]从'一个顶俩'说起，介绍qq红包的新设计与优化
+</li>
+
+<li>[ 170406 ] 大数据行业目前的问题和四大盈利模式 <a href="https://www.jianshu.com/p/7ea590f0ee1e">https://www.jianshu.com/p/7ea590f0ee1e</a> [ from 君毅 ]
+    <ul>
+
+    <li>数据源获取困难，数据归属和隐私悖论，无直接商业模式，变现困难等问题是摆在大数据行业前面的难题
+    </li>
+
+    </ul>
+
+</li>
+
+</ul>
+</body>
+</html>
+<script src="http://258i.com/docs/markdown_res/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://258i.com/static/build/clipboard.js/clipboard.min.js"></script>
+<script src="http://258i.com/docs/markdown_res/js/scrollspy.js?v=clipboard-anchor-info-when-shift-key"></script>
+<script src="http://258i.com/docs/markdown_res/js/lazyload.min.js"></script>
+<script src="http://258i.com/docs/markdown_res/js/augment.js"></script>
+<script src="http://258i.com/static/bower_components/dom-text-search/build/dts_full.js"></script>
+<script>
+( function() {
+
+document.title = $('h1').html() || '无标题文档';
+$( '.lazy' ).lazyload( {
+    data_attribute: 'url'
+    // , effect : "fadeIn"
+} );
+
+} )();
+</script>
+

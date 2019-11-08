@@ -14,20 +14,33 @@
 	* 使用 content: attr(data-tip)实现自定义的悬浮提示效果
 	* 使用 content: counter(item)实现计数器
 	* Counter-reset 属性
- 	* Counter-increment
+	*  Counter-increment
 	* 使用 content: counters(item, string)实现复杂的列表嵌套的序号问题
+
+* 【 纯css实现的油画效果，在chrome下是很完美的，别的浏览器看起来呈现出有趣的效果 ] <https://diana-adrianne.com/purecss-lace/> [ from 红梅 ]
+* [ 你应该知道的折叠屏收集适配 ] <https://juejin.im/post/5dc4cc0bf265da4d525fdcdb> [ from 文玲 ]
+    * 响应式设计9项基本原则
+    * 折叠屏常见适配问题
 
 > 框架&库
 
 * [ 打造高品质Axure组件库，就是这么简单！ ] <http://www.woshipm.com/rp/779504.html> [ from 学聪 ]
+* [ SWR - React Hooks for Remote Data Fetching：]<https://swr.now.sh> [ from 君毅 ]
+	* SWR is a React Hooks library for remote data fetching. With SWR, components will get a stream of data updates constantly and automatically, Thus, the UI will be always fast and reactive
 
-> 成长
+> 方法论
 
+* [ 降低软件复杂性的一般原则和方法 ]<https://mp.weixin.qq.com/s/-Gu_XkY2bZq9Lf2ZCJZPtQ> [ from 晓朋 ]
 * [ 玉伯：我的前端成长之路 ] <https://www.yuque.com/yubo/morning/grow-up-at-alibaba> [ from 学聪 ]
+* [ 重构：代码命名之逆袭女神 ] <https://juejin.im/post/5db94780e51d452a34438f43>[ from 子哲 ] 
 
 > 资讯
 
+* [ 现代 Web 开发的现状与未来（JSDC 2019 演讲全文）]<https://zhuanlan.zhihu.com/p/88616149> [ from 良辰 ]
 * [ 研究估计五成 WebAssembly 网站将其用于恶意目的 ] <https://dwz.cn/uGYE2Gvc> [ from 大民 ]
+* [ Edge新的Logo，不再像ie浏览器 ] <https://www.theverge.com/2019/11/2/20944341/microsoft-edge-chromium-browser-logo-icon-wave-surf-new> [ from 红梅 ]
+* [ 最近程序员频繁被抓，如何避免面向监狱编程！？] <https://juejin.im/post/5db64bc7f265da4d0c1747d3> [ from 文玲 ]
+* [ OpenJS 基金会推出两个 Node.js 证书，只要通过考试就能拿到。以后，JavaScript 开发也有考证了。] <https://openjsf.org/blog/2019/10/22/openjs-foundation-launches-new-professional-certification-program-to-support-the-future-of-node-js-development/> [ from 建中 ]
 
 ## 191020-191026
 
