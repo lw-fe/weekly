@@ -21,18 +21,24 @@
 * [ 你应该知道的折叠屏收集适配 ] <https://juejin.im/post/5dc4cc0bf265da4d525fdcdb> [ from 文玲 ]
     * 响应式设计9项基本原则
     * 折叠屏常见适配问题
+* [ 2019年，是否可以抛弃 CSS 预处理器？ ] <https://dwz.cn/rYjoP0Z3> [ from 海萍 ]
 
 > 框架&库
 
 * [ 打造高品质Axure组件库，就是这么简单！ ] <http://www.woshipm.com/rp/779504.html> [ from 学聪 ]
 * [ SWR - React Hooks for Remote Data Fetching：]<https://swr.now.sh> [ from 君毅 ]
 	* SWR is a React Hooks library for remote data fetching. With SWR, components will get a stream of data updates constantly and automatically, Thus, the UI will be always fast and reactive
+* [ React推出并发模式：可中断渲染、指定加载顺序、并行处理多状态 ] <https://mp.weixin.qq.com/s/dYnARPfMptj1-iHL9HAjug>[ from 思源 ]
 
 > 方法论
 
 * [ 降低软件复杂性的一般原则和方法 ]<https://mp.weixin.qq.com/s/-Gu_XkY2bZq9Lf2ZCJZPtQ> [ from 晓朋 ]
 * [ 玉伯：我的前端成长之路 ] <https://www.yuque.com/yubo/morning/grow-up-at-alibaba> [ from 学聪 ]
 * [ 重构：代码命名之逆袭女神 ] <https://juejin.im/post/5db94780e51d452a34438f43>[ from 子哲 ] 
+
+> 人工智能 & 大数据
+
+* [ 你所不知道的 AI 进展 ] <http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html> [ from 明成 ]
 
 > 资讯
 
