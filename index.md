@@ -2,6 +2,44 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+
+## 191111-191116
+
+`本周轮值主编`: 学聪 `下周轮值主编`:  鹏程
+
+* [ 20191115 ] 浅谈 React/Vue在 DOM Diff 算法上的异同<http://www.imooc.com/article/295545>[ from 正杰 ]
+* [ 20191115 ]  snyk发布了JavaScript 框架状态安全报告2019 <https://snyk.io/blog/javascript-frameworks-security-report-2019/  https://cloud.tencent.com/developer/article/1539159>[ from 红梅 ]
+  * Angular vs. React 核心项目安全
+  * Angular vs. React模块生态系统安全性
+  * Angular vs. React 安全态势
+  * 前端生态系统安全性
+* [ 190628 ] 用户的常见认知偏误 <https://jdc.jd.com/archives/212987>[ from 良辰 ]
+* [ 191108 ] 商业感觉不好，我是不是没救了？<https://mp.weixin.qq.com/s/frw-Wkhty1rpG9cz0x6zGg>[ from 君毅 ]
+  * 深入到人民中去，带着人民币回来
+* [ 191115 ] videoconverter.js：<https://bgrins.github.io/videoconverter.js/>[ from 君毅 ]
+  * videoconverter.js is a program that lets you process videos in your browser.
+* [ 191115 ] 我来了我来了我又来了~可能是最全的 “文本溢出截断省略” 方案合集啦<https://juejin.im/post/5dc15b35f265da4d432a3d10#heading-3>[ from 子哲 ]
+* [ 191115 ] 文章生成器 <https://suulnnka.github.io/BullshitGenerator/index.html>[ from 建中 ]
+* [ 191115 ] 现代JavaScript实践：ECMAScript简史和JavaScript的未来<https://segmentfault.com/a/1190000010074709#articleHeader2>[ from 晓鹏 ]
+* [ 191115 ] 重构复杂的 React 组件：编写高效且可读组件的 5 个最佳实践<https://www.infoq.cn/article/Ry4IcKy5CRB1PoKVi0qL> [ from 明成 ]
+* [ 191114 ] 你真的了解字体吗？ <https://mp.weixin.qq.com/s/ZwLzXjUFYBiAfN50_52dqw> [ from 思源 ]
+* [ 191115 ] web 动画作品集合 <https://github.com/chokcoco/css3-> [ from 文玲 ]
+    * css3 3D行星运转<http://chokcoco.github.io/demo/css3demo/html/exampleSolarSystem.html>
+    * 使用单标签完成各种图案<http://chokcoco.github.io/magicCss/html/index.html>
+    * 圆锥渐变实现酷炫光影效果 <https://codepen.io/Chokcoco/pen/gRRdQq>
+    * font-variation-settings 文字动画<https://codepen.io/Chokcoco/pen/oMrWJB>
+    * 3D数字计数<https://codepen.io/Chokcoco/pen/qXVxyw>
+    * CSS 实现意想不到的按钮效果<https://codepen.io/Chokcoco/pen/MGPwLg>
+    * 纯 CSS 实现文字输入效果 <https://codepen.io/Chokcoco/pen/WXGoGB>
+* [ 191115 ] [如何写出 point free 风格的代码](https://lambda.academy/clean-code-with-ramda/) [ from 陈荣 ]
+  `point free` 就是脱离数据的代码风格。通过做到 `point free`，我们做到了行为和数据的分离，这利于我们写出更安全（组合行为时没有副作用），更易扩展（脱离数据的逻辑容易复用），和更易理解（读高阶函数的组合就像读普通英文一样）的代码。
+* [ 191114 ]node http HPE_UNEXPECTED_CONTENT_LENGTH [ from 学聪 ]
+  > reaseon: Content-Length can't be present with chunked encoding
+  [Transfer-Encoding](https://blog.csdn.net/u014569188/article/details/78912469)
+  [node http module commit log](https://github.com/nodejs/node/commit/375f35514c51fa603dae9fac86bb61c0503cb678)
+  ***the server is sending both a Content-Length header and a Transfer-Encoding: chunked header, which is a violation of the HTTP spec.***
+
 ## 191104-191109
 
 `本周轮值主编`: 晓朋 `下周轮值主编`: 学聪 
