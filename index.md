@@ -6,6 +6,44 @@
 
 `本周轮值主编`: 君毅 `下周轮值主编`:  红梅
 
+> 运维
+* [ 191122 ] 写给前端工程师的 docker 简易入门 <https://juejin.im/post/5dd72b16e51d45351409073d> [ from 文玲 ]
+  * docker client: 即 docker 命令行工具
+  * docker host: 宿主机，docker daemon 的运行环境服务器
+  * docker daemon: docker 的守护进程，docker client 通过命令行与 docker daemon 交互
+  * container: 最小型的一个操作系统环境，可以对各种服务以及应用容器化
+  * image: 镜像，可以理解为一个容器的模板配置，通过一个镜像可以启动多个容器
+  * registry: 镜像仓库，存储大量镜像，可以从镜像仓库拉取和推送镜像
+
+> 开源
+* [ 191122 ] strapi，Open source Node.js Headless CMS to easily build customisable APIs <https://github.com/strapi/strapi/> Headless CMS 是一种设用于小微企业的业
+务'中台'解决方案。通过Strapi 我们可以快速搭建简单的外围业务模型, 复用通用的服务和插件 [ from 文玲 ]
+  * 可视化、快速的业务模型创建。类似创建数据库模型（数据库无关），可以灵活地配置各种字段类型(除了原始类型、还支持邮箱、文件上传)以及模型关系。
+  * 暴露规范的接口。支持 Restful 和 GraphQL。内置支持排序、分页、过滤、自动生成文档
+  * 内置权限控制系统。角色、JWT 鉴权
+  * 轻松集成内部系统。可以灵活地与自己的内部系统对接
+  * 扩展性。插件系统
+
+> 工具
+* [ 191112 ] 运行 JavaScript 代码片段的 20 种工具 <http://xlbd.me/20-kind-of-tools-to-run-javascript> [ from 海萍 ]
+  * 如果想运行一段代码得到测试结果，最快的方式会选用浏览器控制台，因为浏览器就是最棒的工具
+  * 如果想要写一个 demo 放在博客上，我会选择 jsfiddle、codepen、codesandbox，这里提供了写demo需要的一切
+  * 如果想分享漂亮的代码片段，我会使用 Carbonize 生成一张图片，就像博文开头的那张图片
+* [ 191123 ] < css-doodle/>一个用于使用CSS绘制图案的Web组件 <https://css-doodle.com/> [ from 正杰 ]
+  * The component will generate a grid of divs by the rules (plain CSS) inside it. You can easily manipulate those cells using CSS to come up with a graphic pattern or an animated graph
+
+> 干货
+* [ 191121 ] 前端智能漫谈-写给前端的AI白皮书 <https://mp.weixin.qq.com/s/dXjrsR8DSWo1DmDlhw91jA> [ from 君毅 ]
+  * 本文从4各部分(第三方接口、重头训练一个模型、使用成熟模型、再次训练)来介绍了前端应用人工智能的方法
+* [ 191122 ]  双11模块79.34%的前端代码是怎样智能生成的？ <https://mp.weixin.qq.com/s/hl8mPVQi2vV0WSUIOaAhPw> [ from 晓鹏 ]
+  * 本文将通过阿里的实践案例解答了 D2C 如何实现的视图代码和部分逻辑代码的自动生成
+* [ 191122 ] 在 React 中使用 TypeScript <https://www.infoq.cn/article/G9HJfXzzWqsPdrqcwt4A> [ from 明成 ]
+  * TypeScript 是什么
+  * 如何在 React 使用它
+  * 为何或为何不使用它
+* [ 191121 ] 黄轶：如何成为公司独当一面的工程师 <https://mp.weixin.qq.com/s/ip2bdYEnTuZo00eyiKo1Yg> [ from 思源 ]
+  * 从技术能力和业务能力 2 个方面阐述了如何成长为独当一面的工程师
+
 > 资讯
 * [ 191112 ] 苹果试图“杀死”Web 技术 <https://www.infoq.cn/article/luANFB6epLu0xREgJJ9S> [ from 君毅 ]
   * 给开发人员在苹果平台上使用基于 Web 技术构建应用的做法设下重重障碍，最终逼迫这些开发者退缩
@@ -17,6 +55,10 @@
   * 不能只写代码，对于领域的把握、资深的认知不能缺失
   * 做技术只需管好自己一个人，做管理更多的是管好他人
   * 女性程序员应该更自信，敢于表达，要勇于挑战别人对你不行的偏见
+* [ 191016 ] 除了大兴机场，她还给中国留下了哪些奇迹 <https://mp.weixin.qq.com/s/gVzRCmyrd2b74krhBpYD1w> [ from 子哲 ]
+  * 由扎哈·哈迪德及其团队设计的中国明星建筑，感受它们给我们带来的视觉冲击与美感
+* [ 191117 ] 专访曾鸣：下沉是中国过去创新模式的最后一次爆发，往后大家都得做更辛苦的事 <https://mp.weixin.qq.com/s/3MZ05tX6cT-HuJahPG_IpA> [ from 建中 ]
+  * 面向未来，现在的创业者们首先应该调整预期，因为“容易挣的钱，肯定是没了。往后大家都得做更辛苦的事
 
 ## 191111-191116
 
