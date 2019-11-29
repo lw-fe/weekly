@@ -2,6 +2,36 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191125-191130
+
+`本周轮值主编`: 红梅 `下周轮值主编`:  思源
+
+> 最佳实践
+
+* [ 191115 ] 蚂蚁前端研发最佳实践 <https://mp.weixin.qq.com/s/BlbXnt-TRGxQwklV87IkzA> [ from 良辰 ]
+
+> 开源
+* [ 191129 ] antV G6 Graphin 图的分析洞察 <https://github.com/antvis/graphin>
+            <https://antv-graphin.gitee.io/zh/GraphinStudio>  [ from 鹏程 ]
+
+> 干货
+* [ 190313 ] 为什么你学不会递归？告别递归，谈谈我的一些经验：<https://mp.weixin.qq.com/s/mJ_jZZoak7uhItNgnfmZvQ>
+    * 作者总结了一份递归三大要素，用于简化递归的使用方法 [ from 君毅 ]
+
+* [ 191129 ] 大多数前端工程师了解但并不擅长的HTML语义化 <https://juejin.im/post/5de090ae6fb9a0718d4cb039> [ from 红梅 ]
+* [ 191129 ] 几个不错的console调试技巧 <https://juejin.im/post/5ddd373cf265da05d7582ce8> [ from 红梅 ]
+
+> 科普
+* [ 191129 ] 硬核科普：屏幕到底是怎么显示出画面的？ <https://weibo.com/2214257545/IitxMmcX0> [ from 明成 ]
+    * CRT vs LCD vs OLED
+
+> 资讯
+* [ 191129 ] The Firefox UI is now built with Web Components <https://briangrinstead.com/blog/firefox-webcomponents/>  [ from 建中 ]
+
+> 新鲜货
+* [ 191129 ] 在前端 Word 还能这样玩 <https://segmentfault.com/a/1190000021111457> [from 思源]
+    * 纯前端 Word 解析并提取 Word 中的图片
+
 ## 191118-191123
 
 `本周轮值主编`: 君毅 `下周轮值主编`:  红梅
