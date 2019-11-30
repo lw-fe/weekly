@@ -22,6 +22,7 @@
 * [ 191129 ] 几个不错的console调试技巧 <https://juejin.im/post/5ddd373cf265da05d7582ce8> [ from 红梅 ]
 * [ 191129 ] 动画: 一个浏览器是如何工作的 <https://juejin.im/post/5de0e4dfe51d45359c14e1af>
     * 图解浏览器工作原理：DNS解析、TCP连接、HTTP请求、构建DOM树、构建CSSOM树、生成渲染树、合成绘制 [ from 文玲 ]
+* [ 191129 ] 为什么Vue3.0不再使用defineProperty实现数据监听？<https://mp.weixin.qq.com/s/O8iL4o8oPpqTm4URRveOIA>  [ from 正杰 ]
 
 > 科普
 * [ 191129 ] 硬核科普：屏幕到底是怎么显示出画面的？ <https://weibo.com/2214257545/IitxMmcX0> [ from 明成 ]
