@@ -2,6 +2,22 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191202-191206
+
+`本周轮值主编`: 海萍(思源请假，暂代) `下周轮值主编`: 思源
+
+> 技巧
+
+* [ 191206 ] 你可能不知道的15个 Git 命令  <https://segmentfault.com/a/1190000021190289>
+   * git checkout - 可快速切换到上一分支
+
+> 新特性
+* [ 191206 ] An Introduction to the Picture-in-Picture Web API <https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/>
+  * Chrome supports a ‘picture-in-picture’ mechanism for creating floating video windows that continue to play even if a user navigates to a different page. Firefox and Safari have support via proprietary APIs too.
+
+
+
+
 ## 191125-191130
 
 `本周轮值主编`: 红梅 `下周轮值主编`:  思源
