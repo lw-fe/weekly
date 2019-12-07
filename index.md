@@ -21,13 +21,13 @@
   
 
 > 新特性
-* [ 191206 ] An Introduction to the Picture-in-Picture Web API <https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/> [from 君毅]
+* [ 191206 ] An Introduction to the Picture-in-Picture Web API <https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/> [from 红梅]
   * Chrome supports a ‘picture-in-picture’ mechanism for creating floating video windows that continue to play even if a user navigates to a different page. Firefox and Safari have support via proprietary APIs too.
 
 * [ 191203 ] 你即将使用的ES2020新功能  <https://juejin.im/post/5de76f076fb9a0165c710049>  [from 子哲]
 
 > 资讯
-* [ 191202 ] Saying goodbye to Flash in Chrome <https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/> [from 红梅]
+* [ 191202 ] Saying goodbye to Flash in Chrome <https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/> [from 君毅]
    * Adobe announced its plans to stop supporting Flash at the end of 2020
 
 > 心得   
