@@ -6,16 +6,32 @@
 
 `本周轮值主编`: 海萍(思源请假，暂代) `下周轮值主编`: 思源
 
-> 技巧
+> 知识点
 
-* [ 191206 ] 你可能不知道的15个 Git 命令  <https://segmentfault.com/a/1190000021190289>
+* [ 191206 ] 你可能不知道的15个 Git 命令  <https://segmentfault.com/a/1190000021190289>  [from 海萍]
    * git checkout - 可快速切换到上一分支
+* [ 191206 ] 你真的懂package.json吗 <https://juejin.im/post/5dea1095e51d4558083322e2> [from 文玲]
+* [ 191204 ] 状态管理之 Flux、Redux、Vuex、MobX（概念篇） <https://juejin.im/post/5de77800518825125503ec27> [from 文玲]
+
+> 最佳实践
+
+* [ 191106 ] React + Typescript 工程化治理实践 <https://github.com/ProtoTeam/blog/blob/master/201911/2.md> [from 君毅]
+   * 本文是对一次 React + TypeScript 组件的工程化治理过程所做的总结。如果你的项目也是 React + TypeScript 组件，并且会发布为 NPM package 给其他人使用，那本文应该可以为工程化方面的建设提供一些参考
+* [ 191206 ] redux 官方指导，包含推荐模式，最佳实践和建议 <https://redux.js.org/style-guide/style-guide> [from 良辰]
+  
 
 > 新特性
-* [ 191206 ] An Introduction to the Picture-in-Picture Web API <https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/>
+* [ 191206 ] An Introduction to the Picture-in-Picture Web API <https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/> [from 君毅]
   * Chrome supports a ‘picture-in-picture’ mechanism for creating floating video windows that continue to play even if a user navigates to a different page. Firefox and Safari have support via proprietary APIs too.
 
+* [ 191203 ] 你即将使用的ES2020新功能  <https://juejin.im/post/5de76f076fb9a0165c710049>  [from 子哲]
 
+> 资讯
+* [ 191202 ] Saying goodbye to Flash in Chrome <https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/> [from 红梅]
+   * Adobe announced its plans to stop supporting Flash at the end of 2020
+
+> 心得   
+* [191202] 别让自己“墙”了自己 <https://coolshell.cn/articles/20276.html> [from 思源]
 
 
 ## 191125-191130
