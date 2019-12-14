@@ -4,7 +4,7 @@
 
 ## 191209-191214
 
-> 咨询  
+> 资讯
 
 * [ 191210 ] 2019年前端大事件回顾：流年笑掷，未来可期 <https://juejin.im/post/5def782ce51d4558181d27ce> [from 文玲]
     * 关键词：WebAssembly, GraphQL, Typescript, Css-In-JS, Flutter, Svelte, Deno, AR/VR, 容器化
