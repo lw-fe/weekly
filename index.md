@@ -2,6 +2,36 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191209-191214
+
+> 咨询  
+
+* [ 191210 ] 2019年前端大事件回顾：流年笑掷，未来可期 <https://juejin.im/post/5def782ce51d4558181d27ce> [from 文玲]
+    * 关键词：WebAssembly, GraphQL, Typescript, Css-In-JS, Flutter, Svelte, Deno, AR/VR, 容器化
+
+> 干货
+
+* [ 191211 ] Webpack HMR 原理解析 <https://zhuanlan.zhihu.com/p/30669007> [from 思源]
+* [ 191213n] chrome插件开发详细教程 <https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html> [ from 晓鹏 ]
+* [ 191213 ] React Hooks: Memoization：https://juejin.im/post/5d58ef09e51d456206115a02 [ from 君毅 ]
+    * 介绍了对性能有要求或追求的开发者更好地利用hooks的一些tips
+* [ 191213 ] ：高质量前端快照方案：来自页面的「自拍」 https://juejin.im/post/5df2e8ab6fb9a0163770816d [ from 红梅 ]
+    * 基础方案 html2canvas  canvas2image
+    * 几种情况资源跨域、内容未加载完、滚动问题带来的内容不完整如何解决的
+    * 清晰度如何优化
+    * 转换的效率如何提升
+* [ 191212 ] 赏心悦目一下：最佳色彩搭配组合 <https://mp.weixin.qq.com/s/NrTbvD5vKelS1YUnaqfwJw> [ from 海萍 ]
+* [ 191205 ] https://tgideas.qq.com/gicp/news/475/8882405.html [ from 良辰 ]
+    * 表单体验优化建议
+
+
+> 工具
+
+* [ 191211 ] Webpack Bundle Analyzer <https://github.com/webpack-contrib/webpack-bundle-analyzer>
+* [ 191206 ] Firefox Web Replay - 前端开发者的未来利器：https://mp.weixin.qq.com/s/rAt6lobXvnkp01CFLYg6DA [ from 君毅 ]
+    * Firefox Web Replay可以录制Firefox标签页上的行为，并进行重放。这里所说的重放，可不是简单的视觉上的重放，而是高保真的。JavaScript、DOM和CSS的行为都可以精准的重放
+
+
 ## 191202-191206
 
 `本周轮值主编`: 海萍(思源请假，暂代) `下周轮值主编`: 思源
