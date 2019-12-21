@@ -2,6 +2,21 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191215-191221
+
+`本周轮值主编`: 良辰 `下周轮值主编`: 文玲
+
+* [ 191219 ] 关于React Hooks和Immutable性能优化的实践 <https://juejin.im/post/5dfa3c65f265da33b47c87bf>  from [文玲]
+    immutable 对象数据内部采用是多叉树的结构，凡是有节点被改变，那么它和与它相关的所有上级节点都更新
+* [ 191206 ] 2020潘通年度流行色 「经典蓝」新鲜出炉！（附配色方案）：https://www.uisdc.com/2020-classic-blue from [君毅]
+    9 套适合进行数字设计的配色方案，并且标注上了相应的 HEX 值便于精准取色，请尽情取用
+* [ 191212 ] 面试完50个人后我写下这篇总结 <https://juejin.im/post/5df1e312f265da33d039d06d> css、js、vue、浏览器相关知识点总结 from [文玲]
+* [ 191218 ] code clean JavaScript https://github.com/alivebao/clean-code-js from [思源]
+* [ 191214 ] 我收集了 12 款自动生成器，效果太逆天！from [子哲]
+    https://mp.weixin.qq.com/s?__biz=MzA5MzY4NTQwMA==&mid=2651015300&idx=1&sn=afdb4762f77eb1b75937785690a12437
+* [ 191217 ] ant-v柱状图优化 from [良辰]
+    https://juejin.im/post/5df894ca518825123509446d
+
 ## 191209-191214
 
 `本周轮值主编`: 思源 `下周轮值主编`: 良辰
