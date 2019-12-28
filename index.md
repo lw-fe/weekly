@@ -2,6 +2,37 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191223-191228
+
+`本周轮值主编`: 文玲 `下周轮值主编`: 晓朋
+
+> 干货
+* [ 191226 ] 解密国内BAT等大厂前端技术体系-完结篇<https://juejin.im/post/5e02c0896fb9a0160770ae9e> 大前端建设脉络：基础设施、服务层、应用层、UI组件库、小程序、跨 >平台动态化、工程智能化 [ from 文玲 ]
+* [ 191223 ] Node.js入门指南和实践<https://juejin.im/post/5e0006c251882512795675f9> 13个基础核心模块 [ from 文玲 ]
+* [ 191225 ] 用60行代码实现一个高性能的圣诞抽抽乐H5小游戏 <https://juejin.im/post/5e02cddf518825125015fd2f> [ from 文玲 ]
+* [ 191227 ] 令人期待的 JavaScript 新特性 <https://mp.weixin.qq.com/s/5Fm2p2sKUBd5Ub4LCzLr1w> [ from 红梅 ]
+    * 类的私有变量
+    * 可选链操作符
+    * 空位合并操作符
+    * BigInt
+    * static字段
+    * Top-level await
+    * WeekRef
+* [ 191222 ] CSS flex属性深入理解 <https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/> [ from 晓朋 ]
+* [ 191225 ] 72个炫酷的CSS技巧 <https://juejin.im/post/5e033c946fb9a0164b4ef360> [ from 子哲 ]
+* [ 191219 ] 身为前端，你不得不懂的一些HTTP知识：<https://dwz.cn/7LupIalP> [ from 君毅 ]
+    * netcat、ss、lsof命令的使用
+    * tcp协议的三次握手和四次挥手
+    * udp协议的基本表现过程以及icmp报文发送的原因
+    * tcpdump、nc命令的使用
+    * 三道关于TCP/IP协议的面试题答案
+
+> 资讯
+* [ 191226 ] 2019 年 JavaScript 生态圈调查报告出炉！<https://mp.weixin.qq.com/s/TPfSXJX8Ml4xCCbjehX5Wg> [ from 良辰 ]
+
+> 其他
+* [ 191220 ] 你绝对想不到柱形图背后有这么多故事 <https://github.com/ProtoTeam/blog/blob/master/201912/1.md> [ from 思源 ]
+
 ## 191215-191221
 
 `本周轮值主编`: 良辰 `下周轮值主编`: 文玲
