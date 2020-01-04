@@ -2,6 +2,38 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 191230-20200104
+
+`本周轮值主编`: 晓朋 `下周轮值主编`: 学聪
+
+> 干货
+
+* [ 200103 ] 图解 JavaScript 垃圾回收 — 现代 JavaScript 教程 <https://juejin.im/post/5e0ddc24f265da5d1805ee6f>  [from 文玲]
+    * 垃圾回收是自动完成的，我们不能强制执行或是阻止执行。
+    * 当对象是可达状态时，它一定是存在于内存中的。
+    * 被引用与可访问（从一个根）不同：一组相互连接的对象可能整体都不可达。
+
+* [ 200101 ] 10行代码看尽redux原理 —— 全面剖析redux | react-redux | redux中间件设计实现 <https://juejin.im/post/5def4831e51d45584b585000> [from 文玲]
+* [ 20191128 ] 那些欲罢不能的实用工具：https://isux.tencent.com/articles/design-tools.html  [from 君毅]
+  * Magica Voxel 一款快速进行体素建模的3D设计软件，无需任何3D软件基础，像玩游戏一样，类似 Minecraft的操作，体积小巧，免费开源，通过内置的光影引擎，可以快速输出绚丽夺目的 3D作品
+  * IconMonstr 可以很方便地在线设置图标颜色、图标格式，一键下载
+  [ 20191225 ] 2019年度交互总结：https://mp.weixin.qq.com/s/xaLK-ZgKAg0kU_eMdtOxsw
+  * 透过一些产品的设计，回顾了2019年交互设计的趋势
+
+* [ 20191220 ]  腾讯开源内部跨端框架 Hippy，打磨三年，日均 PV 过亿<https://zhuanlan.zhihu.com/p/98945706>
+
+* [ 20200103  ] 基于 CSS3 Animation 使用 React 构建的弹幕组件  <https://github.com/zerosoul/rc-bullets>  [from 海萍]
+   * 管理弹幕：暂停、隐藏、清屏等
+   * 设置弹幕：速度、循环次数、延迟播放、自定义动画类型等 
+
+* [20200101] web性能监控相关知识点 http://www.alloyteam.com/2020/01/14184/ [from 良辰]
+
+> 资讯
+
+* [200103]就在几天前，听说用了 YYYY-MM-dd 的程序员，都在加班改 Bug ! https://mp.weixin.qq.com/s/uKjLwNU9UFZk83YhiTWnVQ [from 思源]
+* [20200103] 阿里云杜欢：云上Serverless开发能力将成为前端的“金手指” https://mp.weixin.qq.com/s/mAqxyk4U1YSrwohwPQE3PQ [from 红梅]
+* [20200103] 浏览器中原生运行的第四种语言诞生：WebAssembly 1.0 成为 W3C 的推荐标准 https://mp.weixin.qq.com/s/oDjMsrH5k6ufd1Zpron7vA [from 红梅]
+
 ## 191223-191228
 
 `本周轮值主编`: 文玲 `下周轮值主编`: 晓朋
