@@ -10,8 +10,9 @@
 * [20200111] 第 4 种 Web 语言来了：WebAssembly：15 篇前端热文回看！<https://mp.weixin.qq.com/s/JHv6w4TRyjBq6gzzX7oRSQ> [from 文玲]
 * [20200111] 如何答一道惊艳面试官的数组去重问题？<https://mp.weixin.qq.com/s/jJDdFMGSKlqaK_nXAjWULA> [from 文玲]
 * [20200109] 美团开源Logan Web：前端日志在Web端的实现 <https://mp.weixin.qq.com/s/j_8_kSQ4BrYR-UzIEIEIbw> [from 思源]
-* [20200111] redux的state树应该如何设计？ [https://www.zhihu.com/question/50888321] [from 学聪]
-
+* [20200111] redux的state树应该如何设计？ <https://www.zhihu.com/question/50888321> [from 学聪]
+* [ 20200103 ] 程序员"转行"项目经理的二三事：<https://mp.weixin.qq.com/s/EUNmjGbv6DlRFLU03p5A8A> [from 君毅]
+    * 一个程序员以项目经理(PM)角色负责落地一个港口的金融项目的经验分享
 
 ## 191230-20200104
 
