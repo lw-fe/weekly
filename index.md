@@ -2,6 +2,17 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 20200106-20200111
+
+`本周轮值主编`: 学聪 `下周轮值主编`: 鹏程
+
+* [20200111] C 是 2019 年度编程语言！<https://mp.weixin.qq.com/s/vR8yF_lRIvgEhEZDhkDk7A> [from 文玲]
+* [20200111] 第 4 种 Web 语言来了：WebAssembly：15 篇前端热文回看！<https://mp.weixin.qq.com/s/JHv6w4TRyjBq6gzzX7oRSQ> [from 文玲]
+* [20200111] 如何答一道惊艳面试官的数组去重问题？<https://mp.weixin.qq.com/s/jJDdFMGSKlqaK_nXAjWULA> [from 文玲]
+* [20200109] 美团开源Logan Web：前端日志在Web端的实现 <https://mp.weixin.qq.com/s/j_8_kSQ4BrYR-UzIEIEIbw> [from 思源]
+* [20200111] redux的state树应该如何设计？ [https://www.zhihu.com/question/50888321] [from 学聪]
+
+
 ## 191230-20200104
 
 `本周轮值主编`: 晓朋 `下周轮值主编`: 学聪
@@ -24,7 +35,7 @@
 
 * [ 20200103  ] 基于 CSS3 Animation 使用 React 构建的弹幕组件  <https://github.com/zerosoul/rc-bullets>  [from 海萍]
    * 管理弹幕：暂停、隐藏、清屏等
-   * 设置弹幕：速度、循环次数、延迟播放、自定义动画类型等 
+   * 设置弹幕：速度、循环次数、延迟播放、自定义动画类型等
 
 * [20200101] web性能监控相关知识点 http://www.alloyteam.com/2020/01/14184/ [from 良辰]
 
@@ -128,7 +139,7 @@
 * [ 191106 ] React + Typescript 工程化治理实践 <https://github.com/ProtoTeam/blog/blob/master/201911/2.md> [from 君毅]
    * 本文是对一次 React + TypeScript 组件的工程化治理过程所做的总结。如果你的项目也是 React + TypeScript 组件，并且会发布为 NPM package 给其他人使用，那本文应该可以为工程化方面的建设提供一些参考
 * [ 191206 ] redux 官方指导，包含推荐模式，最佳实践和建议 <https://redux.js.org/style-guide/style-guide> [from 良辰]
-  
+
 
 > 新特性
 * [ 191206 ] An Introduction to the Picture-in-Picture Web API <https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/> [from 红梅]
@@ -264,20 +275,20 @@
     * CSS 实现意想不到的按钮效果<https://codepen.io/Chokcoco/pen/MGPwLg>
     * 纯 CSS 实现文字输入效果 <https://codepen.io/Chokcoco/pen/WXGoGB>
 * [ 191115 ] [如何写出 point free 风格的代码](https://lambda.academy/clean-code-with-ramda/) [ from 陈荣 ]
-  
+
   `point free` 就是脱离数据的代码风格。通过做到 `point free`，我们做到了行为和数据的分离，这利于我们写出更安全（组合行为时没有副作用），更易扩展（脱离数据的逻辑容易复用），和更易理解（读高阶函数的组合就像读普通英文一样）的代码。
 * [ 191114 ]node http HPE_UNEXPECTED_CONTENT_LENGTH [ from 学聪 ]
-  
+
   > reaseon: Content-Length can't be present with chunked encoding
-  
+
   [Transfer-Encoding](https://blog.csdn.net/u014569188/article/details/78912469)
   [node http module commit log](https://github.com/nodejs/node/commit/375f35514c51fa603dae9fac86bb61c0503cb678)
-  
+
   ***the server is sending both a Content-Length header and a Transfer-Encoding: chunked header, which is a violation of the HTTP spec.***
 
 ## 191104-191109
 
-`本周轮值主编`: 晓朋 `下周轮值主编`: 学聪 
+`本周轮值主编`: 晓朋 `下周轮值主编`: 学聪
 
 > css
 
@@ -307,7 +318,7 @@
 
 * [ 降低软件复杂性的一般原则和方法 ]<https://mp.weixin.qq.com/s/-Gu_XkY2bZq9Lf2ZCJZPtQ> [ from 晓朋 ]
 * [ 玉伯：我的前端成长之路 ] <https://www.yuque.com/yubo/morning/grow-up-at-alibaba> [ from 学聪 ]
-* [ 重构：代码命名之逆袭女神 ] <https://juejin.im/post/5db94780e51d452a34438f43>[ from 子哲 ] 
+* [ 重构：代码命名之逆袭女神 ] <https://juejin.im/post/5db94780e51d452a34438f43>[ from 子哲 ]
 
 > 人工智能 & 大数据
 
@@ -329,13 +340,13 @@
 * [ 191029 ] 你能实现多少种水平垂直居中的布局（定宽高和不定宽高）<https://juejin.im/post/5db706d5f265da4d31073959> [ from 正杰 ]
 * [ 191028 ] 200行代码实现前端无痕埋点 <https://juejin.im/post/5db5cf2e6fb9a02074738b25> [ from 鹏程 ]
 * [ 190428 ] Git操作中crlf和lf冲突问题 <https://www.cnblogs.com/dahe1989/archive/2019/04/28/10784581.html> [ from 红梅 ]
-* [ 191027 ] 对document.readyState和DOMContentLoaded的新认识: <https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/?from=timeline&isappinstalled=0> [ from 海萍 ] 
+* [ 191027 ] 对document.readyState和DOMContentLoaded的新认识: <https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/?from=timeline&isappinstalled=0> [ from 海萍 ]
    * document.readyState有3种状态loading， interactive和complete
    * loading状态时，绑定DOMContentLoaded事件才能触发
    * js入口文件放到body底部时，不需要再$(document).ready()
 * [ 190114 ] 常见的CSS图形绘制合集 <https://www.zhangxinxu.com/wordpress/2019/01/pure-css-shapes/> [ from 海萍 ]
 * [ 191013 ] 耐人寻味的CSS属性white-space <https://segmentfault.com/a/1190000020669781> [ from 子哲 ]
-* 
+*
 
 > 新鲜货
 * [ 191028 ] 了解JavaScript新特性：Optional Chaining <https://mp.weixin.qq.com/s/PC1C8ZcpgbSfzNL1N-Z10A> [ from 思源 ]
@@ -364,4 +375,3 @@
     从'一个顶俩'说起，介绍qq红包的新设计与优化
 * [ 170406 ] 大数据行业目前的问题和四大盈利模式 <https://www.jianshu.com/p/7ea590f0ee1e> [ from 君毅 ]
     * 数据源获取困难，数据归属和隐私悖论，无直接商业模式，变现困难等问题是摆在大数据行业前面的难题
-
