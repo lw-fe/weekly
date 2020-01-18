@@ -2,9 +2,26 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 20200113-20200120
+
+`本周轮值主编`: 君毅 `下周轮值主编`: 红梅
+
+> 干货
+[ 20200102 ] CSS inherit是继承，那initial和unset呢？<https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/> [from 君毅]
+* initial并不能把样式设置为浏览器原始样式，而是设置为初始值
+* unset表示不固定值，特性如下，当前元素浏览器或用户设置的CSS忽略，然后如果是具有继承特性的CSS，如color, 则使用继承值；如果是没有继承特性的CSS属性，如background-color, 则使用初始值
+
+> 新鲜货
+* [ 200106 ] 清华姚班毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐 <https://mp.weixin.qq.com/s/H7YAcOTjM1RSEU4HpQRkkA> [from 君毅]
+    * Taichi is a high-performance programming language for computer graphics applications
+
+> 沉淀
+* [ 200118 ]  金融中心决策引擎配置中心总结 <http://fe.lvwan-inc.com/zhaojunyi/fin-decision/fin-decision-summary.md.html> [from 君毅]
+    * 决策引擎配置中心向风控业务人员提供了风控模型定义，决策规则编写、测试、发布上线、下线、模型运行情况监控分析等功能，从而能够提供自动化的风控决策服务
+
 ## 20200106-20200111
 
-`本周轮值主编`: 学聪 `下周轮值主编`: 鹏程
+`本周轮值主编`: 学聪 `下周轮值主编`: 君毅
 
 * [20200111] C 是 2019 年度编程语言！<https://mp.weixin.qq.com/s/vR8yF_lRIvgEhEZDhkDk7A> [from 文玲]
 * [20200111] 第 4 种 Web 语言来了：WebAssembly：15 篇前端热文回看！<https://mp.weixin.qq.com/s/JHv6w4TRyjBq6gzzX7oRSQ> [from 文玲]
