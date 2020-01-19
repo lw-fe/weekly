@@ -10,6 +10,14 @@
 * [ 20200102 ] CSS inherit是继承，那initial和unset呢？<https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/> [from 君毅]
     * initial并不能把样式设置为浏览器原始样式，而是设置为初始值
     * unset表示不固定值，特性如下，当前元素浏览器或用户设置的CSS忽略，然后如果是具有继承特性的CSS，如color, 则使用继承值；如果是没有继承特性的CSS属性，如background-color, 则使用初始值
+* [ 200118 ] 如何解决 Render Props 的回调地狱 <https://juejin.im/post/5e224ba651882521414ae5e6> [from 文玲]
+    * Render prop是一种设计 React 组件的有效技术。然而，影响其可用性的一个问题是回调地狱。函数组合或类组件方法可以解决回调地狱的问题。使用多个 Render prop 回调函数使用彼此的结果，那么react-adopt是一个很好的解决方法
+* [ 200114 ] VUE vs React 高手过招！ <https://juejin.im/post/5e1c2ee6f265da3e395838b9> [from 文玲]
+    * react和vue在jsx、渲染、事件处理、生命周期等各方面下的比较
+* [ 200118 ] 这可能是最好用的 CSS 技巧 <https://juejin.im/post/5e225a0751882536a627fa71> [from 子哲]
+* [ 200113 ] 你可能不知道的React Hooks <https://mp.weixin.qq.com/s/M54fR8UP8sBZXuFp-Cy0Jg> [from 思源]
+    * 通过实现计数器来熟悉hooks的基本用法
+* [ 200113 ] 字节跳动面试官：请你实现一个大文件上传和断点续传 <https://juejin.im/post/5dff8a26e51d4558105420ed> [from 红梅]
 
 > 新鲜货
 * [ 200106 ] 清华姚班毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐 <https://mp.weixin.qq.com/s/H7YAcOTjM1RSEU4HpQRkkA> [from 君毅]
