@@ -2,6 +2,23 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 20200203-20200207
+
+`本周轮值主编`: 红梅 `下周轮值主编`: 思源
+
+> 干货
+* [ 200203 ] Popper 2.0: Tooltip & Popover Positioning Engine：https://popper.js.org/  [ from 君毅]
+    * No detachment
+    * You don't have to change the DOM context of your tooltip or popover element
+    * Still lightweight
+* [200204] GeoAtlas http://datav.aliyun.com/tools/atlas/# [ from 思源]
+
+> 最佳实践
+* [ 200204 ] 前端自动化部署的深度实践 <https://juejin.im/post/5e38ec1ce51d4526c932a4fb> 本文介绍使用conventional-changelog工具自动生成更新日志 [ from 文玲]
+
+> 其他
+* [200203] 分析GitHub 上 5.46 亿条日志 <https://www.infoq.cn/article/dCY0AHH71rBBjq3pIfh7> [ from 红梅]
+
 ## 20200113-20200120
 
 `本周轮值主编`: 君毅 `下周轮值主编`: 红梅
