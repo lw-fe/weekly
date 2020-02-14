@@ -2,6 +2,36 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 20200210-20200215
+`本周轮值主编`: 思源 `下周轮值主编`: 良辰
+
+> 最佳实践  
+
+* [ 200214 ] 如何使用css向js传参 <https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/> [ from 晓鹏 ]
+* [ 200121 ] 高质量前端快照方案：来自页面的「自拍」：https://mp.weixin.qq.com/s/ebxO5MtkQHi-U21MO6LIuA [ from 君毅 ]
+    * 从内容完整性、清晰度优化和转换效率，进一步介绍了高质量的快照解决方案
+* [ 200212 ] CSS 故障艺术：https://segmentfault.com/a/1190000021730935 [ from 红梅 ]
+  *  故障艺术的概念
+  *  使用混合模式和 clip-path 实现的故障艺术
+
+> 干货  
+
+* [ 200212 ] 如何让你的 React 『变慢』？探析 Array Diff 的一些边角特性 <https://juejin.im/post/5d9b648ef265da5b9d1eedfc> 
+demo <https://codesandarray-diff-example-kw112?fontsize=14> [ from 文玲 ]
+    * React实现的是较快解，非最优解
+    * Array Diff问题：如何从数组 A 通过最少的变换步骤到数组 B
+    * 操作的类型有：删除元素，插入元素，移动元素
+    * 求解一下最少移动步数: 最长上升子序列（LIS，Longest Increasing Subsequence）,算法的时间复杂度是 O(n^2)
+    * React基于平衡效率与最优解，采用混合算法，牺牲一定正确性的前提下，将复杂度降为O(n)
+* [ 200127 ] 纯前端实现人脸检测，给你的头像戴上口罩  <https://zhuanlan.zhihu.com/p/104070435> [ from 海萍 ]
+    * demo地址 <https://zamhown.gitee.io/wear-a-mask/>
+    * github地址 <https://github.com/zamhown/wear-a-mask>
+* [ 200214 ] 什么是 globalThis，为什么要学会使用它？ https://mp.weixin.qq.com/s/tLgYG4_NJU1GNFrT8jOI2A [ from 思源 ]
+
+> 其他
+
+* [ 200210 ] 我拆了20款口罩，在防病毒这件事上，希望对你有用 <https://zhuanlan.zhihu.com/p/104232116?utm_source=wechat_session&utm_medium=social&utm_oi=874339868761808896> [ from 思源 ]
+
 ## 20200203-20200207
 
 `本周轮值主编`: 红梅 `下周轮值主编`: 思源
