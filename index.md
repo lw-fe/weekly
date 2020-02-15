@@ -27,6 +27,8 @@ demo <https://codesandarray-diff-example-kw112?fontsize=14> [ from 文玲 ]
     * demo地址 <https://zamhown.gitee.io/wear-a-mask/>
     * github地址 <https://github.com/zamhown/wear-a-mask>
 * [ 200214 ] 什么是 globalThis，为什么要学会使用它？ https://mp.weixin.qq.com/s/tLgYG4_NJU1GNFrT8jOI2A [ from 思源 ]
+* [ 200214 ] Tailwind CSS 是一个工具集 CSS 框架<https://www.tailwindcss.cn/> [ from 学聪 ]
+* [ 200214] https://github.com/oubenruing/svg-text-animate 输入文本转为svg动画 [ from 良辰 ]
 
 > 其他
 
