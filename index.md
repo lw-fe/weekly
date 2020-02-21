@@ -2,8 +2,34 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+## 20200217-20200222
+`本周轮值主编`: 海萍 `下周轮值主编`: 良辰
+
+> 最佳实践  
+
+* [ 200114 ] 花椒前端用WebAssembly提升前端应用解压缩性能的尝试：<https://mp.weixin.qq.com/s/4lkgmLIkowoPOwgd1g6i0w>  [ from 君毅 ]
+   * JavaScript运行时只有一个主线程(UI线程)，而Wasm的加载、编译、实例化、下载压缩包、解压文件这些工作如果都放在主线程执行会严重影响页面性能，所以可以把这些都放进Web Worker中以单独的线程去执行，减轻主线程的压力
+* [200109] JavaScript 中的位运算和权限设计  <https://zhuanlan.zhihu.com/p/90618809>  [ from 良辰 ]
+
+> 干货  
+
+* [ 200221 ] immer.js实用文档 <https://juejin.im/post/5c079f9b518825689f1b4e88> [ from 思源 ]
+* [ 200221] 将Chrome调试器里的JavaScript变量保存成本地JSON文件 <https://blog.csdn.net/i042416/article/details/82556800> [ from 红梅 ]
+* [ 200212 ] 阅读笔记之-《前端性能检查表(Front-End Performance Checklist)》 <https://juejin.im/post/5e4298696fb9a07cae135578> 性能优化大纲与知识体系  [ from 文玲 ]
+* [ 180731 ] Data URL与base64 <https://blog.csdn.net/qq_37487977/article/details/81298687>  [ from 晓朋 ]
+   * dataurl基本原理
+   * 优缺点
+   * css中使用dataurl
+   * 不同语言将文本转换为base64注意事项
+
+> 其他
+
+* [ 200118 ] 中国开源前端为王？GitHub 5.4亿条日志背后的数据故事 https://mp.weixin.qq.com/s/LUsTU_iLsIOWBP8yYvGdcw [ from 思源 ]
+
+
 ## 20200210-20200215
-`本周轮值主编`: 思源 `下周轮值主编`: 良辰
+`本周轮值主编`: 思源 `下周轮值主编`: 海萍
 
 > 最佳实践  
 
