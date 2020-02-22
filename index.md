@@ -22,6 +22,7 @@
    * 优缺点
    * css中使用dataurl
    * 不同语言将文本转换为base64注意事项
+* [ 200218 ] 您可能不知道的原生JavaScript方法 <https://juejin.im/post/5e4bc03cf265da572446685a> [ from 海萍 ]   
 
 > 其他
 
