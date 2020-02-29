@@ -15,10 +15,10 @@
    * 针对从class转来使用hooks的初学者，几种常见的场景对应写法
 * [ 191010 ] React Hooks中父组件中调用子组件方法 <https://www.cnblogs.com/muamaker/p/11647626.html> [ from 海萍 ]
 > 最佳实践
-* [ 200224 ] 2020年你不能不知道的webpack基本配置 <https://juejin.im/post/5e532b116fb9a07ce152c31a> 本文是webpack文档的精简概述
+* [ 200224 ] 2020年你不能不知道的webpack基本配置 <https://juejin.im/post/5e532b116fb9a07ce152c31a> 本文是webpack文档的精简概述  [ from 文玲 ]
     * webpack功能、打包过程、4大核心（entry\output\loader\plugin）
     * 如何开发一个loader和plugin
-* [ 200222 ] 前端下载文件的5种方法的对比 <https://juejin.im/post/5e50fa23518825494b3cccd7>
+* [ 200222 ] 前端下载文件的5种方法的对比 <https://juejin.im/post/5e50fa23518825494b3cccd7>  [ from 文玲]
     * form表单提交
     * window.open或location.href
     * a标签的download
