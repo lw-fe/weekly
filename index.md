@@ -31,6 +31,7 @@
 * [ 200226 ] 南京鼓楼社区平台项目二级目录webpack4配置记录：
     <http://fe.lvwan-inc.com/zhaojunyi/other/njgl-web/webpack4-second-catalogue.md.html> [ from 君毅 ]
     简单记录了项目支持二级目录的关键项
+* 华为环境sem接口安全性问题处理的过程总结 <http://fe.lvwan-inc.com/liuhongmei/others/huawei-sem-safe.md.html> [ from 红梅]
 
 > 工具
 * [200228] 百度网盘下载工具 https://github.com/liuzhuoling2011/baidupcs-web [ from 思源 ]
