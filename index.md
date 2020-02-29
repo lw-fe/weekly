@@ -3,6 +3,39 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 20200223-2020029
+`本周轮值主编`: 良辰 `下周轮值主编`: 文玲
+
+> 技术
+* [ 200218 ] A Complete Guide to Data Attributes  https://css-tricks.com/a-complete-guide-to-data-attributes/ [ from 红梅 ]
+* [ 200221 ] 一篇值得收藏的正则表达式文章：https://mp.weixin.qq.com/s/DqC-mDJJCv7vUa7ctGinYA [ from 君毅 ]
+    从引擎执行原理比较深入的讲解了正则表达式，同时给出了较多学习资料与例子供大家参考
+* [200228] 前端优化手段汇总 <https://juejin.im/post/5e58c7f1e51d4526f76ebc86> [ from 晓朋 ] 
+* [ 200225 ] 终于搞懂 React Hooks了 <https://juejin.im/post/5e53d9116fb9a07c9070da44>  [ from 海萍 ]
+   * 针对从class转来使用hooks的初学者，几种常见的场景对应写法
+* [ 191010 ] React Hooks中父组件中调用子组件方法 <https://www.cnblogs.com/muamaker/p/11647626.html> [ from 海萍 ]
+> 最佳实践
+* [ 200224 ] 2020年你不能不知道的webpack基本配置 <https://juejin.im/post/5e532b116fb9a07ce152c31a> 本文是webpack文档的精简概述
+    * webpack功能、打包过程、4大核心（entry\output\loader\plugin）
+    * 如何开发一个loader和plugin
+* [ 200222 ] 前端下载文件的5种方法的对比 <https://juejin.im/post/5e50fa23518825494b3cccd7>
+    * form表单提交
+    * window.open或location.href
+    * a标签的download
+    * 利用Blob对象
+    * 利用base64
+* [ 20200120 ] CSS/JS：如何实现动画的暂停和播放 <https://zhuanlan.zhihu.com/p/103513500> [ from 良辰]  
+    animation-play-state 属性的使用
+> 文档
+* [200225] 数据治理kx大屏项目产出 http://fe.lvwan-inc.com/zhaisiyuan/project/sjzl/dataDelay.html [ from 思源 ] 
+* [ 200226 ] 南京鼓楼社区平台项目二级目录webpack4配置记录：
+    <http://fe.lvwan-inc.com/zhaojunyi/other/njgl-web/webpack4-second-catalogue.md.html> [ from 君毅 ]
+    简单记录了项目支持二级目录的关键项
+
+> 工具
+* [200228] 百度网盘下载工具 https://github.com/liuzhuoling2011/baidupcs-web [ from 思源 ]
+
+
 ## 20200217-20200222
 `本周轮值主编`: 海萍 `下周轮值主编`: 良辰
 
