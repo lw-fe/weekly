@@ -2,6 +2,37 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200309 - 200314
+
+`本周轮值主编`: 晓朋 `下周轮值主编`：学聪
+
+> 咨询
+
+* [20200310] 前端从业分布与技术关注的一点看法 https://www.zhangxinxu.com/life/2020/02/frontend-should-focus/ [from 思源]
+* [20200313] 又来了！Google 和微软在浏览器上的互掐 https://mp.weixin.qq.com/s/kqB19kP6Qow_kEmO6-Z7NQ [from 思源]
+
+> 干货
+
+* [200313] 前端常见的加密算法介绍 https://segmentfault.com/a/1190000022000598 [from 红梅]
+    * 对称 AES 开源库： https://github.com/brix/crypto-js
+    * 非对称 RSA开源库：https://github.com/travist/jsencrypt
+    * hash MD5 加密开源库：https://github.com/blueimp/JavaScript-MD5
+* [ 20200313 ] 拒绝JavaScript，这三个CSS技巧你一定用的上  <https://juejin.im/post/5e6b2b9ce51d4526fd069b87> [from 海萍]
+* [ 170223 ] webgl开发第一道坎—矩阵与坐标变换：https://www.cnblogs.com/dojo-lzz/p/7223364.html [ from 君毅 ]
+    * 介绍了webgl开发中常用的基本知识
+* [ 200313 ] React Hooks 响应式布局  <https://juejin.im/post/5e65c1f16fb9a07c9645a64c>[from 文玲]
+    * innerWidth
+    * hooks + resize
+    * 构建useViewport
+    * hooks + Context
+* [ 20171127 ] moment对象通过JSON.stringify(data)后少了8小时？ <https://segmentfault.com/q/1010000012180458>[from 海萍 ]
+    * 合理利用对象的toJSON特性解决Date对象/moment对象转换后会少8小时的问题
+* [ 20191210 ] 你不知道的 JSON.stringify() 的威力   <https://juejin.im/post/5decf09de51d45584d238319> [from 海萍 ]
+* [ 200313 ] all-in-one的javascript 工具链Rome https://github.com/facebookexperimental/rome [from 良辰]
+    * 转换值如果有?toJSON()?函数，该函数返回什么值，序列化结果就是什么值，并且忽略其他属性的值
+* [ 200312 ] 如何推动前端团队的基础设施建设 <https://juejin.im/post/5e644a65518825495d69bca6> [from 晓朋 ]
+
+
 ## 200302-200307
 `本周轮值主编`: 文玲 `下周轮值主编`: 晓朋
 
