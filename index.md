@@ -2,6 +2,25 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200314 - 200321
+
+`本周轮值主编`: ：学聪 `下周轮值主编` 鹏程
+
+* [20190823] 用useRef() 保存任何可变值 <https://blog.csdn.net/wu_xianqiang/article/details/100037632> [ from 海萍 ]
+   * 用useRef来解决此种问题场景：异步请求回调中setState后，在该回调以及回调中执行的异步方法的回调中无法取到最新state值。
+* [ 20200317 ] 考拉前端骨架屏生成技术揭秘<https://mp.weixin.qq.com/s/4DAlmuMzyNjDKvaoOU1GoA> [ from 良辰 ]
+* [ 200317 ] 跨域总结:从CORS到Ngnix <https://juejin.im/post/5e6c58b06fb9a07ce01a4199> [ from 文玲 ]
+    * 跨域解决方案：jsonp、cors、postMessage、websocket、node中间件代理
+    * nginx反向代理
+* [20200320] css动画是可以暂停的 <http://www.daqianduan.com/7027.html> [ from 红梅 ]
+* [20200320]  从零开始写一个采集图片的chrome插件<https://juejin.im/post/5e745f35e51d4526c80ec11c> [ from 红梅 ]
+* [20200320] require相关 && forever进程守护 <http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/tree/master/zhaisiyuan/project/hao123> [from 思源]
+* [20200317] 100个网络基础知识 <https://mp.weixin.qq.com/s/TPlrJ3X2h3l27HX7juOqcw> [from 思源]
+* [ 200320 ] sigmaV2 webgl 学习总结：<http://fe.lvwan-inc.com/zhaojunyi/SophonWeb/webgl/sigma-webgl.md.html> [from 君毅]
+    * 介绍了sophon sigmaV2中节点的一些绘制方式
+* [ 200311 ] Ant Design 4.0 发布，我们和核心作者聊了聊：<https://www.infoq.cn/article/eudM9WdF9aoYHmcA5rGr> [from 君毅]
+    * 介绍了antd 4.0  版本更新背后的一些故事
+* [ 20200321 ] High Performance SVGs<https://css-tricks.com/high-performance-svgs/> [ from 学聪 ]
 ## 200309 - 200314
 
 `本周轮值主编`: 晓朋 `下周轮值主编`：学聪
@@ -64,5 +83,3 @@
     * If you're not careful you can write a test that's worse than having no tests at all
 * [ 200304 ] React Testing Library：<https://testing-library.com/docs/react-testing-library/intro> [ from 君毅 ]
     * The React Testing Library is a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices
-
-
