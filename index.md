@@ -2,6 +2,30 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200323 - 200328
+
+`本周轮值主编`: 君毅 `下周轮值主编`：红梅
+
+> 干货
+* [ 200228 ] 爱奇艺云剪辑Web端的技术实现 <https://mp.weixin.qq.com/s/nKQG2Sfev58fogfOtqX4Ew> [ from 君毅 ]
+    * 大致介绍了爱奇艺云剪辑通过Web技术优化实现在线音视频制作，云服务实现转码的方案
+* [ 200327 ] 七种地图可视化的最佳实践 <https://blog.mapbox.com/7-best-practices-for-mapping-a-pandemic-9f203576a132> [ from 良辰 ]
+    * 对于地图可视化给出了七种最佳实践建议
+* [ 200308 ] 检测DOM尺寸变化JS API ResizeObserver简介 <https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/> [ from 海萍 ]
+   * chrome64及以上可支持此新特性，用以检测Dom元素resize事件
+
+> 工具
+* [ 200324 ] Mirage JS <https://miragejs.com/> [ from 君毅 ]
+    * It's a fake server that runs in the client, it can be used in both development and testing, and it brings along enough conventions to get you up and running quickly
+* [ 200326 ] 大厂前端必备工具集合 ( 抓包、调试、Mock数据等等 )  <https://juejin.im/post/5e78ef4e5188255e2e20f37a> [ from 红梅 ]
+    * 分享了工作中经常用并且作者觉得还不错的工具
+* [ 200324 ] 大厂前端组件库工具集合（PC端、移动端、JS、CSS等） <https://juejin.im/post/5e78ef4e5188255e2e20f37a> [ from 红梅 ]
+    * 作者精心挑选的大厂前端开发工具组件库的集合
+
+> 见解
+* [ 200323 ] 尤瓦尔·赫拉利《冠状病毒之后的世界》 <http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html> [ from 君毅 ]
+    * 在危机时刻，我们面临两个特别重要的选择。第一个是在极权主义监视与公民赋权之间的选择。第二个问题是在民族主义孤立与全球团结之间的选择
+
 ## 200314 - 200321
 
 `本周轮值主编`: ：学聪 `下周轮值主编` 鹏程
@@ -21,6 +45,7 @@
 * [ 200311 ] Ant Design 4.0 发布，我们和核心作者聊了聊：<https://www.infoq.cn/article/eudM9WdF9aoYHmcA5rGr> [from 君毅]
     * 介绍了antd 4.0  版本更新背后的一些故事
 * [ 20200321 ] High Performance SVGs<https://css-tricks.com/high-performance-svgs/> [ from 学聪 ]
+
 ## 200309 - 200314
 
 `本周轮值主编`: 晓朋 `下周轮值主编`：学聪
