@@ -12,7 +12,16 @@
 * [ 200327 ] 七种地图可视化的最佳实践 <https://blog.mapbox.com/7-best-practices-for-mapping-a-pandemic-9f203576a132> [ from 良辰 ]
     * 对于地图可视化给出了七种最佳实践建议
 * [ 200308 ] 检测DOM尺寸变化JS API ResizeObserver简介 <https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/> [ from 海萍 ]
-   * chrome64及以上可支持此新特性，用以检测Dom元素resize事件
+    * chrome64及以上可支持此新特性，用以检测Dom元素resize事件
+* [ 200327 ] 编写有弹性的组件 <https://mp.weixin.qq.com/s/qQc5xOkxbrlD3kRkU7RY7w> [ from 思源 ]
+    * 不要阻塞数据流
+    * 时刻准备好渲染
+    * 不要有单例组件
+    * 隔离本地状态
+* [ 200327 ] goodbye clean code <https://overreacted.io/goodbye-clean-code/> [ from 思源 ]
+    * Let clean code guide you. Then let it go
+* [ 200327 ] 前端智能化—思维转变之路 <https://juejin.im/post/5e7d8b87f265da79861b7e0e> [ from 文玲 ]
+    * 关键问题在于：你去做还是模型去做。前端智能化思维解决问题的价值就在于可以确定性、鲁棒性和进化性的解决问题。
 
 > 工具
 * [ 200324 ] Mirage JS <https://miragejs.com/> [ from 君毅 ]
