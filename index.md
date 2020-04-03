@@ -2,6 +2,21 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200330 - 200403
+
+`本周轮值主编`: 红梅 `下周轮值主编`：思源
+
+> 干货
+
+* [ 200329 ] Code Review 是一场苦涩但有意思的修行 <https://www.infoq.cn/article/EstZClgqrN0GWvfrHv8o> 优良的 CR 传统可以体现团队温度  [from 文玲]
+* [ 200331 ] React 八种条件渲染 https://mp.weixin.qq.com/s/Op-Qle0v9IRcFl5-5KC9RA [from 思源]
+* [ 200402 ] 纯手工写一个滚动视差效果 https://mp.weixin.qq.com/s/gL6DUh0F9MqLQqD3bySYsA [from 思源]
+* [ 171001 ] 《WebGL 编程指南》笔记 —— 第五章 颜色与纹理：https://www.jianshu.com/p/6c1092db1655
+    * 图文配合，能够更加直观的了解webgl系统绘制内容的过程
+* [ 200330 ] 谷歌 TensorFlow 团队和 MediaPipe 联合推出两款软件包，可对面部和手部特征进行跟踪 <https://www.infoq.cn/article/Ll2aq2vXAeN71APajyVr>
+> 部署
+*  [ 200401 ] 小白都能看懂的前端部署（docker+nginx+jenkins） <https://juejin.im/post/5e7f3e8451882573716a827c> [ from 红梅 ]
+
 ## 200323 - 200328
 
 `本周轮值主编`: 君毅 `下周轮值主编`：红梅
