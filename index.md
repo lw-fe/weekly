@@ -16,8 +16,13 @@
 * [ 200330 ] 谷歌 TensorFlow 团队和 MediaPipe 联合推出两款软件包，可对面部和手部特征进行跟踪 <https://www.infoq.cn/article/Ll2aq2vXAeN71APajyVr> 
 * [ 171001 ] 《WebGL 编程指南》笔记 —— 第五章 颜色与纹理：https://www.jianshu.com/p/6c1092db1655 [from 君毅]
     * 图文配合，能够更加直观的了解webgl系统绘制内容的过程
+
 > 部署
 *  [ 200401 ] 小白都能看懂的前端部署（docker+nginx+jenkins） <https://juejin.im/post/5e7f3e8451882573716a827c> [ from 红梅 ]
+
+> 最佳实践
+
+*  [ 200403 ] 搭建前端埋点监控系统 <https://www.yuque.com/sxc/front/yf3d0e> [ from 红梅 ]
 
 ## 200323 - 200328
 
