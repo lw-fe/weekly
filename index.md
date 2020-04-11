@@ -2,6 +2,42 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200407 - 200411
+
+`本周轮值主编`: 思源 `下周轮值主编`：海萍
+
+> 干货
+
+* [ 200410 ] CSS 书写模式已成为官方 Web 标准 <https://www.infoq.cn/article/OSTsuE4VJQokXZsUffPq> CSS 书写模式规范声明了如何根据 writing-mode
+、 direction和 text-orientation属性定义书写模式。writing-mode属性指定了块的流动方向。 direction指定了盒的内联基准方向。 [ from 文玲 ]
+* [ 161223 ] CSS Writing Modes <https://24ways.org/2016/css-writing-modes> [ from 文玲 ]
+* [ 200409 ] 《CSS揭秘》实用技巧总结》 https://mp.weixin.qq.com/s/_sood9AqSeMl4H2hrlFiyQ [ from 思源 ]
+
+  * 介绍了实现web版ssh终端的具体方案
+*[ 181226 ] 一文读懂前端缓存 <https://juejin.im/post/5c22ee806fb9a049fb43b2c5> [ from 鹏程 ]
+  * 按缓存位置分类 (memory cache, disk cache, Service Worker 等)
+  * 按失效策略分类 (Cache-Control, ETag 等)
+  * 帮助理解原理的一些案例
+  * 缓存的应用模式
+
+* [ 200411 ] 你所应该知道的HTTP——缓存篇 https://segmentfault.com/a/1190000022336086 [from 红梅]
+
+* [ 191017 ] Jest中的Snapshot快照测试 <https://blog.csdn.net/Riona_cheng/article/details/102408962> [ from 晓鹏 ]
+
+> 实践经验
+
+*  [ 200410 ] Ant Design 开源项目经验分享 <https://mp.weixin.qq.com/s/qpZB9tPiLrHIbJnwi-8KKg> [ from 晓鹏 ]
+  * 项目文档、网站、代码规范和风格、单元测试、发布规范、开源项目运营
+* [ 190110 ] node.js+react.js+xterm.js构建webssh：https://segmentfault.com/a/1190000017835511 [ from 君毅 ]
+
+* [ 200403 ] 一段css让全站变灰 <https://juejin.im/post/5e86e221e51d4546ce27b99c> [ from 海萍 ]
+
+> 资讯
+
+* [ 200408 ] Deno将于5月13号发布1.0版本 https://mp.weixin.qq.com/s/uRDK6xWVCMwqVLmOvY__NA [from 红梅]
+* [ 200408 ] InfoQ 2020 年 JavaScript 和 Web 开发趋势报告 https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494174&idx=1&sn=c5abad0d5bb0c223e789f62445c7dc54 [ from 良辰 ]
+
+
 ## 200330 - 200403
 
 `本周轮值主编`: 红梅 `下周轮值主编`：思源
