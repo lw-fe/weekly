@@ -37,6 +37,9 @@
 * [ 200408 ] Deno将于5月13号发布1.0版本 https://mp.weixin.qq.com/s/uRDK6xWVCMwqVLmOvY__NA [from 红梅]
 * [ 200408 ] InfoQ 2020 年 JavaScript 和 Web 开发趋势报告 https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494174&idx=1&sn=c5abad0d5bb0c223e789f62445c7dc54 [ from 良辰 ]
 
+> 其他
+
+* 学习方法 https://www.yuque.com/xiaoxiaoling-txan3/dk463s/pavn7n [ from 思源 ]
 
 ## 200330 - 200403
 
