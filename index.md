@@ -9,6 +9,7 @@
 > 干货
 
 * [ 200417 ] 前端需要了解的9种设计模式 <https://segmentfault.com/a/1190000022396503>  [from 红梅]
+* [ 200415 ] Nginx基本功能及其原理介绍 <https://www.toutiao.com/i6815830122956849675> [from 文玲]
 * [ 200415 ] 在生产环境中使你的 npm i 速度提升 50% <https://mp.weixin.qq.com/s/EHtJWlZbYUru3XdnQH8WLA> [from 思源]
 * [ 200411 ] 从Chrome V8源码看JavaScript数组 <https://mp.weixin.qq.com/s/pWOZ6yYbGQYdNsvnFmMnWw> [from 思源]
 * [ 200412 ] 了解CSS min()/max()/clamp()数学函数  <https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/> [from 海萍]
