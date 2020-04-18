@@ -16,13 +16,18 @@
 
 > 实践经验
 * [ 140610 ] Drawing Antialiased Lines with OpenGL: <https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc> [from 君毅]
-    * 介绍了如何在opengl中绘制光滑的带有厚度的边
+   * 介绍了如何在opengl中绘制光滑的带有厚度的边
 * [ 200417 ] sigmaV2 WebGL 边，箭头绘制学习：<http://fe.lvwan-inc.com/zhaojunyi/SophonWeb/webgl/sigma-webgl-edge.md.html> [from 君毅]
-    * 总结了sigmaV2 中绘制边和箭头的学习笔记
+   * 总结了sigmaV2 中绘制边和箭头的学习笔记
+* [ 200304 ] 编写高质量javascrpit模块的4个最佳实践 <https://blog.zhangbing.site/2020/03/04/Four-best-practices-for-writing-high-quality-JavaScript-modules> [from 良辰]    
+    
 
 > 资讯
 
-* [200417]  当浏览器全面禁用三方 Cookie <https://juejin.im/post/5e97124df265da47b27d97ff> [from 晓朋]
+* [ 200417 ] 当浏览器全面禁用三方 Cookie <https://juejin.im/post/5e97124df265da47b27d97ff> [from 晓朋]
+* [ 200417 ] 2020年Node.js开发者调查报告 <https://www.toutiao.com/a6816550646175498764> [from 文玲]
+* [ 200415 ] AI报告｜知识图谱行业报告 <https://www.toutiao.com/a6815724951438361103> [from 文玲]
+
 
 
 ## 200407 - 200411
