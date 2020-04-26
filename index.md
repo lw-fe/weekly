@@ -14,27 +14,27 @@
 `本周轮值主编`: 海萍 `下周轮值主编`：良辰
 
 > 干货
-* [ 200420 ] 图解 HTTPS 加解密原理 https://mp.weixin.qq.com/s/Ik243_6Va1MmHHKuGpafRQ [ from 思源 ]
-* [ 200421 ] Alpinejs, 一个坚固，最小的前端开发框架，用于将 JavaScript 行为添加到 HTML 标记中<https://blog.logrocket.com/getting-started-with-alpine-js/> 以更低的成本利用流行的前端库和框架（例如 Angular，React 和 Vue）的反应性和声明性。没有构建步骤，库文件的大小约为 4KB。
+* [ 200420 ] 图解 HTTPS 加解密原理 <https://mp.weixin.qq.com/s/Ik243_6Va1MmHHKuGpafRQ> [ from 思源 ]
+* [ 200421 ] Alpinejs, 一个坚固，最小的前端开发框架，用于将 JavaScript 行为添加到 HTML 标记中 <https://blog.logrocket.com/getting-started-with-alpine-js/> 以更低的成本利用流行的前端库和框架（例如 Angular，React 和 Vue）的反应性和声明性。没有构建步骤，库文件的大小约为 4KB。
 * [ 200414 ] ES2020 特性集尘埃落定 <https://www.infoq.cn/article/RO7CC10Nv96lGdB3K43h>
-    * String.matchAll
-    * 语法支持import()
-    * 任意精度类型BigInt
-    * Promise新组合器Promise.allSettled
-    * 全局访问this值的通用操作方式globalThis
-    * 模块内使用的 export * as ns from 'module’专用语法
-    * 进一步规范化的 for-in 枚举属性顺序
-    * 模块中可包含依赖于宿主环境上下文相关信息的 import.meta 特性
-    * 改进对空位（即 null 和 undefined）处理的两个新语法特性，即值选取操作符“空位合并”（nullish coalescing）
-    * “可选链”（optional chaining），一种一旦所访问或调用的值为空位时采取短路的访问 / 调用操作符
+  * String.matchAll
+  * 语法支持import()
+  * 任意精度类型BigInt
+  * Promise新组合器Promise.allSettled
+  * 全局访问this值的通用操作方式globalThis
+  * 模块内使用的 export * as ns from 'module’专用语法
+  * 进一步规范化的 for-in 枚举属性顺序
+  * 模块中可包含依赖于宿主环境上下文相关信息的 import.meta 特性
+  * 改进对空位（即 null 和 undefined）处理的两个新语法特性，即值选取操作符“空位合并”（nullish coalescing）
+  * “可选链”（optional chaining），一种一旦所访问或调用的值为空位时采取短路的访问 / 调用操作符
 * [ 200424 ] 精读:10个案例让你彻底理解React hooks的渲染逻辑 <https://mp.weixin.qq.com/s?__biz=MzI2NTk2NzUxNg==&mid=2247484881&idx=1&sn=f13ee77a0473c29971edab12d160b528>[ from 良辰]
+* [ 200426 ] 缓存控制中的 stale-while-revalidate <https://mp.weixin.qq.com/s/oWhoTTLaevcrB6jU1NXjkA> [ from 红梅 ]
 
 > 实践经验
 
 * [ 200421 ] 出色的 CSS 图像悬停效果汇总 <https://www.infoq.cn/article/Oj9xrQtOpvDc4L1jB0lK>  [from 海萍]
-* [ 200423 ] 一起围观由React Hooks防抖引发的面试翻车现场 https://mp.weixin.qq.com/s/vCXnTXDOTflxooPudnM6Hw [ from 思源 ]
-
-
+* [ 200423 ] 一起围观由React Hooks防抖引发的面试翻车现场 <https://mp.weixin.qq.com/s/vCXnTXDOTflxooPudnM6Hw> [ from 思源 ]
+* [ 200426 ] cloudconvert：<https://cloudconvert.com/flac-to-mp3> 在线转换格式平台 [ from 君毅 ]
 
 ## 200407 - 200411
 
