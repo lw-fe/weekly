@@ -6,17 +6,11 @@
 
 `本周轮值主编`: 良辰 `下周轮值主编`：文玲
 
-
-
-
-## 200413 - 200418
-
-`本周轮值主编`: 海萍 `下周轮值主编`：良辰
-
 > 干货
 * [ 200420 ] 图解 HTTPS 加解密原理 <https://mp.weixin.qq.com/s/Ik243_6Va1MmHHKuGpafRQ> [ from 思源 ]
-* [ 200421 ] Alpinejs, 一个坚固，最小的前端开发框架，用于将 JavaScript 行为添加到 HTML 标记中 <https://blog.logrocket.com/getting-started-with-alpine-js/> 以更低的成本利用流行的前端库和框架（例如 Angular，React 和 Vue）的反应性和声明性。没有构建步骤，库文件的大小约为 4KB。
-* [ 200414 ] ES2020 特性集尘埃落定 <https://www.infoq.cn/article/RO7CC10Nv96lGdB3K43h>
+* [ 200421 ] Alpinejs, 一个坚固，最小的前端开发框架，用于将 JavaScript 行为添加到 HTML 标记中 <https://blog.logrocket.com/getting-started-with-alpine-js/> [ from 文玲 ]
+  * 以更低的成本利用流行的前端库和框架（例如 Angular，React 和 Vue）的反应性和声明性。没有构建步骤，库文件的大小约为 4KB。 
+* [ 200414 ] ES2020 特性集尘埃落定 <https://www.infoq.cn/article/RO7CC10Nv96lGdB3K43h> [ from 文玲 ]
   * String.matchAll
   * 语法支持import()
   * 任意精度类型BigInt
@@ -35,6 +29,35 @@
 * [ 200421 ] 出色的 CSS 图像悬停效果汇总 <https://www.infoq.cn/article/Oj9xrQtOpvDc4L1jB0lK>  [from 海萍]
 * [ 200423 ] 一起围观由React Hooks防抖引发的面试翻车现场 <https://mp.weixin.qq.com/s/vCXnTXDOTflxooPudnM6Hw> [ from 思源 ]
 * [ 200426 ] cloudconvert：<https://cloudconvert.com/flac-to-mp3> 在线转换格式平台 [ from 君毅 ]
+
+
+
+
+## 200413 - 200418
+
+`本周轮值主编`: 海萍 `下周轮值主编`：良辰
+> 干货
+
+* [ 200417 ] 前端需要了解的9种设计模式 <https://segmentfault.com/a/1190000022396503>  [from 红梅]
+* [ 200415 ] Nginx基本功能及其原理介绍 <https://www.toutiao.com/i6815830122956849675> [from 文玲]
+* [ 200415 ] 在生产环境中使你的 npm i 速度提升 50% <https://mp.weixin.qq.com/s/EHtJWlZbYUru3XdnQH8WLA> [from 思源]
+* [ 200411 ] 从Chrome V8源码看JavaScript数组 <https://mp.weixin.qq.com/s/pWOZ6yYbGQYdNsvnFmMnWw> [from 思源]
+* [ 200412 ] 了解CSS min()/max()/clamp()数学函数  <https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/> [from 海萍]
+
+> 实践经验
+* [ 140610 ] Drawing Antialiased Lines with OpenGL: <https://blog.mapbox.com/drawing-antialiased-lines-with-opengl-8766f34192dc> [from 君毅]
+   * 介绍了如何在opengl中绘制光滑的带有厚度的边
+* [ 200417 ] sigmaV2 WebGL 边，箭头绘制学习：<http://fe.lvwan-inc.com/zhaojunyi/SophonWeb/webgl/sigma-webgl-edge.md.html> [from 君毅]
+   * 总结了sigmaV2 中绘制边和箭头的学习笔记
+* [ 200304 ] 编写高质量javascrpit模块的4个最佳实践 <https://blog.zhangbing.site/2020/03/04/Four-best-practices-for-writing-high-quality-JavaScript-modules> [from 良辰]    
+    
+
+> 资讯
+
+* [ 200417 ] 当浏览器全面禁用三方 Cookie <https://juejin.im/post/5e97124df265da47b27d97ff> [from 晓朋]
+* [ 200417 ] 2020年Node.js开发者调查报告 <https://www.toutiao.com/a6816550646175498764> [from 文玲]
+* [ 200415 ] AI报告｜知识图谱行业报告 <https://www.toutiao.com/a6815724951438361103> [from 文玲]
+
 
 ## 200407 - 200411
 
