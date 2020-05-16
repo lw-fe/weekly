@@ -2,6 +2,28 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+## 200427 - 200509
+
+`本周轮值主编`: 晓朋 `下周轮值主编`：君毅
+
+> 干货
+
+* Deno 1.0正式发布！这是来自官方团队的安利 https://mp.weixin.qq.com/s/CiZOtVoFl-LhzHXyLHiJ2Q [ from 文玲 ]
+* [200513] 花式解说防抖函数debounce的实现 https://mp.weixin.qq.com/s/JqEXJCmp3WNhm6qICpq4Ww [from 思源]
+* [200512] 接地气的react hooks 入门指南 http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/react-hooks.md [from 思源]
+* [ 200415 ] 浏览器工作原理 https://segmentfault.com/a/1190000022633988 [ from 红梅 ]
+* [ 20100816 ]  js 的Object.assign(),要慎用 <http://www.seotest.cn/jishu/44408.html> [ from 海萍 ]
+* 相见恨晚的 Git 命令动画演示 https://mp.weixin.qq.com/s/GiN7Lp-ghF43J1KxkDnmfw [ from 良辰 ]
+   * 只对顶层属性做了赋值，没有继续做递归之类的把所有下一层的属性做深拷贝
+   
+> 资讯
+
+* [ 200428 ] 苹果往事：乔布斯和 iPod 的诞生：http://www.ruanyifeng.com/blog/2020/04/ipod-history.html [ from 君毅 ]
+    * 1999年，乔布斯发现，苹果公司有一种新技术的专利，但是一直没有使用，那就是火线（FireWire）。这种接口的传输速度，比当时流行的 USB 1.1 接口快几十倍（善于发现优势）
+    * 乔布斯认为，市场上所有此类产品都很糟糕，非常丑也非常难用，苹果公司有必要开发一个自己的便携式 MP3 播放器（对高标准的不断追求）
+    * 乔布斯定下了这个播放器要在2001年圣诞节购物季上市。这只留给法德尔6个月的时间，他必须在6个月里面组建团队、开发产品、制造产品并放上货架（敢于制定充满风险的目标）
+
 ## 200427 - 200509
 
 `本周轮值主编`: 文玲 `下周轮值主编`：晓朋
