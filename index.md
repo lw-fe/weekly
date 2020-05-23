@@ -17,7 +17,7 @@
 * [ 200522 ] 网页渲染性能优化  <https://zhuanlan.zhihu.com/p/39878259> [ from 思源 ]
 * [ 200518 ] gitlab内置的三个工具(持续集成、交付、部署) <https://mp.weixin.qq.com/s/skajt8Lh1UztpdhjdfSutg> [ from 晓鹏 ]
     * GitLab CI/CD 是一个内置在GitLab中的工具，用于通过持续方法进行软件开发
-* [ 200512 ] 大规格文件上传优化 <https://aotu.io/notes/2020/05/12/file-upload/index.html> [ from 君毅 ]
+* [ 200512 ] 大规格文件上传优化 <https://aotu.io/notes/2020/05/12/file-upload/index.html> [ from 良辰 ]
     * Blob.slice 将文件切片，并发上传多个切片，所有切片上传后告知服务器合并，实现大文件分片上传
 
 > 资讯
