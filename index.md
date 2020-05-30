@@ -6,10 +6,6 @@
 
 `本周轮值主编`: 红梅 `下周轮值主编`：思源
 
-## 200518 - 200523
-
-`本周轮值主编`: 君毅 `下周轮值主编`：红梅
-
 > 干货
 
 * [ 200529 ] <https://mp.weixin.qq.com/s/U8wGi85BavBxFa8DcxAurw> [from 文玲 ]
@@ -22,15 +18,56 @@
     * git checkout - （切换回上一个分支）
 * [200525] 动态 Import 和 顶层 await <https://mp.weixin.qq.com/s/h69mRSA3_MeTfUgiCwT2LQ> [ from 思源 ]
 
-> 库
+> 类库
 
 * [ 200528 ] javaScript导出excel文件，并修改文件样式 <https://segmentfault.com/a/1190000022772664> [ from 红梅 ]
-
 
 > 总结
 
 * [200529] 组件库支持按需加载实现方案 <http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/on-demand-load.md> [ from 思源 ]
 * [ 200529 ] 智子目前版本分支情况汇总 <http://fe.lvwan-inc.com/fanxiaopeng/sophon-version-branch/version-branch.md.html> [ from 晓朋 ]
+
+## 200518 - 200523
+
+`本周轮值主编`: 君毅 `下周轮值主编`：红梅
+
+> 干货
+
+* [ 200521 ] 了不起的 Deno 入门教程 <https://dwz.mn/DJXu> [ from 文玲 ]
+    * Deno 能够在 macOS、Linux 和 Windows 上运行。Deno 是一个单独的可执行文件，它没有额外的依赖
+* [ 200520 ] 浅谈CSS3 动画卡顿解决方案 <https://www.jb51.net/css/653308.html> [ from 君毅 ]
+    * 尽量使用 transform 实现动画，避免使用 height, width, margin, padding, top, left 等
+* [ 200519 ] 犀牛书作者：最该忘记的JavaScript特性 <https://mp.weixin.qq.com/s/guAN1Cz2gYfKdBhmUpLyVA> [ from 思源 ]
+    * arguments，join 拼接字符串，document.write，frame 等
+* [ 200522 ] 网页渲染性能优化  <https://zhuanlan.zhihu.com/p/39878259> [ from 思源 ]
+* [ 200518 ] gitlab内置的三个工具(持续集成、交付、部署) <https://mp.weixin.qq.com/s/skajt8Lh1UztpdhjdfSutg> [ from 晓鹏 ]
+    * GitLab CI/CD 是一个内置在GitLab中的工具，用于通过持续方法进行软件开发
+* [ 200512 ] 大规格文件上传优化 <https://aotu.io/notes/2020/05/12/file-upload/index.html> [ from 良辰 ]
+    * Blob.slice 将文件切片，并发上传多个切片，所有切片上传后告知服务器合并，实现大文件分片上传
+
+> 资讯
+
+* [ 20200518 ] CSS Containment 规范正式发布 <https://www.infoq.cn/article/lBECNlBbgd81U01aQUMF> [ from 红梅 ]
+    * CSS Containment 模块规范的主要目的是，在页面渲染的过程中通过忽略文档中的某些子树来提高页面的渲染性能
+
+> 小工具
+
+* [ 200520 ] WeChatExtension-ForMac <https://github.com/MustangYM/WeChatExtension-ForMac> [ from 君毅 ]
+    * Mac版微信的功能拓展(A plugin for Mac WeChat)
+
+> 拓展
+
+* [ 200508 ] 从全国首起暗网案件告破说起——暗网，超乎你想象 <https://xie.infoq.cn/article/15962348e63060bcf7f3b8f67> [ from 君毅 ]
+    * “暗网”是指只能通过特殊软件对指定电脑进行授权、进行特别的配置才能访问的网络
+    * 暗网里的服务器和数据传输都是“隐形”的，在暗网以外（称之为明网）的搜索引擎上无法检索到，googgle也不行
+    * 暗网成员之间的通信有高轻度的隐蔽性、安全性，一般技术手段很难拦截，即使拦截到也难以破解、难以追溯
+
+> 总结
+
+* [ 200518 ] 自定义域名申请使用总结 <http://fe.lvwan-inc.com/zhaojunyi/other/custom-domain/custom-domain.md.html> [ from 君毅 ]
+    * 前端项目通常部署在41机器的预览环境，通过不同端口访问不同环境。当我们希望访问路径更加有意义，或者需要在办公网络下从云桌面之外访问时就需要通过申请自定义域名来实现
+* [ 200520 ] 大屏开发响应式布局总结 <http://fe.lvwan-inc.com/zhaojunyi/other/big-screen-pc/big-screen-pc.md.html> [ from 君毅 ]
+    * 介绍了响应式布局常见技术及绿湾大屏使用的相关方案
 
 
 ## 200511 - 200516
