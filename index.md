@@ -2,6 +2,36 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200601 - 200606
+
+`本周轮值主编`: 思源 `下周轮值主编`：良辰
+
+> 干货
+* [ 140612 ] 深度掌握SVG路径path的贝塞尔曲线指令 <https://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/> [ from 君毅 ]
+    * 我们的学习可以再往上一层，关心贝塞尔曲线指令，让浏览器去帮我们绘制此指令下的贝塞尔曲线
+* [ 200603 ] crontab简介 <http://support.lvwan-inc.com/0216c08361dab7455961aabd65c05418> [ from 思源 ]
+
+> 实践
+* [200605] Node.js Best Practices <https://github.com/goldbergyoni/nodebestpractices>  [ from 文玲 ]   
+该库对排名较高 Node.js 的最佳实践进行了总结和整理，包括 Node.js + Docker 最佳实践。目前拥有超过80多种最佳实践，风格指南和结构建议等。一些常见的最佳做法包括：
+    * 更好地组织项目
+    * 错误处理实践
+    * 代码风格实践
+    * 测试和整体质量实践
+    * 进行生产实践等等
+* [200605]  修复一个因为 scrollbar 占据空间导致的 bug <https://segmentfault.com/a/1190000022851263> [ from 红梅 ]
+* [200605] 前端瀑布流布局如何应用动态规划和贪心算法 <https://github.com/sl1673495/blogs/issues/48?from=groupmessage> [ from 良辰 ]
+> 新鲜事物
+* [200605] 使用 Nodejs 开发的 SpaceX-API 开源了！<https://juejin.im/post/5ed9cb3ef265da770f5203fa> <https://github.com/r-spacex/SpaceX-APIo>  [ from 文玲 ]  
+技术栈如下：
+    * 部署在美国中部 Linode 服务器上。
+    * 使用了 Nodejs 的 Koa 框架。
+    * 使用了 Redis、Nginx 和 Cloudflare 进行内容缓存。
+    * 使用了 Jest 和 Supertest 做测试。
+    * 使用了 Circle CI 进行持续集成/部署。
+    * 所有的数据存储在 MongoDB Atlas 3 节点的副本集集群中。
+    * 使用 mongodump 在晚上进行数据备份，在这里查看 https://backups.jakemeyer.sh/。
+
 ## 200525 - 200530
 
 `本周轮值主编`: 红梅 `下周轮值主编`：思源
