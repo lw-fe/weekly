@@ -10,6 +10,7 @@
 > 干货
 * [ 200521 ] B站的视频，都是怎么推荐的 <https://mp.weixin.qq.com/s/Jw1Bp6zdIO7aGbMdTNgZyw/> [ from 君毅 ]
     * B站的推荐系统并不会止步于用户已有兴趣的推荐，而是会在探索中鼓励用户发现自身更多元化的兴趣，这就是基于用户的协同推荐要优于基于内容的协同的地方
+* [ 200606 ] 通俗易懂的 TypeScript 入门教程 <https://mp.weixin.qq.com/s/oaoZZ6RyIffr0scpWGtSSQ> [ from 文玲 ]
 * [ 200608 ] 如何实现高性能的在线 PDF 预览 <https://mp.weixin.qq.com/s/Wx_gJLrZftJ_dm2phoUf8g> [ from 思源 ]
 * [ 200610 ] 编写React组件时常见的5个错误 <https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247496262&idx=2&sn=20eb42cb0176a96f1a766d5ccc8ffd30> [ from 良辰]
 
@@ -22,6 +23,7 @@
     * 一个 TCP 连接中 HTTP 请求发送可以一起发送么（比如一起发三个请求，再三个响应一起接收）？
     * 为什么有的时候刷新页面不需要重新建立 SSL 连接？
     * 浏览器对同一 Host 建立 TCP 连接到数量有没有限制？
+* [ 200608 ] 前端如何在项目中做出亮点 <https://mp.weixin.qq.com/s/mlbgKrv8cn6k8nO1x19NfA> [ from 文玲 ]     
 * [ 200611 ] 你所不知道的Blob <https://mp.weixin.qq.com/s/MPTTMUXLRK0boeMDYzmaLA> [ from 文玲 ]    
 
 > 新鲜事物
