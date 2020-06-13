@@ -16,7 +16,7 @@
 
 > 经验
 * [ 200606 ] 科技向善---马化腾谈使命愿景 <https://mp.weixin.qq.com/s/krnKp91WbLGbbiucpM9miA> [ from 晓朋 ]
-        * 科技是一种能力，向善是一种选择
+     * 科技是一种能力，向善是一种选择
 * [ 200608 ] 面试官问我：一个 TCP 连接可以发多少个 HTTP 请求？我竟然回答不上来... <https://mp.weixin.qq.com/s/EkWOXAcuzkUexWAyra_PwA> [ from 思源 ]
     * 现代浏览器在与服务器建立了一个 TCP 连接后是否会在一个 HTTP 请求完成后断开？什么情况下会断开？
     * 一个 TCP 连接可以对应几个 HTTP 请求？
