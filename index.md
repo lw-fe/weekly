@@ -8,7 +8,7 @@
 `本周轮值主编`: 海萍 `下周轮值主编`：良辰
 
 > 干货
-* [ 200521 ] B站的视频，都是怎么推荐的 <https://mp.weixin.qq.com/s/Jw1Bp6zdIO7aGbMdTNgZyw/> [ from 君毅 ]
+* [ 200521 ] B站的视频，都是怎么推荐的 <https://mp.weixin.qq.com/s/Jw1Bp6zdIO7aGbMdTNgZyw> [ from 君毅 ]
     * B站的推荐系统并不会止步于用户已有兴趣的推荐，而是会在探索中鼓励用户发现自身更多元化的兴趣，这就是基于用户的协同推荐要优于基于内容的协同的地方
 * [ 200606 ] 通俗易懂的 TypeScript 入门教程 <https://mp.weixin.qq.com/s/oaoZZ6RyIffr0scpWGtSSQ> [ from 文玲 ]
 * [ 200608 ] 如何实现高性能的在线 PDF 预览 <https://mp.weixin.qq.com/s/Wx_gJLrZftJ_dm2phoUf8g> [ from 思源 ]
