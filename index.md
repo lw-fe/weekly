@@ -3,6 +3,31 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 200614 - 200620
+
+`本周轮值主编`: 海萍 `下周轮值主编`：良辰
+
+> 干货
+* 如何挑选数据可视化框架及平台 - 前端篇 <https://zhuanlan.zhihu.com/p/149398216>  [ from 大民 ]
+* [ 200615  ] CSS Pixels  http://www.alloyteam.com/2020/06/css-pixels/ [ from 良辰 ]
+    * 物理像素，渲染像素，逻辑像素
+* [ 200619 ]  Javascript开发人员偏爱Deno而不是Node的5大原因 <https://segmentfault.com/a/1190000022979009>   [from 红梅]
+* [ 200619 ] 前端存储除了 localStorage 还有啥  <https://segmentfault.com/a/1190000022944268>  [from 红梅]
+
+> 实践
+* [ 200618 ] 那个炒鸡有趣的H5标签 —— dataList https://mp.weixin.qq.com/s/VsePDkmabW68bwlGkJYWmQ [ from 思源 ]
+* [ 200615 ] Git 使用心得 & 常见问题整理 <https://juejin.im/post/5ee649ff51882542ea2b5108>  [ from 文玲 ]
+* [ 200618 ] 循环遍历方法与比较 <https://juejin.im/post/5ee6e7c4f265da76e46e6bb7> [ from 文玲 ]
+    * 性能：for > for-of > forEach  > map > for-in
+* [ 200609 ] javascript代码重构之：写好函数 <http://caibaojian.com/code-function.html>  [ from 海萍 ]
+* [ 200618 ]  H5 直播的疯狂点赞动画是如何实现的？<http://caibaojian.com/h5-praise-animation.html>  [ from 海萍 ]
+> 资讯
+
+* [200618] 为了反对种族歧视，代码托管平台GitHub可能要改术语了 https://mp.weixin.qq.com/s/vaqTb-iucX3Qo79B9G7DAg [ from 思源 ]
+* [ 200602 ] Web Animations API improvements in Chromium 84 <https://web.dev/web-animations> [ from 君毅 ]
+    * Orchestrating animations with promises, performance improvements with replaceable animations, smoother animations with composite modes, and more.
+
+
 ## 200608 - 200613
 
 `本周轮值主编`: 海萍 `下周轮值主编`：良辰
