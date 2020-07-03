@@ -5,6 +5,26 @@
 
 ## 200622-200628
 
+`本周轮值主编`: 晓朋 `下周轮值主编`：君毅
+
+> 干货
+* [200702] JSDOC https://jsdoc.zcopy.site [ from 思源 ]
+* [200701] ECharts文档逆天了 https://mp.weixin.qq.com/s/AZINW1uWCFsxvuZScRZyyA [ from 思源 ]
+* [ 200630 ] webgl 大规模图谱渲染引擎性能指标 <http://fe.lvwan-inc.com/zhaojunyi/SophonWeb/webgl/bench-mark.md.html> [ from 君毅 ]
+    * 基于测试数据集确定新版webgl图谱渲染引擎性能指标
+* 你应该知道的 NPM 知识都在这！<https://mp.weixin.qq.com/s/sRhuMQ3f6vjUkabUy_dEYQ> [ from 文玲 ]
+* [ 200703 ] 加深对进程和线程的理解 <https://mp.weixin.qq.com/s/TySnUI3IJcY43dcnbtsO0w> [from 晓朋 ]
+
+> 工具
+* [ 200615 ] 使用 Chii 调试移动端页面 <https://zhuanlan.zhihu.com/p/144169144> [ from 君毅 ]
+    * 一个远程调试网页的工具，只要在网页里面加载这个库，就可以远程打开 Chrome 开发者工具，主要用于调试手机端网页
+
+> 开源
+* [ 200703 ] MXFlutter：基于JS的Flutter框架，用JS也能写出Flutter应用 <https://juejin.im/post/5efe9e3ae51d453487680ff3> MXFlutter 是一套基于JavaScript 的 Flutter 框架，可以用极其类似 Dart 的开发方式，通过编写 JavaScript 代码，来开发 Flutter 应用，或者使用 mxjsbuilder 编译器，把现有Flutter 工程编译为JS，运行在 mxflutter 之上。 [ from 文玲 ]
+* [ 200701 ] Taro 3 正式版发布：开放式跨端跨框架解决方案 <https://juejin.im/post/5efbdb786fb9a07ea929c967> 支持跨框架（React\Nerv\Vue\jQuery）、跨端（H5、微信、支付宝、百度、字节跳动等小程序） [ from 文玲 ]
+
+## 200622-200628
+
 `本周轮值主编`: 文玲 `下周轮值主编`：晓朋
 
 > 干货
