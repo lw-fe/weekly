@@ -14,6 +14,10 @@
     * 基于测试数据集确定新版webgl图谱渲染引擎性能指标
 * 你应该知道的 NPM 知识都在这！<https://mp.weixin.qq.com/s/sRhuMQ3f6vjUkabUy_dEYQ> [ from 文玲 ]
 * [ 200703 ] 加深对进程和线程的理解 <https://mp.weixin.qq.com/s/TySnUI3IJcY43dcnbtsO0w> [from 晓朋 ]
+* [ 200702 ]  十分钟上手小程序开发，史上最全的《入门级》小程序开发 <https://juejin.im/post/5efd4c765188252e362e0d2d> [ from 红梅 ]
+     * 小程序开发的整个过程，以及基本概念的介绍
+* [ 200407 ]翻译|前端开发人员的10个安全提示 [ from 良辰 ]
+ https://blog.zhangbing.site/2020/04/27/10-security-tips-for-frontend-developers/
 
 > 工具
 * [ 200615 ] 使用 Chii 调试移动端页面 <https://zhuanlan.zhihu.com/p/144169144> [ from 君毅 ]
