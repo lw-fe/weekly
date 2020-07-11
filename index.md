@@ -2,8 +2,38 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200705-200711
 
-## 200622-200628
+`本周轮值主编`: 君毅 `下周轮值主编`：红梅
+
+> 工具
+* [ 200709 ] stretchly <https://hovancik.net/stretchly/downloads> [ from 君毅 ]
+    * 一个开源桌面软件，隔一段时间（默认25分钟）就跳出一个提示，提醒你离开电脑运动一下
+* [ 200518 ] 是时候扔掉 Postman 了，Apifox 真香！ <https://mp.weixin.qq.com/s/n-YiC9hDpTcG_crewDwYaw> [ from 君毅 ]
+    * Apifox = Postman + Swagger + Mock + JMeter
+
+> 经验
+* [ 200704 ] 高考人生的16条定律 <http://dwz.date/bzKx> [ from 文玲 ]
+
+> 干货
+* [ 200708 ] 这份 window.location 备忘单，让你更有条理解决地址路径问题！ <https://mp.weixin.qq.com/s/rsdy33_RpEKS1Kh9JDAYuw> [ from 思源 ]
+    * window.location 对象备忘单
+* [ 200706 ] 他们所说的 CDN 究竟是什么？ <http://dwz.date/bzG3> [ from 良辰 ]
+    * A content delivery network or content distribution network (CDN) is a geographically distributed network of proxy servers and their data centers
+* [ 200621 ] 分分钟教会你搭建企业级的 npm 私有仓库 <https://mp.weixin.qq.com/s/Q9JSBXx7eiq3GuAvg1itIw> [ from 君毅 ]
+    * 介绍如何借助 cnpmjs.org 搭建私有 npm 仓库
+* [ 200620 ] 8 Hacks For Your Next Tech Resume <https://dev.to/gemography/common-mistakes-in-dev-cvs-2a17> [ from 君毅 ]
+    * 不要试图提及你掌握的所有技能，这会给人一种"万事通"的感觉
+    * 将你的技能分成三个等级："精通"（proficient in）、"有实战经验"（experienced with）、"熟悉"（familiar with）
+    * "精通"和"有实战经验"的技能，必须提供细节，要给出项目内容和你的个人成果
+
+> 新鲜货
+* [ 200707 ] 离线预渲染OPR：0成本接入 媲美SSR效果 <http://dwz.date/bzHc> [ from 大民 ]
+    * 不同于SSR在用户访问阶段的渲染，OPR是一个独立于用户访问流程的渲染服务，它通过Puppeteer定期渲染页面并上传cdn，用户访问到的页面将会是纯静态页面，可以说是结合了SSR和Prerender两种方案
+* [ 200708 ] Hightopo提供的响应式可视化大屏 <https://segmentfault.com/a/1190000023139734> [ from 红梅 ]
+      * Hightopo 官网demo https://hightopo.com/demos/index.html
+
+## 200629-200704
 
 `本周轮值主编`: 晓朋 `下周轮值主编`：君毅
 
