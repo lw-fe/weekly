@@ -2,6 +2,36 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200713-200716
+
+`本周轮值主编`: 红梅 `下周轮值主编`：思源
+
+> 工具
+* [ 200713 ] SVG 在线编辑器 <https://svg-editor.6cm.co/> [ from 君毅 ]
+
+> 干货
+* [ 200717 ] HTTP的实体数据 <https://mp.weixin.qq.com/s/_RtJYKVWlQ6cFqXgeaP9JA> [ from 思源 ]
+* [ 200716 ] code-review之前端代码优化 <https://juejin.im/post/5f0fccdd5188252e65442aea> [ from 文玲 ]
+    * if -> switch -> 策略模式
+    * includes
+    * for in -> for of
+    * set实现数组去重
+    * 箭头函数绑定this
+    * DocumentFragment、innerHTML
+    * 防止内存泄露
+    * 使用防抖和节流
+    * script defer和async属性支持异步加载
+* [ 200715 ] Node 服务中如何更好地打日志  <https://juejin.im/post/5f0e5701f265da230e6b68c8>  [ from 红梅 ]
+
+> 经验
+* [ 200716 ] 如何实现 Bilibili 视频播放Chrome 媒体控制效果 <https://www.jackpu.com/ru-he-shi-xian-bilibili-shi-pin-bo-fang-chrome-mei-ti-kong-zhi-xiao-guo/> [ from 红梅 ]
+* [ 200714 ] 如何精确统计页面停留时长 <https://mp.weixin.qq.com/s/0CBL-pytcOGPtYSbz4WVsw> [ from 良辰 ]
+* [ 200701 ] 斗鱼关注人数爬取 ── 字体反爬的攻与防 <https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling> [ from 君毅 ]
+    * 把所有网络请求导出为 HAR 格式，方便搜索关键词
+    * 通过使用 MutationObserver 我们可以监听任意 DOM 的修改事件
+   
+
+
 ## 200705-200711
 
 `本周轮值主编`: 君毅 `下周轮值主编`：红梅
