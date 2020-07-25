@@ -2,6 +2,30 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200720-200725
+
+`本周轮值主编`: 思源 `下周轮值主编`：良辰
+
+> css 
+* [ 200724 ] 妙用 CSS变量，让你的 CSS 变得更心动 <https://mp.weixin.qq.com/s/whtfxJFea-mel00Cw3fZ5g> [ from 文玲 ]
+* [ 200720 ]  你可能不太熟知的布局技巧 <https://mp.weixin.qq.com/s/HYUgb8jEI-aQhbN4sBajNw> [ from 良辰 ]
+> 新东西
+* [ 200724 ] Chrome 84 正式发布，支持私有方法、用户空闲检测！<https://mp.weixin.qq.com/s/QQIZcaS0QT8NXjUWXi6o0A>  [ from 文玲 ]
+* [ 200724 ] 微信支持 H5 跳转 App、跳转小程序 https://mp.weixin.qq.com/s/wlVdXFtvOX-FSN-mjS2bqg  [ from 文玲 ]
+* [ 200724 ] 微前端的现状和趋势 <https://segmentfault.com/a/1190000023365666> [ from 红梅 ]
+
+> 干货
+* [ 200708 ] 75行代码入门 WebGL <https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html> [ from 君毅 ]
+    * 以75行极简代码介绍运行webgl绘制内容的教程及基本核心元素
+* [ 200723 ] Rome <https://romefrontend.dev/> [ from 君毅 ]
+    * Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS
+* [ 200724 ] 什么时候适合使用 Map 而不是 Object <https://mp.weixin.qq.com/s/s2XG4Ly1V5lov1ZciWF0xg> [ from 思源 ]
+    
+> 工具
+*  [ 200725 ] 介绍 5 款免费在线图像工具  <https://segmentfault.com/a/1190000023371362> [ from 红梅 ]
+
+
+
 ## 200713-200716
 
 `本周轮值主编`: 红梅 `下周轮值主编`：思源
