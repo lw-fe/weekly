@@ -11,7 +11,7 @@
 *  [ 200727 ] 前端周报 <https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247498302&idx=1&sn=ee2ed71f19cce87e4acedaff80aaf487> [ from 文玲 ]
 
 > 干货
-
+* [ 200731 ] Node.js 在大前端领域的应用分析 <https://mp.weixin.qq.com/s/uSlXCu6IC0Kys6pgOBp47w> [ from 红梅 ]
 * [ 200731 ] 你真的知道 React Portal 吗？ <https://juejin.im/post/6844904024378982413> [ from 思源 ]
 * [ 200731 ] 传送门：React Portal <https://zhuanlan.zhihu.com/p/29880992> [ from 思源 ]
 * [ 200727 ] 精读函数缓存  <https://zhuanlan.zhihu.com/p/164391037> [ from 良辰 ]
