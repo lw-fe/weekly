@@ -2,6 +2,24 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+## 200727-200801
+
+`本周轮值主编`: 良辰 `下周轮值主编`：文玲
+
+> 资讯
+*  [ 200727 ] 前端周报 <https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247498302&idx=1&sn=ee2ed71f19cce87e4acedaff80aaf487> [ from 文玲 ]
+
+> 干货
+
+* [ 200731 ] 你真的知道 React Portal 吗？ <https://juejin.im/post/6844904024378982413> [ from 思源 ]
+* [ 200731 ] 传送门：React Portal <https://zhuanlan.zhihu.com/p/29880992> [ from 思源 ]
+* [ 200727 ] 精读函数缓存  <https://zhuanlan.zhihu.com/p/164391037> [ from 良辰 ]
+
+> 工具
+* [ 200731 ] 前端项目接入云平台ci/cd操作手册  <http://fe.lvwan-inc.com/zhaowenling/cicd/cicd.md.html> [ from 文玲 ]
+* [ 200731 ] 百度专网地图  <http://dugis.baidu.com/> [ from 大民 ]
+
 ## 200720-200725
 
 `本周轮值主编`: 思源 `下周轮值主编`：良辰
