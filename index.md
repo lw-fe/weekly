@@ -21,7 +21,8 @@
 * [ 200805 ] 查缺补漏」巩固你的HTTP知识体系 <https://juejin.im/post/6857287743966281736> [ from 子哲 ]
 * [ 200801 ] Web Worker 文献综述 <https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ> [ from 鹏程 ]
 * [ 200715 ] 在浏览器中存储数据 - IndexedDB <https://mp.weixin.qq.com/s/EO10qD9hn4cuH5o74_EPSQ> [ from 鹏程 ]
-* [ 200807 ] 你不知道的ES4 <https://mp.weixin.qq.com/s/-Q2bObgW4ZwmrPo7aUQBmA> from [思源]
+* [ 200807 ] 你不知道的ES4 <https://mp.weixin.qq.com/s/-Q2bObgW4ZwmrPo7aUQBmA> [ from 思源]
+* [ 200210 ] 写出一手烂代码的19条准则 <https://www.toutiao.com/i6791612475751006732/>  [ from 大民 ]
 
 
 > vue
@@ -35,7 +36,7 @@
 
 > webpack
 * [ 200807 ] 分享 9 条 Webpack 优化策略 <https://mp.weixin.qq.com/s/xFOPrntp0JHrSPdTKuNDIw> [ from 红梅 ]
-* [ 191117 ] Webpack 4 Tree Shaking 终极优化指南 <https://www.cnblogs.com/lzkwin/p/11878509.html> from [思源]
+* [ 191117 ] Webpack 4 Tree Shaking 终极优化指南 <https://www.cnblogs.com/lzkwin/p/11878509.html> [ from 思源]
 
 > 感悟
 * [ 200805 ] 我做前端这 10 多年来的感悟 -  蚂蚁金服体验技术部的高级前端专家 <https://www.toutiao.com/i6857349519479144972/> [ from 大民 ]
