@@ -3,6 +3,51 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+
+## 200803-200808
+
+`本周轮值主编`: 文玲 `下周轮值主编`：晓朋
+
+> 干货
+* [ 200805 ] 了解 JS 压缩图片，这一篇就够了 <https://mp.weixin.qq.com/s/OTkpetqr0XoY1psjC9z5zQ> [ from 文玲 ]
+    * 弄清 Image 对象、data URL、Canvas 和 File（Blob）之间的转化关系；
+    * 图片压缩关键技巧；
+    * 超大图片压缩黑屏问题。
+    * js-image-compressor
+* [ 200806 ] 图解作用域，作用域链，闭包 <https://juejin.im/post/6857876880701030408> [ from 文玲 ]
+    * [[scope]], 包含了被创建的作用域中的对象的集合，这个集合被称为函数的作用域链
+    * 活动对象在作用域链的最前端
+* [ 200423 ] 图片懒加载踩坑 <https://juejin.im/post/6844903597172342791> [ from 子哲 ]
+* [ 200805 ] 查缺补漏」巩固你的HTTP知识体系 <https://juejin.im/post/6857287743966281736> [ from 子哲 ]
+* [ 200801 ] Web Worker 文献综述 <https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ> [ from 鹏程 ]
+* [ 200715 ] 在浏览器中存储数据 - IndexedDB <https://mp.weixin.qq.com/s/EO10qD9hn4cuH5o74_EPSQ> [ from 鹏程 ]
+* [ 200807 ] 你不知道的ES4 <https://mp.weixin.qq.com/s/-Q2bObgW4ZwmrPo7aUQBmA> from [思源]
+
+
+> vue
+* [ 200806 ] 图解 Vue 响应式原理 <https://juejin.im/post/6857669921166491662> [ from 文玲 ]
+    * 从 Vue 初始化，到首次渲染生成 DOM 的流程。
+    * 从 Vue 数据修改，到页面更新 DOM 的流程。
+* [ 200806 ] Vue3为何使用Proxy实现数据监听 <https://juejin.im/post/6857877411913990158> [ from 文玲 ]
+    * Object.defineProperty，在Vue实例化时遍历所有对象属性，对新增无能为力，容易引起性能问题，需要大内存
+    * Proxy，只要你访问对象，就会走到 Proxy 的逻辑中，已有的 key 还是新增的 key，都会监听到
+    * Proxy 对 IE 不友好，vue3 在检测到使用 IE 的情况下（包括 IE11），会自动降级为 Object.defineProperty 的数据监听系统
+
+> webpack
+* [ 200807 ] 分享 9 条 Webpack 优化策略 <https://mp.weixin.qq.com/s/xFOPrntp0JHrSPdTKuNDIw> [ from 红梅 ]
+* [ 191117 ] Webpack 4 Tree Shaking 终极优化指南 <https://www.cnblogs.com/lzkwin/p/11878509.html> from [思源]
+
+> 感悟
+* [ 200805 ] 我做前端这 10 多年来的感悟 -  蚂蚁金服体验技术部的高级前端专家 <https://www.toutiao.com/i6857349519479144972/> [ from 大民 ]
+
+> 开源
+* [ 200807 ] Sugar-Electron, 基于Electron桌面开发平台的自研应用框架 <<https://juejin.im/post/6857402778122190856> [ from 文玲 ]
+
+> 总结
+* [ 200807 ] 图谱可视化渲染引擎性能比对 <http://fe.lvwan-inc.com/zhaojunyi/SophonWeb/webgl/product-compare/product-compare.md.html> [ from 君毅 ]
+    * 众多主流框架提供了图谱可视化引擎，本篇文章采用同批测试数据主要针对渲染性能进行比对
+
+
 ## 200727-200801
 
 `本周轮值主编`: 良辰 `下周轮值主编`：文玲
