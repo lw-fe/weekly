@@ -3,6 +3,31 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 200803-200808
+
+`本周轮值主编`: 晓朋 `下周轮值主编`：君毅
+
+> 干货
+
+* [200807] Nginx 配置 HTTPS 服务器 <https://aotu.io/notes/2016/08/16/nginx-https/index.html> from [鹏程]
+    *获得 SSL 证书
+    *通过 listen 命令 SSL 参数以及引用 example.key 和 example.crt 文件完成 HTTPS 基础配置
+    *HTTPS优化
+    *HTTP/HTTPS混合服务器配置
+    *基于服务器名称（name-based）的 HTTPS 服务器
+* [ 200809 ] 前端页面可视化搭建工具业界的轮子 <https://juejin.im/post/6858881797490098190> [from 文玲 ]
+    * 业界调研20+项目
+* [ 200814 ] 基于相似度分析的组件聚类 <https://mp.weixin.qq.com/s/g9rCzsdsSUmRLapuD3eCzw> [from 大民 ]
+* [ 200814 ] Babel 插件开发手册 <https://juejin.im/post/6844904055945314312> from [思源]
+* [200814] 6个常见的可访问性问题及解决方案 <https://mp.weixin.qq.com/s/5_elC6uqm6JhBSSECJhkww> [from 良辰 ]
+* [ 180904 ] [CSS] svg路径动画 <https://romefrontend.dev/> [ from 君毅 ]
+    * 纯 css 借助 offset-path，offset-distance 实现
+* [ 160928 ] svg实现自定义路径动画 <https://romefrontend.dev/> [ from 君毅 ]
+    * 借助 path 的 getTotalLength 与 getPointAtLength js api 实现
+* [200814] 如何衡量前端工程质量 <https://mp.weixin.qq.com/s/_jV3KXXZ_3P7A8FnpaqRHQ> [ from 晓朋 ]
+
+> 总结
+* [ 200813 ] 前端行业现状总结 <http://fe.lvwan-inc.com/liuhongmei/others/front-status.md.html> [from 红梅 ]
 
 ## 200803-200808
 
