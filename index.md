@@ -2,8 +2,30 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200810-200815
 
-## 200803-200808
+`本周轮值主编`: 君毅 `下周轮值主编`：红梅
+
+> 干货
+* [ 200821 ]  玩转 CSS 变量 <https://juejin.im/post/6863031374115733518> [ from 红梅]
+
+> 数据可视化
+* [ 170630 ] 遇见大数据可视化：基础研究 <https://cloud.tencent.com/developer/article/1004816> [ from 文玲 ]
+* [ 170630 ] 遇见大数据可视化：未来已来，变革中的数据可视化 <https://cloud.tencent.com/developer/article/1005149> [ from 文玲 ]
+* [ 170705 ] 遇见大数据可视化：可视化系统搭建 <https://cloud.tencent.com/developer/article/1005260> [ from 文玲 ]
+
+> 开源
+* [ 200818 ] Luckysheet， github: <https://github.com/mengshukeji/Luckysheet>  <iframe src="http://258i.com/gbtn.html?user=mengshukeji&repo=Luckysheet&type=star&count=true" frameborder="0" scrolling="0" width="105px" height="20px"></iframe> [ from 君毅 ]
+    * 一个网页开源表格库，实现效果类似 Excel，提供了较丰富的功能
+
+> 新鲜货
+* [ 200818 ] JS 1024 竞赛 <https://js1024.fun/results/2020#46> [ from 君毅 ]
+    * 代码长度不超过1024字节的 JS 程序的比赛，可在线查看 demo，及相关源码
+
+> 资讯
+* [ 200821 ] ECMAScript 双月报告：TC39 7月会议提案进度汇总 <https://mp.weixin.qq.com/s/pCVN0WfzQGFY6cry0O8c5Q> [ from 晓鹏 ]
+
+## 200810-200815
 
 `本周轮值主编`: 晓朋 `下周轮值主编`：君毅
 
@@ -95,7 +117,7 @@
 
 `本周轮值主编`: 思源 `下周轮值主编`：良辰
 
-> css 
+> css
 * [ 200724 ] 妙用 CSS变量，让你的 CSS 变得更心动 <https://mp.weixin.qq.com/s/whtfxJFea-mel00Cw3fZ5g> [ from 文玲 ]
 * [ 200720 ]  你可能不太熟知的布局技巧 <https://mp.weixin.qq.com/s/HYUgb8jEI-aQhbN4sBajNw> [ from 良辰 ]
 > 新东西
@@ -109,7 +131,7 @@
 * [ 200723 ] Rome <https://romefrontend.dev/> [ from 君毅 ]
     * Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS
 * [ 200724 ] 什么时候适合使用 Map 而不是 Object <https://mp.weixin.qq.com/s/s2XG4Ly1V5lov1ZciWF0xg> [ from 思源 ]
-    
+
 > 工具
 *  [ 200725 ] 介绍 5 款免费在线图像工具  <https://segmentfault.com/a/1190000023371362> [ from 红梅 ]
 
@@ -142,7 +164,7 @@
 * [ 200701 ] 斗鱼关注人数爬取 ── 字体反爬的攻与防 <https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling> [ from 君毅 ]
     * 把所有网络请求导出为 HAR 格式，方便搜索关键词
     * 通过使用 MutationObserver 我们可以监听任意 DOM 的修改事件
-   
+
 
 
 ## 200705-200711
