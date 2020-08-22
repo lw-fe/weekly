@@ -7,7 +7,11 @@
 `本周轮值主编`: 君毅 `下周轮值主编`：红梅
 
 > 干货
-* [ 200821 ]  玩转 CSS 变量 <https://juejin.im/post/6863031374115733518> [ from 红梅]
+* [ 200821 ] 玩转 CSS 变量 <https://juejin.im/post/6863031374115733518> [ from 红梅]
+* [ 200818 ] 精读《Tasks, microtasks, queues and schedules》 https://mp.weixin.qq.com/s/osRVRjMzgEnmlBgQrurd3w [ from 思源 ]
+* [ 200821 ] 拒绝JavaScript，这三个CSS技巧你一定用的上 <https://zhuanlan.zhihu.com/p/113159493> [ from 凌云 ]
+* [ 200821 ] 通过例子来理解 React 的事件系统 https://juejin.im/post/6863083643427979271 [from 思源]
+* [ 200821 ] React 的事件机制 https://zhuanlan.zhihu.com/p/49067231 [from 思源]
 
 > 数据可视化
 * [ 170630 ] 遇见大数据可视化：基础研究 <https://cloud.tencent.com/developer/article/1004816> [ from 文玲 ]
