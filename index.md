@@ -2,6 +2,32 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 200824-200819
+
+`本周轮值主编`: 思源 `下周轮值主编`：红梅
+
+> 基础
+
+* [ 200531 ] 图解javascript——基础篇 <https://mp.weixin.qq.com/s/jOjUPR-t-wX0TI9rD3P45Q> [ from 文玲 ]
+* [ 200603 ] 图解JavaScript——进阶篇 <https://mp.weixin.qq.com/s/sAKkyR9XNtQIYWL6F0PDIA> [ from 文玲 ]
+* [ 200609 ] 图解23种设计模式（TypeScript版）<https://mp.weixin.qq.com/s/GzPqSgna9Fwqal-5Oyg5EA> [ from 文玲 ]
+
+> 干货
+* [ 200828 ]  用「增量」思想提升代码检查和打包构建的效率 <https://juejin.im/post/6865101730166767623> [ from 晓朋 ]
+      *  增量方式实现代码规范检测，对于遗留老代码可以做到逐步检查和提高效率
+* [ 200828 ] CSS变量对JS交互组件开发带来的提升与变革 <https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components> [ from 凌云 ]
+* [ 200828 ]  初探视频原理和FFmpeg <https://juejin.im/post/6864520204731285511> [ from 良辰 ]
+* [ 200828 ]  React中key的一点总结<https://juejin.im/post/6844903700209598477> [ from 子哲 ]
+      *  运用index作为key的反面举例
+> 实践
+* [ 200819 ] 从0到1，搭建一个体系完善的前端React组件库 <https://my.oschina.net/u/3247020/blog/4512048> [ from 君毅 ]
+    * Npm关联gitlab，通过指定指定分支下特定目录的package.json，实现版本升级后自动发布
+    * 在确保代码一定是通过node模块方式加载的时候，只需要打出commonjs2的模块来显著地提升了打包速度，减小打包体积
+    * 拆分独立功能包后，可以让我们扩展和组合出更多灵活多样的组件库，让组件库不再单一而臃肿
+* [ 200819 ] 开启gzip压缩 <http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/gzip.md> [ from 思源 ]
+* [ 200829 ] 提高渲染速度，怎么让资源预加载？ <http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/link-preload.md> [ from 思源 ]
+
+
 ## 200810-200815
 
 `本周轮值主编`: 君毅 `下周轮值主编`：红梅
