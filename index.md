@@ -13,11 +13,11 @@
 * [ 200609 ] 图解23种设计模式（TypeScript版）<https://mp.weixin.qq.com/s/GzPqSgna9Fwqal-5Oyg5EA> [ from 文玲 ]
 
 > 干货
-* [ 200828 ]  用「增量」思想提升代码检查和打包构建的效率 <https://juejin.im/post/6865101730166767623> [ from 晓朋 ]
+* [ 200828 ]  用「增量」思想提升代码检查和打包构建的效率 <https://juejin.im/post/6865101730166767623> [ from 晓朋 ]  
       *  增量方式实现代码规范检测，对于遗留老代码可以做到逐步检查和提高效率
 * [ 200828 ] CSS变量对JS交互组件开发带来的提升与变革 <https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components> [ from 凌云 ]
 * [ 200828 ]  初探视频原理和FFmpeg <https://juejin.im/post/6864520204731285511> [ from 良辰 ]
-* [ 200828 ]  React中key的一点总结<https://juejin.im/post/6844903700209598477> [ from 子哲 ]
+* [ 200828 ]  React中key的一点总结<https://juejin.im/post/6844903700209598477> [ from 子哲 ]  
       *  运用index作为key的反面举例
 > 实践
 * [ 200819 ] 从0到1，搭建一个体系完善的前端React组件库 <https://my.oschina.net/u/3247020/blog/4512048> [ from 君毅 ]
