@@ -2,7 +2,39 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
-## 200824-200819
+## 200831-200905
+
+`本周轮值主编`: 红梅 `下周轮值主编`：良辰
+
+> 干货
+
+* [ 200904 ] 你还在为项目里的重复请求发愁吗? <https://juejin.im/post/6868530321776705544> 两个工具（repeat-request-minder和repeat-request-minder-webpack-plugin）来辅助我们避免重复的请求。
+    * 通过改写XMLHttpRequest中的方法来实现监控每个请求是否重复
+    * 引入LRU Cache算法来控制缓存的大小
+* [200904] 你不知道的前端异常处理 <https://zhuanlan.zhihu.com/p/150262359> [from 凌云]
+* [200904] npm 依赖管理中被忽略的那些细节 <https://mp.weixin.qq.com/s/JHDVh9wGj_YaTLtSz4AH7g> from [思源]
+* [ 200903 ] BetterScroll 2.0 发布 <https://juejin.im/post/6868086607027650573>
+    * 支持按需加载功能
+    * 插件化的架构设计
+    * TypeScript实现
+* [ 200831 ] 广告短信的退订内幕 <https://daily.zhihu.com/story/9726870> [ from 君毅 ]
+    * 运气好他会去通讯录里，手动把回复短信的人的号码搜出来，删掉，之后不再给人家发信息，反之...屁用没有
+* [ 200831 ] ts-migrate <http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html> [ from 君毅 ]
+    * Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript 代码
+ 
+> 工具
+
+* [200903]  Chrome 开发工具插件推荐 <https://www.infoq.cn/article/3zoQAl2ZX4pkdEBgsbVf> [from 红梅]
+
+> 新鲜货
+
+* [200903]  教你使用CSS3实现新拟态UI <https://juejin.im/post/6868099832175820808> [from 红梅]
+* 新拟态的概念
+* 如何实现
+
+
+
+## 200824-200829
 
 `本周轮值主编`: 思源 `下周轮值主编`：红梅
 
