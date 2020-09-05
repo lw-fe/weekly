@@ -7,7 +7,7 @@
 `本周轮值主编`: 红梅 `下周轮值主编`：良辰
 
 > 干货
-
+* [ 200905 ] CSS渐变效果收集 https://www.gradientmagic.com/ [from 良辰]
 * [ 200904 ] 你还在为项目里的重复请求发愁吗? <https://juejin.im/post/6868530321776705544> 两个工具（repeat-request-minder和repeat-request-minder-webpack-plugin）来辅助我们避免重复的请求。 [from 文玲]
     * 通过改写XMLHttpRequest中的方法来实现监控每个请求是否重复
     * 引入LRU Cache算法来控制缓存的大小
