@@ -8,12 +8,12 @@
 
 > 干货
 
-* [ 200904 ] 你还在为项目里的重复请求发愁吗? <https://juejin.im/post/6868530321776705544> 两个工具（repeat-request-minder和repeat-request-minder-webpack-plugin）来辅助我们避免重复的请求。
+* [ 200904 ] 你还在为项目里的重复请求发愁吗? <https://juejin.im/post/6868530321776705544> 两个工具（repeat-request-minder和repeat-request-minder-webpack-plugin）来辅助我们避免重复的请求。 [from 文玲]
     * 通过改写XMLHttpRequest中的方法来实现监控每个请求是否重复
     * 引入LRU Cache算法来控制缓存的大小
 * [200904] 你不知道的前端异常处理 <https://zhuanlan.zhihu.com/p/150262359> [from 凌云]
 * [200904] npm 依赖管理中被忽略的那些细节 <https://mp.weixin.qq.com/s/JHDVh9wGj_YaTLtSz4AH7g> from [思源]
-* [ 200903 ] BetterScroll 2.0 发布 <https://juejin.im/post/6868086607027650573>
+* [ 200903 ] BetterScroll 2.0 发布 <https://juejin.im/post/6868086607027650573> [from 文玲]
     * 支持按需加载功能
     * 插件化的架构设计
     * TypeScript实现
