@@ -2,6 +2,36 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+
+## 200831-200905
+
+`本周轮值主编`: 良辰 `下周轮值主编`：凌云
+
+> 干货
+* [ 200831 ] 你应该了解的 5 种 TypeScript 设计模式 <https://www.infoq.cn/article/2VJ1tSD1dimElT3qg0Kv> [ from 文玲 ]
+    * 结构模式，负责处理不同组件（或类）之间的关系，并形成新结构以提供新功能。结构模式的例子有组合（Composite）、适配器（Adapter）和装饰器（Decorator）。
+    * 行为模式，它们能将组件之间的通用行为抽象为一个单独的实体，进而与你的创建模式结合起来。行为模式的例子包括命令（Command）、策略（Strategy）以及我个人最喜欢的一种：观察者（Observer）模式。
+    * 创建模式，它们专注于类的实例化，简化新实体的创建过程，例如工厂（Factory）方法、单例（Singleton）和抽象工厂（Abstract Factory）
+
+* [ 200831 ] 自绘引擎时代，为什么 Flutter 能突出重围？ <https://www.infoq.cn/article/XqgGDfq2Uazug881G89M> [ from 文玲 ]
+
+* [ 200911 ] 【前端体系】从一道面试题谈谈对EventLoop的理解 <https://juejin.im/post/6868849475008331783> [ from 凌云]
+* [ 200911 ]  优选/疯狂拉扯js中的原型＜https://juejin.im/post/6870754457379373069＞ [ from 子哲 ]
+
+* [ 200911 ] 尤雨溪的几个问答 https://mp.weixin.qq.com/s/Eppct54h0TiN76b3nnEYcw [ from 思源 ]
+
+* [ 200911 ] 多种方式实现自定义 React 路由拦截弹窗  https://juejin.im/post/6871018004289683463#heading-0 [ from 良辰]
+
+> 资讯
+* [ 200810 ] 谁扼住了华为：美日半导体霸权的三张牌 <http://tech.sina.com.cn/csj/2020-08-10/doc-iivhuipn7797138.shtml> [ from 君毅 ]
+    * 设备：美国靠着多年的“时间积累”和超高精密度“工艺技术”，在设备领域形成了牢牢的主动权
+    * 工具：我国最大的EDA厂商华大九天在全球的份额差不多是1%，而美国三大厂商Synopsys（新思科技）、Cadence（楷登电子）以及Mentor Graphics（明导科技，2016年被西门子收购）则占据了80%以上的市场
+    * 材料：光伏硅片里包含的杂质，相当于一桶沙子洒在了操场上；那么半导体硅片的要求则是在两个足球场大的面积里，只能容下一粒沙子
+
+
+
+
 ## 200831-200905
 
 `本周轮值主编`: 红梅 `下周轮值主编`：良辰
