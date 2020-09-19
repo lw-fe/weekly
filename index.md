@@ -9,14 +9,17 @@
 
 > 干货
 * [ 200915 ] 如何搭一个自己的脚手架 <https://juejin.im/post/6844903823455027207> [ from 思源 ]
-* [ 200915 ] 逐行分析鸿蒙系统的 JavaScript 框架 <https://juejin.im/post/6872639403102208014>  [ from 红梅 ]
 * [ 200916 ] 前端一键自动部署工具 <https://juejin.im/post/6872914108979609614> 前端一键自动化部署脚手架服务，支持开发、测试、生产多环境配
 置。配置好后一键即可自动完成部署[ from 文玲 ]
+* [ 200915 ] 逐行分析鸿蒙系统的 JavaScript 框架 <https://juejin.im/post/6872639403102208014>  [ from 红梅 ]
 * [ 200918 ]  鸿蒙系统中的 JS 开发框架 <https://mp.weixin.qq.com/s/IhACmlQ6Df0A2R-Y9Kkxig> [ from 红梅 ]
    * 轻量级
    * 用于物联网的超轻量 JavaScript 引擎JerryScript
    * js 框架大概使用了 96% 的 C/C++ 代码，1.8% 的 JS 代码
 * [ 200918 ] 什么是时间分片（Time Slicing）？ <https://mp.weixin.qq.com/s/Zbe0EaSvkXjGqP6A_3pHow> [ from 凌云 ]
+
+> 资讯
+* [ 200917 ] Moment.js 宣布停止开发，现在该用什么？ https://juejin.im/post/6873268471329898509 [ from 良辰 ]
 
 > 新鲜货
 * [ 200917 ] 全历史 <https://www.allhistory.com/?utm_source=nicelinks.site> [ from 君毅 ]
