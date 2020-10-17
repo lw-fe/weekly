@@ -3,6 +3,36 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 200921-201017
+
+`本周轮值主编`: 红梅 `下周轮值主编`：晓朋
+
+> 干货
+* [ 200922 ] 细数 TS 中那些奇怪的符号 <https://juejin.im/post/6875091047752400910>  [from 文玲]
+* [ 200324 ] 性能优化-代码分割 <https://juejin.im/post/6844904101134729229>  [from 雪松]
+* [ 201012 ] 阔别两年，webpack 5 正式发布了！<https://juejin.im/post/6882663278712094727>  [from 文玲]
+    * 尝试用持久性缓存来提高构建性能。
+    * 尝试用更好的算法和默认值来改进长期缓存。
+    * 尝试用更好的 Tree Shaking 和代码生成来改善包大小。
+    * 尝试改善与网络平台的兼容性。
+    * 尝试在不引入任何破坏性变化的情况下，清理那些在实现 v4 功能时处于奇怪状态的内部结构。
+    * 试图通过现在引入突破性的变化来为未来的功能做准备，尽可能长时间地保持在 v5 版本上。
+* [ 190518 ] 移动端 300ms 延迟 <https://juejin.im/post/6844903846418841608>  [from 雪松]
+* [ 201016 ] 前端模块化的十年征程 <https://zhuanlan.zhihu.com/p/265632724?utm_source=wechat_session&utm_medium=social&s_r=0&wechatShare=1>  [from 晓朋]
+* [ 201015 ] 浏览器资源加载过程与优化 <https://juejin.im/post/6844903545016156174> [from 思源]
+* [ 201016 ] 为什么HTTP3.0使用UDP协议  <https://mp.weixin.qq.com/s/zGJpULf4YGzzykvP5xwUzw>  [from 凌云]
+* [ 201016 ] webpack打包内存溢出 <http://fe.lvwan-inc.com/liuhongmei/others/webpack-heap-outofmemory.md.html>  [from 红梅]
+
+> 教程
+* [ 201014 ] 15分钟入门Typescript <https://juejin.im/post/6883432548970545160>  [from 文玲]
+* [201015 ] 记一次前端SVG实战知识分享会 <https://segmentfault.com/a/1190000037490877>  [from 红梅]
+
+> 工具
+* [ 201013 ] visx <https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn> [ from 君毅 ]
+    * Airbnb 推出的一套基于 D3 和 React 的数据可视化组件库。
+    * 与 echarts 等库不同的是，它的粒度更细，交互，可视化都封装为了react 组件，可根据该库创建自己的图表库
+
+
 ## 200914-200919
 
 `本周轮值主编`: 文玲 `下周轮值主编`：晓朋
