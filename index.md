@@ -27,11 +27,9 @@
     * 初步总结借助 webassembly 提速的图谱布局模块在实际项目中如何使用落地
 
 * [201023] 彻底搞懂Promise  <https://mp.weixin.qq.com/s/h-AVTOhqdCRaFSj-BjPUmg> [from 红梅]
-
+* [ 201024 ] 你可能不知道的Animation动画技巧与细节 <https://mp.weixin.qq.com/s/7Oz8cM7MqMkoal1T9ZHXnA> [from 晓朋]
 * [201020] 搞懂nginx 这篇就够了 <https://mp.weixin.qq.com/s/zusUZn_YAw3hd6QwNoFmtQ>[from 红梅]
-
 * [201019]JS 实用小技巧，根据上下文改进条件语句的 6 种方法<https://juejin.im/post/6885108817856561165> [ from 雪松 ]
-
 * [201023] leaflet地图生成图片下载 http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/leaflet-download.md [from 思源]
 
 > 资讯
