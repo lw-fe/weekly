@@ -9,16 +9,16 @@
 
 > 干货
 
-*[201023] 虚拟DOM Diff算法解析 https://www.infoq.cn/article/react-dom-diff [from 思源]
+* [201023] 虚拟DOM Diff算法解析 https://www.infoq.cn/article/react-dom-diff [from 思源]
 * [ 201019 ] 网易严选的前端工程化实践 <https://mp.weixin.qq.com/s/gS2cCvBDlSJoSVgiCalWZg> 工程化方案应该符合以下四个特点： [ from 文玲 ]
     * 渐进式（技术演化能力）易于迭代
     * 扩展性（可伸缩、可插拔）易于部门共建
     * 易用性（贴合实际）易落地
     * 数据统计与分析 
 
-[ 200902 ]https://web.dev/css-marker-pseudo-element/  使用 CSS：：marker 的自定义项目符号 [ from 良辰 ]
+* [ 200902 ]https://web.dev/css-marker-pseudo-element/  使用 CSS：：marker 的自定义项目符号 [ from 良辰 ]
 
-*[201022]2020年你不应该错过的CSS新特性<https://juejin.im/post/6886258269137043464> [ from 雪松 ]
+* [201022]2020年你不应该错过的CSS新特性<https://juejin.im/post/6886258269137043464> [ from 雪松 ]
 
 * [ 201003 ] Responsive Website with only 1 CSS PROPERTY Clamp <https://dev.to/dip15739/responsive-website-with-only-1-css-property-3ea9> [ from 君毅 ]
     * 只用这个clamp就能实现响应式布局。如果元素的属性值有上限和下限，它比 min() 和 max() 都方便，语法是 clamp(最小值, 属性值, 最大值)
@@ -26,13 +26,13 @@
 * [ 201019 ] webassembly 项目实际落地初步总结 <http://fe.lvwan-inc.com/zhaojunyi/other/webassembly/webassembly.md.html> [ from 君毅 ]
     * 初步总结借助 webassembly 提速的图谱布局模块在实际项目中如何使用落地
 
-*[201023] 彻底搞懂Promise  <https://mp.weixin.qq.com/s/h-AVTOhqdCRaFSj-BjPUmg> [from 红梅]
+* [201023] 彻底搞懂Promise  <https://mp.weixin.qq.com/s/h-AVTOhqdCRaFSj-BjPUmg> [from 红梅]
 
-*[201020] 搞懂nginx 这篇就够了 <https://mp.weixin.qq.com/s/zusUZn_YAw3hd6QwNoFmtQ>[from 红梅]
+* [201020] 搞懂nginx 这篇就够了 <https://mp.weixin.qq.com/s/zusUZn_YAw3hd6QwNoFmtQ>[from 红梅]
 
-*[201019]JS 实用小技巧，根据上下文改进条件语句的 6 种方法<https://juejin.im/post/6885108817856561165> [ from 雪松 ]
+* [201019]JS 实用小技巧，根据上下文改进条件语句的 6 种方法<https://juejin.im/post/6885108817856561165> [ from 雪松 ]
 
-*[201023] leaflet地图生成图片下载 http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/leaflet-download.md [from 思源]
+* [201023] leaflet地图生成图片下载 http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/zhaisiyuan/article/leaflet-download.md [from 思源]
 
 > 资讯
 
