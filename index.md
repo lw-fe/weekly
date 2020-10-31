@@ -2,6 +2,32 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 201026-201031
+
+`本周轮值主编`: 君毅 `下周轮值主编`：思源
+
+> 干货
+
+* [ 201026 ] Beautiful CSS 3D Transform Examples <https://polypane.app/css-3d-transform-examples> [ from 君毅 ]
+    * CSS 3D demo，需多借助 perspective 和 transform-style 属性
+* [ 201028 ] TipTap <https://tiptap.dev>  [ from 君毅 ]
+    * 轻量级富文本编辑器，真的很简洁
+* [ 201030 ] 如何阅读源码 <https://segmentfault.com/a/1190000037661260> [ from 红梅 ]
+* [ 201029 ] React组件到底什么时候render啊 <https://mp.weixin.qq.com/s/Mpe6Pyvj3oHMHYix2Tg7Mg> [ from 思源 ]
+* [ 201030 ] 前端前沿观察，Cookie 居然可以这样整了 <https://mp.weixin.qq.com/s/yBbzkPYhJomjXP-a_TeIVg> [ from 思源 ]
+* [ 201008 ] Facebook 新一代 React 状态管理库 Recoil <https://mp.weixin.qq.com/s/CK8jcN4tVrOw_lx5MHSr6Q> [ from 雪松 ]
+* [ 201030 ] 多业务场景下前端工程化的思考 <https://juejin.im/post/6889342911905792013> [ from 文玲 ]
+    * 前端工程化包含模块化、组件化、规范化、自动化。
+* [ 201030 ] 从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！<https://segmentfault.com/a/1190000013662126> [ from 凌云 ]
+* [ 201013 ] 从浏览器渲染层面解析css3动效优化原理 <https://aotu.io/notes/2020/10/13/css3-optimization/> [ from 良辰 ]
+
+> 新鲜货
+
+* [ 201026 ] 宇宙模型 <http://stars.chromeexperiments.com> [ from 君毅 ]
+    * webgl 实现的宇宙模型，可参考具体的 shader 文件
+* [ 201031 ] flex布局小游戏，送小青蛙回家 <http://flexboxfroggy.com/#zh-cn> [ from 雪松 ]
+
+
 
 ## 201019-201024
 
@@ -14,7 +40,7 @@
     * 渐进式（技术演化能力）易于迭代
     * 扩展性（可伸缩、可插拔）易于部门共建
     * 易用性（贴合实际）易落地
-    * 数据统计与分析 
+    * 数据统计与分析
 
 * [ 200902 ]https://web.dev/css-marker-pseudo-element/  使用 CSS：：marker 的自定义项目符号 [ from 良辰 ]
 
@@ -22,7 +48,7 @@
 
 * [ 201003 ] Responsive Website with only 1 CSS PROPERTY Clamp <https://dev.to/dip15739/responsive-website-with-only-1-css-property-3ea9> [ from 君毅 ]
     * 只用这个clamp就能实现响应式布局。如果元素的属性值有上限和下限，它比 min() 和 max() 都方便，语法是 clamp(最小值, 属性值, 最大值)
-    
+
 * [ 201019 ] webassembly 项目实际落地初步总结 <http://fe.lvwan-inc.com/zhaojunyi/other/webassembly/webassembly.md.html> [ from 君毅 ]
     * 初步总结借助 webassembly 提速的图谱布局模块在实际项目中如何使用落地
 
@@ -72,7 +98,7 @@
 
 > 干货
 * [ 200923 ] 深入揭秘前端路由本质，手写 mini-router <https://mp.weixin.qq.com/s/iIp3z_Qjy7i_AEqdx5d0xg> [ from 思源 ]
-* [ 200910 ] 关于 useState 的一切 <https://mp.weixin.qq.com/s/htuG8JDQ0HRmztil3pP_tg> [from 文玲 ] 
+* [ 200910 ] 关于 useState 的一切 <https://mp.weixin.qq.com/s/htuG8JDQ0HRmztil3pP_tg> [from 文玲 ]
     * usestate通过使用全局变量currentlyRenderingFiber来保持状态
     * usestate通过单向链表触发diapathaction来执行update
 * [ 200915 ] 轻松学会 React 钩子：以 useEffect() 为例 <http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html> [ from 君毅 ]
@@ -89,5 +115,5 @@
     * Flutter 最初是应用于 iOS 和 Android 应用开发的，后扩展到了 Web、macOS 和 Linux，现如今也可以开发 Windows 应用了，补齐了全平台的最后一块拼图。
     * windows平台 flutter doctor检测依赖项
 
-    
+
 
