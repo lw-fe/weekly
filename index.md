@@ -2,6 +2,40 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 201102-201107
+
+`本周轮值主编`: 思源 `下周轮值主编`：良辰
+
+> 技巧
+* [ 201106 ] 对开发人员有用的定律、理论、原则和模式 https://github.com/nusr/hacker-laws-zh [ from 良辰 ]
+* [ 201105 ] console.log以外的调试方法 <https://juejin.im/post/6891427703249977352> [ from 雪松 ]
+* [ 201106 ] 你可能不知道的Animation动画技巧与细节 https://mp.weixin.qq.com/s/kSN6-SA4RDZ142glYZ_EYw [from 思源]
+
+> 资讯
+* [ 201106 ] 微软将不兼容IE的网站重定向到Edge <https://mp.weixin.qq.com/s/vxWo6Ptq4CRWGZQhpzTeng> [ from 红梅 ]
+
+> 干货
+* [ 201019 ] 你必须知道的11个微前端框架 <https://www.infoq.cn/article/22CIyQBs3S0bHeKVNORP> [ from 君毅 ]
+    * Bit
+    * Single SPA
+* [ 201016 ] 为何不推荐使用 Sass 作为 css 预处理器 <https://quickapp.lovejade.cn/why-sass-is-not-recommended-as-a-css-preprocessor/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io> [ from 君毅 ]
+    * node-sass 与 Node.js 版本相关联；这就导致，一旦本地 Node.js 升级，就会出现 node-sass 无法工作的情况
+* [ 201106 ] 从图形语法理解各类图表库 <https://juejin.im/post/6891966436856561672> [ from 文玲 ]
+    * 图表库按照表达性和速度的差异分为三类：交互式分析工具、编程式引擎、声明式组件库
+    * 可视化核心：图形语法
+    * 图形构造三个步骤：规范定义（Specification）、组装（Assembly）、显示（Diplay）
+    * 规范定义包括六部分：数据（Data）、转换（Trans）、标度（Scale）、坐标（Coord）、图形（Element）、参考（Guide）
+    * 视觉编码包括视觉标记（点、线、面）、视觉通道（位置变量（x、y、z坐标）和视觉变量（尺寸、明度、纹理、颜色、方向、形状））
+
+* [ 201104 ] 从王者荣耀里我学会的前端新手指引 <https://juejin.im/post/6891053442530279432> [ from 文玲 ]
+    * 通过z-index让目标元素置于蒙层之上，然后再在蒙层和目标元素之间加入一个白色的背景框，达到高亮的效果；通过getBoundingClientRect属性来获取
+目标元素的大小及其相对于视口的位置，通过绝对定位来进行布局
+    * box-shadow: 0 0 0 2000px rgba(0,0,0,.5);
+    * 开源库实现：driver.js <https://github.com/kamranahmedse/driver.js>
+* [ 201106 ] 从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理 <https://segmentfault.com/a/1190000012925872> [ from 凌云 ]
+* [ 201106 ] 更好的理解中间件和洋葱模型  <https://mp.weixin.qq.com/s/sqbiK5CyMdq_mrFfA2ER8A> [ from 红梅 ]
+
+
 ## 201026-201031
 
 `本周轮值主编`: 君毅 `下周轮值主编`：思源
