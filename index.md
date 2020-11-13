@@ -4,20 +4,21 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
-## 201102-201107
+## 201109-201114
 
 `本周轮值主编`: 海萍 `下周轮值主编`：良辰
 
 > 技巧
-
-
-> 资讯
-
+* [ 201113 ] 你不知道的 Canvas 绘制过程也可以直接转视频的 <https://mp.weixin.qq.com/s/FW_JLcPKueDKOGTFfzimPw> [ from 思源 ]
+* [ 201109 ] 前端性能优化 24 条建议（2020）<https://juejin.im/post/6892994632968306702> [ from 芳朝 ]
+* [ 201111 ] 使用 Preload&Prefetch 优化前端页面的资源加载 <https://juejin.im/post/6893681741240909832> [ from 雪松 ]
 
 > 干货
 * [ 200913 ] 开源H5可视化编辑器Dooring之 动态表单设计器实现 <https://www.imooc.com/article/310591> [ from 文玲 ] 
    * (H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。
    *  技术栈以react为主， 后台采用nodejs开发, 代码地址：<https://github.com/MrXujiang/h5-Dooring>
+* [ 201113 ] 缩减 SCSS 50%样式代码的 14 条实战经验 <https://mp.weixin.qq.com/s/4mPvpxsE3GZ7z63Pa3cHPA> [ from 文玲 ]
+* [ 201113 ] 聊一聊二维码扫描登录原理 <https://juejin.im/post/6844904111398191117> [ from 凌云 ]
 
 
 
