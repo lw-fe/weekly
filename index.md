@@ -4,6 +4,24 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 201116-201121
+
+`本周轮值主编`: 良辰 `下周轮值主编`：凌云
+
+> 技巧
+* [ 201119 ] React 中阻止事件冒泡的问题 https://mp.weixin.qq.com/s/_2fimwWIat1QMqRhyPqu9g [ from 思源 ]
+* [ 200824 ] 基于React+Koa实现一个h5页面可视化编辑器－Dooring <https://mp.weixin.qq.com/s/cg9BZniPTCpxXq66YR7jsA> [ from 文玲 ]
+    拖拽式生成可视化大屏，开源地址：https://github.com/MrXujiang/h5-Dooring
+* [ 201116 ] 不可思议，纯 css 都能图片滚动 [ from 雪松 ]
+     <https://juejin.cn/post/6895584191073927175>
+* [ 201118 ] 双11主会场性能体验提升 - 秒开优化 [ from 雪松 ]
+   <https://mp.weixin.qq.com/s/K0nEzRfXdIDFMMk2vRiiXA> 
+* [ 201120 ] 如何打造一款标准的 JS SDK <https://mp.weixin.qq.com/s/zxXod2FyRqg93TkvP_2Bdw> [ from 晓朋 ]
+* [ 201120 ] postMessage 还能这样玩 < https://juejin.cn/post/6895502625970585607 > [ from 凌云 ]
+* [ 201119 ] chrome更新了87版本 <https://segmentfault.com/a/1190000038217282> [ from 红梅 ]
+* [ 201112 ] React 17的特性 <https://juejin.cn/post/6894204813970997256> [ from 红梅 ]
+* [ 201120 ] React 中阻止事件冒泡的问题 https://www.cnblogs.com/Wayou/p/react_event_issue.html [ from 良辰 ]
+
 ## 201109-201114
 
 `本周轮值主编`: 海萍 `下周轮值主编`：良辰
