@@ -8,7 +8,7 @@
 
 `本周轮值主编`: 良辰 `下周轮值主编`：凌云
 
-> 技巧
+
 * [ 201119 ] React 中阻止事件冒泡的问题 https://mp.weixin.qq.com/s/_2fimwWIat1QMqRhyPqu9g [ from 思源 ]
 * [ 200824 ] 基于React+Koa实现一个h5页面可视化编辑器－Dooring <https://mp.weixin.qq.com/s/cg9BZniPTCpxXq66YR7jsA> [ from 文玲 ]
     拖拽式生成可视化大屏，开源地址：https://github.com/MrXujiang/h5-Dooring
@@ -20,7 +20,6 @@
 * [ 201120 ] postMessage 还能这样玩 < https://juejin.cn/post/6895502625970585607 > [ from 凌云 ]
 * [ 201119 ] chrome更新了87版本 <https://segmentfault.com/a/1190000038217282> [ from 红梅 ]
 * [ 201112 ] React 17的特性 <https://juejin.cn/post/6894204813970997256> [ from 红梅 ]
-* [ 201120 ] React 中阻止事件冒泡的问题 https://www.cnblogs.com/Wayou/p/react_event_issue.html [ from 良辰 ]
 
 ## 201109-201114
 
