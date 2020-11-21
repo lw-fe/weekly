@@ -20,6 +20,8 @@
 * [ 201120 ] postMessage 还能这样玩 < https://juejin.cn/post/6895502625970585607 > [ from 凌云 ]
 * [ 201119 ] chrome更新了87版本 <https://segmentfault.com/a/1190000038217282> [ from 红梅 ]
 * [ 201112 ] React 17的特性 <https://juejin.cn/post/6894204813970997256> [ from 红梅 ]
+* [ 201120 ]js动画库 <https://github.com/juliangarnier/anime/> [ from 海萍 ]
+* [ 200918 ] 使用NodeJS实现JWT原理 <https://juejin.cn/post/6873700061000237069> from [ 良辰 ] 
 
 ## 201109-201114
 
