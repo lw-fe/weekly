@@ -9,6 +9,7 @@
 
 > 技巧
 * [ 201128 ] Js实现粘贴上传图片 https://blog.yzmcms.com/js/218.html [ from 凌云 ]
+* [ 201126 ]手写CommonJS 中的 require函数 https://mp.weixin.qq.com/s/ZzFOXtmPQIhpnDJpi1l9gQ [ from 红梅 ]
 
 > 干货
 * [ 201127 ] 一文带你快速上手 Rollup  https://mp.weixin.qq.com/s/S-WgcO9aFrYp2tvnMMsRPg  [ from 思源 ]
