@@ -3,31 +3,55 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
-## 201116-201121
+## 201130-201205
+
+`本周轮值主编`：文玲 `下周轮值主编`：凌云
+
+> 干货
+* [ 201113 ] 修复 React 代码中烦人的 Warning <https://mp.weixin.qq.com/s/lNr5pNLtgXVNQlR6GDkd3g >[ from 思源 ]
+* [ 201202 ] 一些有意思的前端冷知识 <https://juejin.cn/post/6901528736567394318> [ from 雪松 ]
+* [ 201202 ] Webpack 的异步加载原理及分包策略 <https://mp.weixin.qq.com/s/ZGcPPXp_Xczsbb5iZuj7Nw> [ from 文玲 ]
+    * webpack异步加载
+        * webpack1,2,3 require.ensure
+        * webpack4, es6 import
+        * 路由懒加载, 异步组件，promise resolve异步机制
+    * webpack分包策略
+        * CommonsChunkPlugin
+        * optimization.splitChunks （webpack4）
+* [ 201201 ]  如何使用基本的 HTML 元素在边框中添加文本 <https://css-tricks.com/how-to-add-text-in-borders-using-basic-html-elements/> [ from 良辰 ]
+* [ 201205 ] 不能说的秘密——前端也能玩的图片隐写术 <http://zhishichong.com/article/115011> [ from 晓朋 ]
+
+
+> 开源
+* [ 201130 ] Logseq 一个开源的在线笔记工具<https://logseq.com/> [ from 君毅 ]
+    * 不存储数据，借助 GitHub 实现的在线笔记工具，使用方便，支持 markdown，能够将不同文本关联起来形成知识图谱
+
+
+## 201123-201128
 
 `本周轮值主编`：雪松 `下周轮值主编`：凌云
 
 > 技巧
-* [ 201128 ] Js实现粘贴上传图片 https://blog.yzmcms.com/js/218.html [ from 凌云 ]
-* [ 201126 ]手写CommonJS 中的 require函数 https://mp.weixin.qq.com/s/ZzFOXtmPQIhpnDJpi1l9gQ [ from 红梅 ]
+* [ 201128 ] Js实现粘贴上传图片 <https://blog.yzmcms.com/js/218.html> [ from 凌云 ]
+* [ 201126 ]手写CommonJS 中的 require函数 <https://mp.weixin.qq.com/s/ZzFOXtmPQIhpnDJpi1l9gQ> [ from 红梅 ]
 
 > 干货
-* [ 201127 ] 一文带你快速上手 Rollup  https://mp.weixin.qq.com/s/S-WgcO9aFrYp2tvnMMsRPg  [ from 思源 ]
-* [ 201123 ] SvgPathEditor：一个开源在线编辑svg图形的浏览器编辑器，操作更加方便 https://github.com/Yqnn/svg-path-editor [ from 君毅 ]
-* [ 201127 ] AntV 图可视分析解决方案 https://mp.weixin.qq.com/s/8QZUJC7Cf5V2cqXhZnl0-w [ from 晓朋 ]
-* [ 201113 ] 谈谈微前端领域的js沙箱实现机制 https://mp.weixin.qq.com/s/IJMgMO1IeYw2Io8MN7WZWQ [ from雪松 ]
-* [ 201121 ] 让你爱不释手的 HTTP API 工具：Postman https://mp.weixin.qq.com/s?biz=MzAxMDM0MzQ4Mg%3D%3D&mid=2451061782&idx=1&sn=d860af68ca7a5d62f20988beec366391&scene=45#wechat_redirect [ from文玲 ]
-* [ 201113 ] 对标 Postman！2.5 万 Star 的挑战者：Hoppscotch https://mp.weixin.qq.com/s?biz=MzAxMDM0MzQ4Mg%3D%3D&mid=2451061699&idx=1&sn=deecd4e09baaf594bb9203390b73e2de&scene=45#wechat_redirect [ from文玲 ]
+* [ 201127 ] 一文带你快速上手 Rollup  <https://mp.weixin.qq.com/s/S-WgcO9aFrYp2tvnMMsRPg>  [ from 思源 ]
+* [ 201123 ] SvgPathEditor：一个开源在线编辑svg图形的浏览器编辑器，操作更加方便 <https://github.com/Yqnn/svg-path-editor> [ from 君毅 ]
+* [ 201127 ] AntV 图可视分析解决方案 <https://mp.weixin.qq.com/s/8QZUJC7Cf5V2cqXhZnl0-w> [ from 晓朋 ]
+* [ 201113 ] 谈谈微前端领域的js沙箱实现机制 <https://mp.weixin.qq.com/s/IJMgMO1IeYw2Io8MN7WZWQ> [ from雪松 ]
+* [ 201121 ] 让你爱不释手的 HTTP API 工具：Postman <https://mp.weixin.qq.com/s?biz=MzAxMDM0MzQ4Mg%3D%3D&mid=2451061782&idx=1&sn=d860af68ca7a5d62f20988beec366391&scene=45#wechat_redirect> [ from文玲 ]
+* [ 201113 ] 对标 Postman！2.5 万 Star 的挑战者：Hoppscotch <https://mp.weixin.qq.com/s?biz=MzAxMDM0MzQ4Mg%3D%3D&mid=2451061699&idx=1&sn=deecd4e09baaf594bb9203390b73e2de&scene=45#wechat_redirect> [ from文玲 ]
 
 
 ## 201116-201121
 
-`本周轮值主编`: 良辰 `下周轮值主编`：凌云
+`本周轮值主编`: 良辰 `下周轮值主编`：雪松
 
 
-* [ 201119 ] React 中阻止事件冒泡的问题 https://mp.weixin.qq.com/s/_2fimwWIat1QMqRhyPqu9g [ from 思源 ]
+* [ 201119 ] React 中阻止事件冒泡的问题 <https://mp.weixin.qq.com/s/_2fimwWIat1QMqRhyPqu9g> [ from 思源 ]
 * [ 200824 ] 基于React+Koa实现一个h5页面可视化编辑器－Dooring <https://mp.weixin.qq.com/s/cg9BZniPTCpxXq66YR7jsA> [ from 文玲 ]
-    拖拽式生成可视化大屏，开源地址：https://github.com/MrXujiang/h5-Dooring
+    拖拽式生成可视化大屏，开源地址：<https://github.com/MrXujiang/h5-Dooring>
 * [ 201116 ] 不可思议，纯 css 都能图片滚动 [ from 雪松 ]
      <https://juejin.cn/post/6895584191073927175>
 * [ 201118 ] 双11主会场性能体验提升 - 秒开优化 [ from 雪松 ]
