@@ -7,7 +7,7 @@
 `本周轮值主编`：凌云 `下周轮值主编`：芳朝
 
 > 干货
-* [ 201201 ] 这些开源项目，让你轻松应对十大工作场景< https://mp.weixin.qq.com/s/MOwBY2SvOzuIF8tBBk_oyw/ > [ from 君毅 ]
+* [ 201201 ] 这些开源项目，让你轻松应对十大工作场景< https://mp.weixin.qq.com/s/MOwBY2SvOzuIF8tBBk_oyw > [ from 君毅 ]
     * PouchDB：一个浏览器内数据库，允许应用程序在本地保存数据，以便用户即使在离线时也可以享受应用程序的所有功能
     * gods-pen：基于 vue 的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计
 * [ 201211 ] 前端工程师应该知道的安全性 < https://juejin.cn/post/6898691314351603720 > [ from 凌云 ]
