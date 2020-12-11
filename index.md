@@ -11,6 +11,10 @@
     * PouchDB：一个浏览器内数据库，允许应用程序在本地保存数据，以便用户即使在离线时也可以享受应用程序的所有功能
     * gods-pen：基于 vue 的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计
 * [ 201211 ] 前端工程师应该知道的安全性 < https://juejin.cn/post/6898691314351603720 > [ from 凌云 ]
+* [ 201210 ] import和require的基本使用和区别 < https://juejin.cn/post/6904535599139700750 > [ from 文玲 ]
+* [ 201211 ] 前端工程师必备：前端的模块化 < https://juejin.cn/post/6904808045055279111 > [ from 文玲 ]
+* [ 201204 ]  什么是低代码，到底用不用？ < https://www.infoq.cn/article/azGhHkh5xxtMrDLC6ffc > [ from 红梅 ]
+* [ 201209 ]通过纯 CSS3 渐变特性实现的一系列非常有趣的图案效果的集合< https://projects.verou.me/css3patterns/#microbial-mat > [ from雪松 ]
 
 
 ## 201130-201205
