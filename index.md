@@ -3,7 +3,18 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)2
 
 
-## 201222-zfc-test
+## 201214-201219
+
+`本周轮值主编`：芳朝 `下周轮值主编`：潘衡
+
+* [ 201217 ] 主题色切换的实现方案 http://gitlab.lvwan-inc.com/sophon-wiki/sophon-docs/blob/master/wangxuesong/sophon-web/change-theme/index.md [ from 雪松 ]
+* [ 201126 ] CSS text-combine-upright 竖行横书组合 <http://www.deathghost.cn/article/css/86 />  [ from 君毅 ]
+* [ 201218 ] 分享8个非常实用的Vue自定义指令 https://juejin.cn/post/6906028995133833230 [from 张芳朝]
+* [201218] 三步法助你快速定位网站性能问题 <https://juejin.cn/post/6905398223268446216> [from 晓朋]
+* [ 201217 ] 构建高质量的前端工程 <https://juejin.cn/post/6907178915664986120 /> [from 文玲]
+* [ 201218 ] 你未必知道的49个CSS知识点 < https://juejin.cn/post/6844903902123393032 > [ from 凌云 ]
+* [ 201129 ]正则表达式是如何让你的网页卡住的https://segmentfault.com/a/1190000038320217 [from 良辰]
+* [ 201202 ] 老照片修复工具 <https://mp.weixin.qq.com/s/6yuHKUEMKvUk1GXhlQaduA>[from 红梅]
 
 
 ## 201207-201212
