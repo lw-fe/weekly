@@ -3,6 +3,19 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)2
 
 
+## 201228-201231
+
+`本周轮值主编`：潘衡 `下周轮值主编`：文玲
+
+* [ 201229 ] 神秘的 shadow-dom 浅析 <https://www.cnblogs.com/coco1s/p/5711795.html>  [ from 红梅 ]
+* [ 201230 ] rrweb：打开 web 页面录制与回放的黑盒子https://zhuanlan.zhihu.com/p/60639266 [ from 潘衡 ]
+* [ 201230 ] 大前端不是全栈 <https://mp.weixin.qq.com/s/9raIxUX8PjQD-gYAtnbZww /> [ from 文玲 ]
+* [ 201230 ] 解读前端的2020：一直走在“变化”的路上 <https://mmbizurl.cn/s/CSCNYEdDL  /> [ from 文玲 ]
+* [ 201228 ] 绿湾可视化大屏搭建平台实现调研 <http://fe.lvwan-inc.com/zhaojunyi/visual-big-screen/visual-big-screen.md.html>  [ from 君毅 ]
+* [ 201221 ] 可视化拖拽组件库一些技术要点原理分析 https://juejin.cn/post/6908502083075325959#heading-14 [ from 雪松 ]
+* [ 201231 ] CSS八种让人眼前一亮的HOVER效果 https://juejin.cn/post/6861501624993447950 [ from 凌云 ]
+
+
 ## 201214-201219
 
 `本周轮值主编`：芳朝 `下周轮值主编`：潘衡
