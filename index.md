@@ -14,6 +14,7 @@
 * [ 201228 ] 绿湾可视化大屏搭建平台实现调研 <http://fe.lvwan-inc.com/zhaojunyi/visual-big-screen/visual-big-screen.md.html>  [ from 君毅 ]
 * [ 201221 ] 可视化拖拽组件库一些技术要点原理分析 https://juejin.cn/post/6908502083075325959#heading-14 [ from 雪松 ]
 * [ 201231 ] CSS八种让人眼前一亮的HOVER效果 https://juejin.cn/post/6861501624993447950 [ from 凌云 ]
+* [ 201208 ] 文本长度不一如何影响界面布局 https://ishadeed.com/article/css-short-long-content/ [ from 良辰 ]
 
 
 ## 201214-201219
