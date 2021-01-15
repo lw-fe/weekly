@@ -3,7 +3,44 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 210111-200115
+
+> `本周轮值主编`：文玲 `下周轮值主编`：晓朋
+
+> 干货
+* [ 210112 ] transform属性对普通元素的N多影响 <https://www.zhangxinxu.com/wordpress/2015/05/css3-transform-affect/#comments> [ from 雪松 ]
+    * 咱们项目中大量使用了transform属性结合定位来实现居中效果，可能给后续开发造成很大影响
+    * 最直接的影响就是子孙元素fix定位降级为absolute且无法溢出，还有层级混乱
+    * lego-ui的Modal组件也使用了transform实现居中，在几天前的开发中给我造成过很大困扰
+* [ 210111 ] pure CSS digital clock <https://www.quaxio.com/pure_css_digital_clock.html />  [ from 君毅 ]
+    *  纯 CSS 实现的时钟，巧妙的利用了 border 与动画实现
+* [ 210114 ] 【CSS】骨架屏 Skeleton 效果  <https://juejin.cn/post/6915763034069663752> [ from 韩硕 ]
+* [ 210101 ] JavaScript ES2021 的新特性以及简单示例  <https://medium.com/better-programming/javascript-es2021-features-with-simple-examples-ada723b55355> [ from 良辰 ]
+* [ 181029 ] 用 CSS 背景混合模式制作高级效果 <https://zhuanlan.zhihu.com/p/47946810> [ from 海萍 ]
+* [ 180419 ] 妙用 scale 与 transfrom-origin，精准控制动画方向 <https://juejin.cn/post/6844903593137405959> [ from 凌云 ]
+
+> 性能优化
+* [ 210114 ] 拯救你的年底 KPI：前端性能优化总结 <https://mp.weixin.qq.com/s/vj9oRJYv8YGmjWy7lYY6XA > [ from 文玲 ]
+    * 调试工具
+    * WEB API
+    * 雅虎军规
+    * 压缩
+    * webpack优化
+    * 骨架屏
+    * 窗口化
+    * 缓存
+    * 预加载 && 懒加载
+    * ssr && react-snap
+    * 体验优化
+
+> 周刊统计
+* [ 210114 ] 2020 周刊分享汇总 <http://fe.lvwan-inc.com/liuhongmei/weekly/weekly-stat-2020.md.html>  [ from 红梅 ]
+
+
+
 ## 210104-210109
+
+> `本周轮值主编`：红梅 `下周轮值主编`：文玲
 
 * [ 210108 ] 腾讯文档表格：大型前端项目架构优化探索之路 <https://mp.weixin.qq.com/s/_OWUjY4q9KkTjxrk59VJSg >   [ from 文玲 ]
     * 管理复杂的依赖关系
