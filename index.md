@@ -15,7 +15,7 @@
 * [ 210111 ] pure CSS digital clock <https://www.quaxio.com/pure_css_digital_clock.html />  [ from 君毅 ]
     *  纯 CSS 实现的时钟，巧妙的利用了 border 与动画实现
 * [ 210114 ] 【CSS】骨架屏 Skeleton 效果  <https://juejin.cn/post/6915763034069663752> [ from 韩硕 ]
-* [ 210101 ] JavaScript ES2021 的新特性以及简单示例  <https://medium.com/better-programming/javascript-es2021-features-with-simple-examples-ada723b55355> [ from 良辰 ]
+* [ 210101 ] JavaScript ES2021 的新特性以及简单示例   <https://medium.com/better-programming/javascript-es2021-features-with-simple-examples-ada723b55355> [ from 良辰 ]
 * [ 181029 ] 用 CSS 背景混合模式制作高级效果 <https://zhuanlan.zhihu.com/p/47946810> [ from 海萍 ]
 * [ 180419 ] 妙用 scale 与 transfrom-origin，精准控制动画方向 <https://juejin.cn/post/6844903593137405959> [ from 凌云 ]
 
