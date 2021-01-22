@@ -18,6 +18,7 @@
 * [ 210118 ] CSS 奇思妙想边框动画 https://juejin.cn/post/6918921604160290830  [ from 雪松 ]
 * [ 210122 ] width: 100%和width: auto有什么区别 <https://juejin.cn/post/6894068581854478349> [ from 凌云 ]
 * [ 210122 ] MockXMLHttpRequest在处理二进制流类型的response时的结果与源生方法不一致  <https://github.com/nuysoft/Mock/issues/299> [ from 韩硕 ]
+* [ 210122 ] 26种JavaScript优化技术 <https://juejin.cn/post/6918607242359619592>  [ from 芳朝 ]
 
 > 新鲜物
 
