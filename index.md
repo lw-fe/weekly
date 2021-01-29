@@ -8,14 +8,16 @@
 
 > 干货
 
-* [ 210126 ] grid布局 <https://juejin.cn/post/6922062483196903438>  [ from 雪松 ]
+* [ 210128 ]  就是要让你搞懂Nginx，这篇就够了！<https://mp.weixin.qq.com/s/eF5LcW2GI6ZylDJNIK4nzw> [ from 凌云 ]
 * [ 210128 ] sketch搭配蓝湖高效率开发！ <https://tieba.baidu.com/p/6757832764>  [ from 韩硕 ]
    * sketch蓝湖插件：https://lanhuapp.com/mac/
-* [ 210128 ]  就是要让你搞懂Nginx，这篇就够了！<https://mp.weixin.qq.com/s/eF5LcW2GI6ZylDJNIK4nzw> [ from 凌云 ]
+* [ 210126 ] 教你用PixiJs实现复杂动画 <https://mp.weixin.qq.com/s/IzCAzswK50BbfNHqE8vIxQ> [ from 红梅 ]
+* [ 210126 ] grid布局 <https://juejin.cn/post/6922062483196903438>  [ from 雪松 ]
 
 
-> 容易忽略的技巧
+> 技巧
 
+* [ 210105 ］前端常见内存泄漏及解决方案 <https://juejin.cn/post/6914092198170460168>  [ from 良辰 ]
 * [ 180930 ] echarts 图例 两行展示 <https://blog.csdn.net/rebooting_now/article/details/82909177> [ from 海萍 ]
    * 合理利用width/height属性，配合orient,实现图例多列布局
 
@@ -23,8 +25,9 @@
 > 新鲜物
 
 * [ 210128 ] 拼图也能写代码？快来试试这个谷歌开源的工具！<https://mp.weixin.qq.com/s/7FtHn1vAYW1TCv3PcuB6Bw> [ from 文玲 ]
+* [ 210126 ] Mozilla 推出 Open Web Docs，用于编写 Web API 文档  <https://mp.weixin.qq.com/s/YFn0-zyUvCpIzaGCnBrf4Q> [ from 红梅]
 * [ 210106 ] 2021 年 Web 开发的 7 大趋势 <https://www.infoq.cn/article/74pTclrdFoCakANU3YRB>  [ from 君毅 ]
-    *  深色主题 UI，语音识别技术...
+    * 深色主题 UI，语音识别技术...
 
 
 ## 210118-200123
