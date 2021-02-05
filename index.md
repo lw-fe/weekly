@@ -4,6 +4,27 @@
 
 ## 210125-200129
 
+> `本周轮值主编`：晓朋 `下周轮值主编`：良辰
+
+> 干货
+
+* [ 210205 ]如何在不用JS代码情况下实现一个实时聊天功能   <https://mp.weixin.qq.com/s/et_8zUM_zgHvbSOChi4fDg> [from 红梅]
+* [ 210204 ]尤雨溪 3 天 10 更的 Vite 究竟有什么魔力？<https://juejin.cn/post/6924997323214815240> [ from 韩硕 ]
+* [ 210204 ] * [ 210204 ] Games on GitHub <https://github.com/leereilly/games>  [ from 君毅 ]
+
+    *  a list of open source games and game-related projects that can be found on GitHub
+
+> 工具
+
+*  [ 210202 ] CodeReview 下一代：基于 KAITIAN 的纯前端 CR IDE <https://mp.weixin.qq.com/s/9lL2ytPUPzVtfj0lIEIxFg>[from 晓朋 ]
+
+> 职业发展
+
+* [ 210203 ] 阿里大牛分享：如何对 P5/P6/P7 做职业规划和技术培养 <https://mp.weixin.qq.com/s/z0eI2SuluTxG-dLWxnrkOg> [from 文玲]
+
+
+## 210125-200129
+
 > `本周轮值主编`：海萍 `下周轮值主编`：红梅
 
 > 干货
