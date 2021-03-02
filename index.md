@@ -5,7 +5,7 @@
 ## 210220-210226 
 
 
-> `本周轮值主编`：良辰 `下周轮值主编`：红梅
+> `本周轮值主编`：良辰 `下周轮值主编`：雪松
 
 * [ 210220 ] 门神——转转前端代码校验系统  <https://mp.weixin.qq.com/s/o7M1bXwFM54GyviCUT2CnA> [ from 文玲]
 * [ 200511 ] 前端工程化 - 剖析npm的包管理机制（完整版） <https://blog.csdn.net/liuyan19891230/article/details/106066430> [ from 文玲]
