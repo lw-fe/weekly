@@ -2,6 +2,32 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+## 210227-210305
+
+> `本周轮值主编`：雪松 `下周轮值主编`：凌云
+
+> 资讯
+
+* [ 210303 ] state-of-js 2020 & state-of-css 2020 详细解读  <https://juejin.cn/post/6935305784070766606> [ from 雪松 ]
+* [ 210304 ] 重磅！Flutter 2 来了！ <https://mp.weixin.qq.com/s/nCkltHpefIYBrkOWrRHzhQ >  [ from 文玲 ]
+* [ 210301 ] 2020年 JavaScript 明星项目 <https://risingstars.js.org/2020/zh>  [ from 君毅 ]
+    * 通过比较各项目在过去12个月里在 GitHub 上增加的 star 数，看看2020年哪些项目受到青睐
+
+> 干货
+
+* [ 210304 ] 前端玩转GIF图片压缩 <https://juejin.cn/post/6935627673989283848>  [ from 红梅]
+* [ 210303 ] 巧用 -webkit-box-reflect 倒影实现各类动效 <https://juejin.cn/post/6935248489878126628>  [ from 李倩 ]
+* [ 210224 ] 前端优秀实践不完全指南 <https://juejin.cn/post/6932647134944886797>  [ from 拾庆 ]
+* [ 210107 ] 替换node-sass为dart-sass <https://blog.csdn.net/weixin_46476460/article/details/112310819>  [ from 晓朋 ]
+* [ 210301 ] github1s <https://github.com/conwnet/github1s>  [ from 君毅 ]
+    * Just add 1s after github and press Enter in the browser address bar for any repository you want to read（github1s.com/facebook/react）
+
+> 分享
+
+* [ 210303 ] 一名凹凸嫚（程序媛）的 5 年体验 <https://juejin.cn/post/6935251094914203684>  [ from 海萍 ]
+
+
 ## 210220-210226 
 
 
