@@ -2,6 +2,27 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210308-210312
+
+> `本周轮值主编`：凌云 `下周轮值主编`：芳朝
+
+> 干货
+* [ 210309 ] H5 移动端开发基础知识 <https://mp.weixin.qq.com/s/snhqgZ_TH872z8NDv7wjKQ> [ from 文玲 ]
+* [ 210311 ] 火爆！GitHub 标星 144k 的前后端学习路线 <https://segmentfault.com/a/1190000039391678> [ from 凌云 ]
+* [ 210311 ] 【实现响应式图像的四种技术策略】<https://juejin.cn/post/6938237167189622814> [ from 李倩 ]
+* [ 210308 ] Why is esbuild fast? <https://esbuild.github.io/faq>  [ from 君毅 ]
+    * It's written in Go and compiles to native code
+    * Parallelism is used heavily
+    * Everything in esbuild is written from scratch
+    * Memory is used efficiently
+
+> 工具
+* [ 210311 ] 孟坤工具箱网页版 <http://tool.mkblog.cn/ > [ from 韩硕 ]
+
+> 新鲜物
+* [ 210308 ] What is Huffman Coding? <https://www.baseclass.io/huffman-coding>  [ from 君毅 ]
+    * instead of storing the character itself, store the path to the character instead
+
 
 ## 210227-210305
 
