@@ -1,6 +1,19 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> 
+
+`本周轮值主编`：韩硕 `下周轮值主编`：文玲
+
+> 干货
+> 
+
+* [ 210331 ] 画小米的新Logo只用border-radius可不行 <https://juejin.cn/post/6945819749293129759>  [ from 红梅 ]
+* [ 210401 ] ⚙️JavaScript引擎了解下< https://juejin.cn/post/6946006486761865230 >  [ from 韩硕 ]
+* [ 200701 ] CSS变量对JS交互组件开发带来的提升与变革 <https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/>  [ from 雪松 ]
+* [ 210330 ] 数据结构与算法视频 <https://space.bilibili.com/50003725/video>  [ from 君毅 ]
+    * 从国外网站搬运到 B 站，带有中文字幕的数据结构与算法讲解视频，涉及动态数组、二叉树、图论、动画引擎等等
+* [ 210401 ] 万字总结，体系化带你全面认识 Nginx ！<https://mp.weixin.qq.com/s/GjAe4V4zyw3D0troRbc9ww /> [ from 文玲 ]
 
 ## 210322-210326
 
