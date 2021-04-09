@@ -14,9 +14,9 @@
 * [ 210219 ] JavaScript 中哪一种循环最快 <https://juejin.cn/post/6930973929452339213>  [ from 雪松 ]
 * [ 210408 ] npm init @vitejs/app 到底干了什么 <https://juejin.cn/post/6948202986573135908> [ from 韩硕 ]
 * [ 210407 ] 前端优秀实践不完全指南 <https://mp.weixin.qq.com/s/Dg5AVUgLJYYiw3z8q_zkJA>  [ from 红梅 ]
-      * 从页面展示、交互细节、可访问性方面去讲述
+    * 从页面展示、交互细节、可访问性方面去讲述
 * [ 210407 ] 你所不知道的 CSS 动画技巧与细节 <https://www.cnblogs.com/coco1s/p/7443263.html>   [ from 红梅 ]
-      * CSS 动画渲染优化  动画层级的控制，保持动画层级在最上方
+    * CSS 动画渲染优化  动画层级的控制，保持动画层级在最上方
 
 > React
 * [ 210405 ] React中的优先级 <https://mp.weixin.qq.com/s/sakRaA3SYskIxNW5U2iJZg > [ from 文玲 ]
