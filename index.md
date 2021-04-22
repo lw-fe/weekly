@@ -2,6 +2,27 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210419-210423
+
+`本周轮值主编`：君毅 `下周轮值主编`：红梅
+
+* [ 210419 ] PDFReal <https://pdfreal.com/>  [ from 君毅 ]
+    * The Internet's fastest PDF tools. Secure and anonymous.Free of charge
+
+> 新鲜物
+
+## 210412-210416
+
+`本周轮值主编`：晓朋 `下周轮值主编`：君毅
+
+> 干货
+
+* [ 210412 ] Charts.css <https://chartscss.org>  [ from 君毅 ]
+    * Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts
+* [ 210414 ] 当面试官问Webpack的时候他想知道什么 <https://mp.weixin.qq.com/s/2-zNlGrKUngWdQNvlcgESw > [ from 文玲 ]
+* [ 210412 ] 听说过CSS in JS，还有JS in CSS? <https://juejin.cn/post/6950209377403928584>  [ from 雪松 ]
+* [ 210414 ] 手写Echarts <https://juejin.cn/post/6950684708443258894#heading-24> [ from 红梅]
+* [ 210415 ]从前端智能化看低代码和无代码 <https://mp.weixin.qq.com/s/kQYIL5qyoDKUUkwk-zHL9Q> [ from 晓朋 ]
 
 ## 210405-210409
 
@@ -25,17 +46,3 @@
     * 任务优先级：产生更新对象之后，React去执行一个更新任务，这个任务所持有的优先级
     * 调度优先级：Scheduler依据React更新任务生成一个调度任务，这个调度任务所持有的优先级
 * [ 210408 ] 使用hooks写React组件注意的5个地方 <https://juejin.cn/post/6947573426076778533> [ from 凌云 ]
-
-
-## 210412-210416
-
-`本周轮值主编`：晓朋 `下周轮值主编`：君毅
-
-> 干货
-
-* [ 210412 ] Charts.css <https://chartscss.org>  [ from 君毅 ]
-    * Charts.css is a modern CSS framework. It uses CSS utility classes to style HTML elements as charts
-* [ 210414 ] 当面试官问Webpack的时候他想知道什么 <https://mp.weixin.qq.com/s/2-zNlGrKUngWdQNvlcgESw > [ from 文玲 ]
-* [ 210412 ] 听说过CSS in JS，还有JS in CSS? <https://juejin.cn/post/6950209377403928584>  [ from 雪松 ]
-* [ 210414 ] 手写Echarts <https://juejin.cn/post/6950684708443258894#heading-24> [ from 红梅]
-* [ 210415 ]从前端智能化看低代码和无代码 <https://mp.weixin.qq.com/s/kQYIL5qyoDKUUkwk-zHL9Q> [ from 晓朋 ]
