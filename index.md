@@ -6,10 +6,18 @@
 
 `本周轮值主编`：君毅 `下周轮值主编`：红梅
 
-* [ 210419 ] PDFReal <https://pdfreal.com/>  [ from 君毅 ]
-    * The Internet's fastest PDF tools. Secure and anonymous.Free of charge
+> 干货
+
+* [ 210420 ] 关于从入门 three.js 到做出 3d 地球这件事(通俗易懂的入门) <https://mp.weixin.qq.com/s/ku4ld4dyyHaEdvxd-FyOBg> [ from 文玲 ]
+* [ 210422 ] 最火前端Web组态软件（可视化）<http://x5c.net/bc5wf> [ from 大民 ]
+* [ 210407 ] 冷知识！使用 display: contents 增强页面语义   <https://mp.weixin.qq.com/s/IovseehWxSGE0R6rxcss8Q>  [ from 雪松 ]
+* [ 210423 ] Web 性能优化：使用 CSS font-display 控制字体加载和替换 <https://mp.weixin.qq.com/s/7JsgXLcNEAio2Ei7w7Mhig> [ from 红梅 ]
+* [ 210422 ] react组件直接渲染在命令行窗口里面，让前端代码构建出终端窗口的 GUI 界面和交互逻辑 <https://juejin.cn/post/6952673382928220191> [ from 晓朋 ]
 
 > 新鲜物
+
+* [ 210419 ] PDFReal <https://pdfreal.com/>  [ from 君毅 ]
+    * The Internet's fastest PDF tools. Secure and anonymous.Free of charge
 
 ## 210412-210416
 
