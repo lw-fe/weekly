@@ -2,6 +2,24 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210426-210508
+
+`本周轮值主编`：红梅 `下周轮值主编`：
+
+> 干货
+
+* [ 210426 ] cors-anywhere <https://github.com/Rob--W/cors-anywhere>  [ from 君毅 ]
+    * CORS Anywhere is a NodeJS proxy which adds CORS headers to the proxied request
+* [ 210426 ] dahliaOS <https://web.dahliaos.io/#/>  [ from 君毅 ]
+    * 该网站使用 Flutter Web 框架开发，利用 Dart 语言编写，然后编译成 JS
+* [ 210501 ] 即将发布的 ES2021 中有哪些有趣的功能 <https://mp.weixin.qq.com/s/khBYOGxiO_PuOz8VySzDAw > [ from 文玲 ]
+   * String.prototype.replaceAll()，数字分隔符，逻辑赋值运算符，Promise.any()，WeakRef 和Finalizers
+   
+> 最佳实践
+
+* [ 210504 ] 关于从入门three.js到做出3d地球这件事(第五篇: 以点成面矢量地球)有图解 <https://segmentfault.com/a/1190000039945517> [ from 红梅 ]
+* [ 210504 ] 如何用纯 CSS 实现酷炫的霓虹灯效果？ <https://mp.weixin.qq.com/s/P6aPgUKlShMrv1U7sAtTXg> [ from 红梅 ]
+
 ## 210419-210423
 
 `本周轮值主编`：君毅 `下周轮值主编`：红梅
