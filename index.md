@@ -14,6 +14,7 @@
     * 该网站使用 Flutter Web 框架开发，利用 Dart 语言编写，然后编译成 JS
 * [ 210501 ] 即将发布的 ES2021 中有哪些有趣的功能 <https://mp.weixin.qq.com/s/khBYOGxiO_PuOz8VySzDAw > [ from 文玲 ]
    * String.prototype.replaceAll()，数字分隔符，逻辑赋值运算符，Promise.any()，WeakRef 和Finalizers
+* [ 210508 ] 仅使用CSS提高页面渲染速度 < https://mp.weixin.qq.com/s/szKFQ-jCvxKwXsCg4oEPZg > [ from 晓朋 ]
    
 > 最佳实践
 
