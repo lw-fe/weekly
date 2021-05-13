@@ -4,6 +4,30 @@
 
 ## 210426-210508
 
+`本周轮值主编`：海萍 `下周轮值主编`：雪松
+
+> 干货
+
+* [ 210510 ] Introduction to Tailwind CSS and utility classes <https://allround.io/articles/introduction-to-tailwind-css-and-utility-classes/>  [ from 君毅 ]
+    * The goal is to have a set of pre-existing classes that we can use to style HTML without writing a lot of custom CSS, which allows us to move faster and re-use those classes as much as possible
+* [ 210510 ] 99 Additional Bits of Unsolicited Advice <https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/>  [ from 君毅 ]
+    * Advice like these are not laws. They are like hats. If one doesn’t fit, try another
+* [ 210430 ] CSS Tips <https://markodenic.com/css-tips/>  [ from 君毅 ]
+    * CSS tips and tricks you won’t see in most of the tutorials
+
+> 技巧经验
+
+* [ 210508 ] 如何解决异步接口请求快慢不均导致的数据错误问题？ <https://juejin.cn/post/6959700988882059271 > [ from 文玲 ]
+   * String.prototype.replaceAll()，数字分隔符，逻辑赋值运算符，Promise.any()，WeakRef 和Finalizers
+
+> 涨知识
+
+* [ 210429 ] 在什么情况下 a === a - 1 ？ < https://juejin.cn/post/6900810456496078855 >  [ from 凌云 ]    
+
+
+
+## 210426-210508
+
 `本周轮值主编`：红梅 `下周轮值主编`：海萍
 
 > 干货
