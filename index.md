@@ -14,6 +14,7 @@
     * Advice like these are not laws. They are like hats. If one doesn’t fit, try another
 * [ 210430 ] CSS Tips <https://markodenic.com/css-tips/>  [ from 君毅 ]
     * CSS tips and tricks you won’t see in most of the tutorials
+* [ 210513 ] 利用联邦模块实现跨应用的代码共享 <https://juejin.cn/post/6961678963680739359>  [ from 雪松 ]
 
 > 技巧经验
 
