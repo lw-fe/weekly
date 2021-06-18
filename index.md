@@ -9,10 +9,10 @@
 > 干货
 * [ 210615 ] React 性能优化 ：包括原理、技巧、Demo、工具使用 <https://mp.weixin.qq.com/s/jaWzs2GpPjN6Et6rapMUzA > [ from 文玲 ]
 * [ 210611 ] 明明有了 promise ，为啥还需要 async await ？<https://mp.weixin.qq.com/s/9ga2gpEb6-UdlLGadGqlDw > [ from 文玲 ]
-* [ 210615 ] 令人眼前一亮的 Vue 实战技巧 <https://segmentfault.com/a/1190000040180294> [ from 红梅]
+* [ 210615 ] 令人眼前一亮的 Vue 实战技巧 <https://segmentfault.com/a/1190000040180294> [ from 红梅 ]
 * [ 210618 ] Grafar <https://thoughtspile.github.io/grafar/#/>  [ from 君毅 ]
     * Grafar is a javascript library for reactive, 3D mathematical visualization (data visualization capabilities coming sometime)
-* [ 210615 ]  CSS ::marker 让文字序号更有意思 <https://segmentfault.com/a/1190000040175019> [ from 红梅]
+* [ 210615 ]  CSS ::marker 让文字序号更有意思 <https://segmentfault.com/a/1190000040175019> [ from 红梅 ]
 
 
 ## 210607-210611
