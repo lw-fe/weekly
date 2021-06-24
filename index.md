@@ -2,6 +2,23 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210621-210625
+
+`本周轮值主编`：赵君毅 `下周轮值主编`：吴海萍
+
+> 干货
+* [ 210614 ] Event Loop 和 JS 引擎、渲染引擎的关系 <https://mp.weixin.qq.com/s/1PCQMgrXt4bPYtW-uVZgHQ > [ from 文玲 ]
+* [ 210624 ] mitt, Tiny 200b functional event emitter / pubsub. <https://www.npmjs.com/package/mitt >  [ from 文玲 ]
+    * 与Node's EventEmitter使用方式相同
+
+> 工具
+* [ 210621 ] Introducing WebContainers: Run Node.js natively in your browser <https://blog.stackblitz.com/posts/introducing-webcontainers>  [ from 君毅 ]
+    * 借助Webassembly以及浏览器最新的api，支持在浏览器运行node.js服务，使得在本地高校开发编辑nodejs项目成为可能
+* [ 210621 ] git-split-diffs <https://github.com/banga/git-split-diffs>  [ from 君毅 ]
+    * GitHub style split diffs with syntax highlighting in your terminal（node 版本需要大于12）
+* [ 210621 ] Hurl.it <https://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html>  [ from 君毅 ]
+    *  网页版 Postman
+
 ## 210614-210618
 
 `本周轮值主编`：刘红梅 `下周轮值主编`：赵君毅
@@ -17,7 +34,7 @@
 
 ## 210607-210611
 
-`本周轮值主编`：赵文玲 `下周轮值主编`：赵君毅
+`本周轮值主编`：赵文玲 `下周轮值主编`：刘红梅
 
 > 论坛
 * [ 210602 ] 玉伯、尤雨溪、于冰……他们眼中的大前端趋势 <https://mp.weixin.qq.com/s/ingKHy2TmzDXag2JOfTPlw > [ from 文玲 ]
