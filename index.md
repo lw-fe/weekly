@@ -7,9 +7,11 @@
 `本周轮值主编`：赵君毅 `下周轮值主编`：吴海萍
 
 > 干货
-* [ 210614 ] Event Loop 和 JS 引擎、渲染引擎的关系 <https://mp.weixin.qq.com/s/1PCQMgrXt4bPYtW-uVZgHQ > [ from 文玲 ]
-* [ 210624 ] mitt, Tiny 200b functional event emitter / pubsub. <https://www.npmjs.com/package/mitt >  [ from 文玲 ]
+* [ 210614 ] Event Loop 和 JS 引擎、渲染引擎的关系 <https://mp.weixin.qq.com/s/1PCQMgrXt4bPYtW-uVZgHQ> [ from 文玲 ]
+* [ 210624 ] mitt, Tiny 200b functional event emitter / pubsub. <https://www.npmjs.com/package/mitt>  [ from 文玲 ]
     * 与Node's EventEmitter使用方式相同
+* [ 210625 ] 好消息，CSS text-underline-offset可以用起来了 <https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset> [ from 海萍 ]
+* [ 210625 ] 15 张前端高清知识地图，强烈建议收藏 <https://juejin.cn/post/6976157870014332935> [ from 宋浩 ]
 
 > 工具
 * [ 210621 ] Introducing WebContainers: Run Node.js natively in your browser <https://blog.stackblitz.com/posts/introducing-webcontainers>  [ from 君毅 ]
