@@ -12,6 +12,7 @@
     * 与Node's EventEmitter使用方式相同
 * [ 210625 ] 好消息，CSS text-underline-offset可以用起来了 <https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset> [ from 海萍 ]
 * [ 210625 ] 15 张前端高清知识地图，强烈建议收藏 <https://juejin.cn/post/6976157870014332935> [ from 宋浩 ]
+* [ 210624 ]  浏览器大容量存储方案-IndexedDB简介 <https://juejin.cn/post/6977370170457063437>  [ from 红梅 ]
 
 > 工具
 * [ 210621 ] Introducing WebContainers: Run Node.js natively in your browser <https://blog.stackblitz.com/posts/introducing-webcontainers>  [ from 君毅 ]
