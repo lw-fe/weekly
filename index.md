@@ -2,6 +2,22 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+## 210628-210702
+
+`本周轮值主编`：吴海萍 `下周轮值主编`：刘凌云
+
+> 干货
+* [ 210701 ] 绝了，没想到一个 source map 居然涉及到那么多知识盲区 <https://mp.weixin.qq.com/s/3M48V3yNiuuryle9bW472w> [ from 文玲 ]
+* [ 180915 ] Node 定时器详解 <https://mp.weixin.qq.com/s/YLpGdzlKkUDhfi_EhgxG7Q>  [ from 文玲 ]
+    * setTimeout() 
+    * setInterval()
+    * setImmediate()
+    * process.nextTick()
+
+
+
+
 ## 210621-210625
 
 `本周轮值主编`：赵君毅 `下周轮值主编`：吴海萍
