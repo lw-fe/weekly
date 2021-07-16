@@ -6,19 +6,25 @@
 
 `本周轮值主编`：赵君毅 `下周轮值主编`：赵文玲
 
-> 知识
+> 经验
 
+* [ 210709 ]  关于文件下载相关的问题 <https://mp.weixin.qq.com/s/EmjC646G-KdCkKLbOS24fg>  [ from 红梅 ]
+    * ajax如何下载文件
+    * 预览图片为啥变成了下载
+    * js获取一些response header有些获取不到
 * [ 210712 ] 古怪的 JavaScript <https://jsisweird.com>  [ from 君毅 ]
     *  通过25道题，了解js类型转换的古怪
+* [ 210715 ] 前端站点一键支持暗色模式 <https://mp.weixin.qq.com/s/FNAdXW7YLGy6o6wOnmiQKw>  [ from 红梅 ]
+    * 颜色值相似度的计算 chorma-js
 
 > 工具
 
-* [ 210712 ] Animista <https://segmentfault.com/a/1190000017785756>  [ from 君毅 ]
+* [ 210712 ] Animista <https://animista.net>  [ from 君毅 ]
     *  在线CSS动画生成工具
 
 > 新鲜物
 
-* [ 210712 ] Fluid Paint <https://david.li/paint/>  [ from 君毅 ]
+* [ 210712 ] Fluid Paint <https://david.li/paint>  [ from 君毅 ]
     *  基于webgl实现的网页画板工具，可以定制笔刷，产生刷油漆的流体效果
 
 ## 210705-210709
@@ -37,7 +43,7 @@
     *  通过描述广告的玩法，让读者对广告有一个整体的概念和印象，同事对广告后台算法逻辑进行了初步介绍
 * [ 190107 ] 广告的发展趋势和其中的前端角色 <https://segmentfault.com/a/1190000017785756>  [ from 君毅 ]
     *  从广告的发展趋势和尚存问题讲起，引出前端开发在未来应该逐渐的所处的角色和应该承担的责任
-    
+
 > OS
 
 * [ 210629 ] 鸿蒙开场动画前端实现 <https://juejin.cn/post/6979042510400126983>  [ from 君毅 ]
@@ -50,7 +56,7 @@
 > 干货
 * [ 210701 ] 绝了，没想到一个 source map 居然涉及到那么多知识盲区 <https://mp.weixin.qq.com/s/3M48V3yNiuuryle9bW472w> [ from 文玲 ]
 * [ 180915 ] Node 定时器详解 <https://mp.weixin.qq.com/s/YLpGdzlKkUDhfi_EhgxG7Q>  [ from 文玲 ]
-    * setTimeout() 
+    * setTimeout()
     * setInterval()
     * setImmediate()
     * process.nextTick()
