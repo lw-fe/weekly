@@ -2,6 +2,25 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210719-210723
+
+`本周轮值主编`：赵君毅 `下周轮值主编`：刘红梅
+
+> 干货
+* [ 210720 ] nginx常用配置清单 <https://mp.weixin.qq.com/s/HQB2WEwwjs6NvJtJIt76Bw > [ from 文玲 ]
+    * 可视化配置nginx站点 <https://nginxconfig.io/ > 
+* [ 210720 ] JSON.stringify() <https://mp.weixin.qq.com/s/rdUd3g-8XFQUkIZzM0QO6g > [ from 文玲 ]
+    * 支持过滤与格式化缩进
+
+> 话题
+* [ 210529 ] 尤雨溪：做技术哪有什么两全之策，都是取舍和平衡 <https://mp.weixin.qq.com/s/_q_SnCbGyXrNnXA876tXbA>  [ from 君毅 ]
+    *  聊了聊 Vue、Vite，以及前端工程师的成长等话题
+
+> 经验
+*  [ 210720 ] 参考 Codepen，我做了一个基于 iframe 的代码预览系统  <https://segmentfault.com/a/1190000040373631>  [ from 红梅 ]
+    * 代码插件 monaco-editor
+
+
 ## 210712-210716
 
 `本周轮值主编`：赵君毅 `下周轮值主编`：赵文玲
