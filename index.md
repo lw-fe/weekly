@@ -2,6 +2,19 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210725-210730
+
+`本周轮值主编`：刘红梅 `下周轮值主编`：吴海萍
+
+* [ 210729 ] 我给鸿星尔克写了一个 720° 看鞋展厅
+ <https://mp.weixin.qq.com/s/pOfRCqp2SPCB9n3xutxCZw > RealityCapture建模，three.js渲染.  [ from 文玲 ]
+* [ 210723 ] 47 张图带你走进浏览器的世界！<https://mp.weixin.qq.com/s/wwaVdXcZjDYgTAwIT7Z84A > 用47张图带你了解「浏览器的发展史」、「浏览器的架构」、「浏览器的   基本原理」以及 「浏览器的其它小知识」。[ from 文玲 ]
+* [ 210727 ] 最全数学各个分支简介 <https://mp.weixin.qq.com/s/-YWabenejcw3yNNz5Si5RA > [ from 文玲 ]
+*  [ 210729 ] 来看看CSS Functions <https://juejin.cn/post/6990289477201559565?from=main_page> [ from 红梅 ]
+*  [ 210730 ] Vue刷新页面有哪几种方式 <https://juejin.cn/post/6990546455282843656?from=main_page> [ from 红梅 ]
+* [ 210127 ] 一行CSS实现全站中文简繁转换 <https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese>  [ from 君毅 ]
+    *  font-variant-east-asian: traditional（正常只有mac操作系统有效，或使用苹方字体）
+
 ## 210719-210723
 
 `本周轮值主编`：赵君毅 `下周轮值主编`：刘红梅
