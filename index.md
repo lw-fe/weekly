@@ -2,15 +2,93 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210725-210730
+
+`本周轮值主编`：刘红梅 `下周轮值主编`：吴海萍
+
+* [ 210729 ] 我给鸿星尔克写了一个 720° 看鞋展厅
+ <https://mp.weixin.qq.com/s/pOfRCqp2SPCB9n3xutxCZw > RealityCapture建模，three.js渲染.  [ from 文玲 ]
+* [ 210723 ] 47 张图带你走进浏览器的世界！<https://mp.weixin.qq.com/s/wwaVdXcZjDYgTAwIT7Z84A > 用47张图带你了解「浏览器的发展史」、「浏览器的架构」、「浏览器的   基本原理」以及 「浏览器的其它小知识」。[ from 文玲 ]
+* [ 210727 ] 最全数学各个分支简介 <https://mp.weixin.qq.com/s/-YWabenejcw3yNNz5Si5RA > [ from 文玲 ]
+*  [ 210729 ] 来看看CSS Functions <https://juejin.cn/post/6990289477201559565?from=main_page> [ from 红梅 ]
+*  [ 210730 ] Vue刷新页面有哪几种方式 <https://juejin.cn/post/6990546455282843656?from=main_page> [ from 红梅 ]
+* [ 210127 ] 一行CSS实现全站中文简繁转换 <https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese>  [ from 君毅 ]
+    *  font-variant-east-asian: traditional（正常只有mac操作系统有效，或使用苹方字体）
+
+## 210719-210723
+
+`本周轮值主编`：赵君毅 `下周轮值主编`：刘红梅
+
+> 干货
+* [ 210720 ] nginx常用配置清单 <https://mp.weixin.qq.com/s/HQB2WEwwjs6NvJtJIt76Bw > [ from 文玲 ]
+    * 可视化配置nginx站点 <https://nginxconfig.io/ > 
+* [ 210720 ] JSON.stringify() <https://mp.weixin.qq.com/s/rdUd3g-8XFQUkIZzM0QO6g > [ from 文玲 ]
+    * 支持过滤与格式化缩进
+
+> 话题
+* [ 210529 ] 尤雨溪：做技术哪有什么两全之策，都是取舍和平衡 <https://mp.weixin.qq.com/s/_q_SnCbGyXrNnXA876tXbA>  [ from 君毅 ]
+    *  聊了聊 Vue、Vite，以及前端工程师的成长等话题
+
+> 经验
+*  [ 210720 ] 参考 Codepen，我做了一个基于 iframe 的代码预览系统  <https://segmentfault.com/a/1190000040373631>  [ from 红梅 ]
+    * 代码插件 monaco-editor
+
+
+## 210712-210716
+
+`本周轮值主编`：赵君毅 `下周轮值主编`：赵文玲
+
+> 经验
+
+* [ 210709 ]  关于文件下载相关的问题 <https://mp.weixin.qq.com/s/EmjC646G-KdCkKLbOS24fg>  [ from 红梅 ]
+    * ajax如何下载文件
+    * 预览图片为啥变成了下载
+    * js获取一些response header有些获取不到
+* [ 210712 ] 古怪的 JavaScript <https://jsisweird.com>  [ from 君毅 ]
+    *  通过25道题，了解js类型转换的古怪
+* [ 210715 ] 前端站点一键支持暗色模式 <https://mp.weixin.qq.com/s/FNAdXW7YLGy6o6wOnmiQKw>  [ from 红梅 ]
+    * 颜色值相似度的计算 chorma-js
+
+> 工具
+
+* [ 210712 ] Animista <https://animista.net>  [ from 君毅 ]
+    *  在线CSS动画生成工具
+
+> 新鲜物
+
+* [ 210712 ] Fluid Paint <https://david.li/paint>  [ from 君毅 ]
+    *  基于webgl实现的网页画板工具，可以定制笔刷，产生刷油漆的流体效果
+
+## 210705-210709
+
+`本周轮值主编`：孟丰 `下周轮值主编`：赵文玲
+
+> 干货
+
+* [ 210708 ] 前端工程化实战 - 企业级 CLI 开发  <https://juejin.cn/post/6982215543017193502>  [ from 文玲 ]
+
+* [ 210706 ] 关于性能优化的9大策略和6大指标 <https://juejin.cn/post/6981673766178783262>  [ from 文玲 ]
+
+> 经验
+
+* [ 181230 ] 一篇文章了解广告全链路 <https://segmentfault.com/a/1190000017571939?_ea=5919383>  [ from 君毅 ]
+    *  通过描述广告的玩法，让读者对广告有一个整体的概念和印象，同事对广告后台算法逻辑进行了初步介绍
+* [ 190107 ] 广告的发展趋势和其中的前端角色 <https://segmentfault.com/a/1190000017785756>  [ from 君毅 ]
+    *  从广告的发展趋势和尚存问题讲起，引出前端开发在未来应该逐渐的所处的角色和应该承担的责任
+
+> OS
+
+* [ 210629 ] 鸿蒙开场动画前端实现 <https://juejin.cn/post/6979042510400126983>  [ from 君毅 ]
+  * 由于CSS的滤镜属性filter本来就是从SVG那边吸收过来的，所以在CSS中可以使用SVG滤镜
 
 ## 210628-210702
 
-`本周轮值主编`：吴海萍 `下周轮值主编`：刘凌云
+`本周轮值主编`：吴海萍 `下周轮值主编`：孟丰
 
 > 干货
 * [ 210701 ] 绝了，没想到一个 source map 居然涉及到那么多知识盲区 <https://mp.weixin.qq.com/s/3M48V3yNiuuryle9bW472w> [ from 文玲 ]
 * [ 180915 ] Node 定时器详解 <https://mp.weixin.qq.com/s/YLpGdzlKkUDhfi_EhgxG7Q>  [ from 文玲 ]
-    * setTimeout() 
+    * setTimeout()
     * setInterval()
     * setImmediate()
     * process.nextTick()
@@ -30,6 +108,7 @@
     * 与Node's EventEmitter使用方式相同
 * [ 210625 ] 好消息，CSS text-underline-offset可以用起来了 <https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset> [ from 海萍 ]
 * [ 210625 ] 15 张前端高清知识地图，强烈建议收藏 <https://juejin.cn/post/6976157870014332935> [ from 宋浩 ]
+* [ 210624 ]  浏览器大容量存储方案-IndexedDB简介 <https://juejin.cn/post/6977370170457063437>  [ from 红梅 ]
 
 > 工具
 * [ 210621 ] Introducing WebContainers: Run Node.js natively in your browser <https://blog.stackblitz.com/posts/introducing-webcontainers>  [ from 君毅 ]
@@ -73,3 +152,5 @@
 
 > OS
 * [ 210610 ] 初窥鸿蒙 <https://segmentfault.com/a/1190000040158589> [ from 红梅 ]
+
+
