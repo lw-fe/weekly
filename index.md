@@ -2,6 +2,29 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210809-210813
+
+`本周轮值主编`：孟丰 `下周轮值主编`：赵文玲
+
+> 干货
+
+* [ 210811 ] 15张图，20分钟吃透Diff算法核心原理 <https://juejin.cn/post/6994959998283907102> [ from 文玲 ]
+
+* [ 210812 ] 38个ES6-ES12的开发技巧 <https://juejin.cn/post/6995334897065787422> [ from 文玲 ]
+* [ 210809 ] PixiJS <https://pixijs.huashengweilai.com/>  [ from 君毅 ]
+    *  2D可视化渲染引擎
+* [ 210812 ] 如何在大型代码仓库中删掉废弃的文件和 exports <https://mp.weixin.qq.com/s/VMB9FRMopo0acqkd2ijl_g> [ from 红梅 ]
+    * pzavolinsky/ts-unused-exports
+    * eslint
+    * ts-prune
+* [ 210813 ] z-index: 0和z-index: auto的区别 <https://juejin.cn/post/6995006409423192078>[ form 风鑫]
+
+> 新鲜物
+
+* [ 210720 ] 全新短视频智能创作平台重磅上线！1分钟让你搞定视频创作 <https://club.1688.com/unithread/165172755.html>  [ from 君毅 ]
+    *  短视频一站式服务平台
+* [ 210810 ] 无需安装的Windows11网页版来了，一键带你体验win11！<https://blog.csdn.net/weixin_43314519/article/details/119569103> [GitHub源码](https://github.com/blueedgetechno/windows11)[ from 海萍 ] 
+
 ## 210802-210807
 
 `本周轮值主编`：吴海萍 `下周轮值主编`：孟丰
