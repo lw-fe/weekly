@@ -10,9 +10,10 @@
 
 * [ 210816 ] html-to-image <https://github.com/bubkoo/html-to-image>  [ from 君毅 ]
     *  Generates an image from a DOM node using HTML5 canvas and SVG.Fork from dom-to-image with more maintainable code and some new features
-
-* [ 210816 ] Rust and Webassembly <https://github.com/dataease/dataease>  [ from 君毅 ]
-    *  This small book describes how to use Rust and WebAssembly together
+    
+* [ 210816 ] DataEase <https://github.com/dataease/dataease>  [ from 君毅 ]
+    *  一个开源的数据可视化报表大屏搭建工具，支持丰富的数据源连接，能够通过拖拉拽方式，快速制作图表和仪表盘
+    
 * [ 210819 ] Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？ <https://juejin.cn/post/6997943192851054606>  [ from 红梅 ]
 
 * [ 210813 ] 关闭页面时怎么向后台发送消息 <https://juejin.cn/post/6997016317635084319 >[ from 风鑫]
