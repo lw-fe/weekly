@@ -2,6 +2,23 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+## 210830-210903
+
+`本周轮值主编`：赵君毅 `下周轮值主编`：刘红梅
+
+> 干货
+* [ 210903 ] 新一代Web技术栈的演进：SSR/SSG/ISR/DPR都在做什么？ <https://mp.weixin.qq.com/s/i9FaQ1NNgj6LjQuCdOAoUg > [ from 文玲 ]
+     * CSR：Client Side Rendering，客户端（通常是浏览器）渲染；
+     * SSR：Server Side Rendering，服务端渲染；
+     * SSG：Static Site Generation，静态网站生成；
+     * ISR：Incremental Site Rendering，增量式的网站渲染；
+     * DPR：Distributed Persistent Rendering，分布式的持续渲染。
+* [ 210902 ] 推荐收藏10个有用的Web资源 <https://juejin.cn/post/7003114103094902792>  [ from 海萍 ]
+* [ 210902 ] JavaScript模块化方案 <https://juejin.cn/post/7003285499628486670#heading-5>  [ from 风鑫 ]
+
+> 工具
+* [ 210830 ] Cross Context Events <https://github.com/mia1024/cross-context-events>  [ from 君毅 ]
+    *  Cross context events is a robust, lightweight package providing the option to send and receive events across JS execution context（包含iframe，window tab，node环境）
 
 ## 210823-210828
 
@@ -22,7 +39,7 @@
     * 单点登录要求不同域下的系统「一次登录，全线通用」，通常由独立的 SSO 系统记录登录状态、下发 ticket，各业务系统配合存储和认证 ticket
 
 > 工具
-*  [ 210827 ] RAWGraphs <https://rawgraphs.io/> [ from 红梅 ] 
+*  [ 210827 ] RAWGraphs <https://rawgraphs.io/> [ from 红梅 ]
     * 一个 Web 工具，只要把电子表格的数据复制粘贴到网页上，就可以转成数据可视化图形，不需要编写代码。
 
 
@@ -34,10 +51,10 @@
 
 * [ 210816 ] html-to-image <https://github.com/bubkoo/html-to-image>  [ from 君毅 ]
     *  Generates an image from a DOM node using HTML5 canvas and SVG.Fork from dom-to-image with more maintainable code and some new features
-    
+
 * [ 210816 ] DataEase <https://github.com/dataease/dataease>  [ from 君毅 ]
     *  一个开源的数据可视化报表大屏搭建工具，支持丰富的数据源连接，能够通过拖拉拽方式，快速制作图表和仪表盘
-    
+
 * [ 210819 ] Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？ <https://juejin.cn/post/6997943192851054606>  [ from 红梅 ]
 
 * [ 210813 ] 关闭页面时怎么向后台发送消息 <https://juejin.cn/post/6997016317635084319 >[ from 风鑫]
@@ -65,7 +82,7 @@
 
 * [ 210720 ] 全新短视频智能创作平台重磅上线！1分钟让你搞定视频创作 <https://club.1688.com/unithread/165172755.html>  [ from 君毅 ]
     *  短视频一站式服务平台
-* [ 210810 ] 无需安装的Windows11网页版来了，一键带你体验win11！<https://blog.csdn.net/weixin_43314519/article/details/119569103> [GitHub源码](https://github.com/blueedgetechno/windows11)[ from 海萍 ] 
+* [ 210810 ] 无需安装的Windows11网页版来了，一键带你体验win11！<https://blog.csdn.net/weixin_43314519/article/details/119569103> [GitHub源码](https://github.com/blueedgetechno/windows11)[ from 海萍 ]
 
 ## 210802-210807
 
@@ -109,7 +126,7 @@
 
 > 干货
 * [ 210720 ] nginx常用配置清单 <https://mp.weixin.qq.com/s/HQB2WEwwjs6NvJtJIt76Bw > [ from 文玲 ]
-    * 可视化配置nginx站点 <https://nginxconfig.io/ > 
+    * 可视化配置nginx站点 <https://nginxconfig.io/ >
 * [ 210720 ] JSON.stringify() <https://mp.weixin.qq.com/s/rdUd3g-8XFQUkIZzM0QO6g > [ from 文玲 ]
     * 支持过滤与格式化缩进
 
