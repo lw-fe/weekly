@@ -15,6 +15,7 @@
      * DPR：Distributed Persistent Rendering，分布式的持续渲染。
 * [ 210902 ] 推荐收藏10个有用的Web资源 <https://juejin.cn/post/7003114103094902792>  [ from 海萍 ]
 * [ 210902 ] JavaScript模块化方案 <https://juejin.cn/post/7003285499628486670#heading-5>  [ from 风鑫 ]
+* [ 210827 ] 整理的一些 Vue3 知识点 <https://mp.weixin.qq.com/s/P-UxHqnl9SvU7qlIPPbNTg>  [ from 红梅 ]
 
 > 工具
 * [ 210830 ] Cross Context Events <https://github.com/mia1024/cross-context-events>  [ from 君毅 ]
