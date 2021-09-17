@@ -6,20 +6,23 @@
 
 `本周轮值主编`：赵君毅 `下周轮值主编`：刘红梅
 
-> 干货
-* [ 210903 ] 新一代Web技术栈的演进：SSR/SSG/ISR/DPR都在做什么？ <https://mp.weixin.qq.com/s/i9FaQ1NNgj6LjQuCdOAoUg > [ from 文玲 ]
-     * CSR：Client Side Rendering，客户端（通常是浏览器）渲染；
-     * SSR：Server Side Rendering，服务端渲染；
-     * SSG：Static Site Generation，静态网站生成；
-     * ISR：Incremental Site Rendering，增量式的网站渲染；
-     * DPR：Distributed Persistent Rendering，分布式的持续渲染。
-* [ 210902 ] 推荐收藏10个有用的Web资源 <https://juejin.cn/post/7003114103094902792>  [ from 海萍 ]
-* [ 210902 ] JavaScript模块化方案 <https://juejin.cn/post/7003285499628486670#heading-5>  [ from 风鑫 ]
-* [ 210827 ] 整理的一些 Vue3 知识点 <https://mp.weixin.qq.com/s/P-UxHqnl9SvU7qlIPPbNTg>  [ from 红梅 ]
+## 210905-210917
 
-> 工具
-* [ 210830 ] Cross Context Events <https://github.com/mia1024/cross-context-events>  [ from 君毅 ]
-    *  Cross context events is a robust, lightweight package providing the option to send and receive events across JS execution context（包含iframe，window tab，node环境）
+`本周轮值主编`：刘红梅 `下周轮值主编`：吴海萍
+
+
+> 干货
+* [ 210806 ] Separation of concerns with React hooks <https://felixgerschau.com/react-hooks-separation-of-concerns>  [ from 君毅 ]
+    *  Hooks 应该用来将组件的 UI 和逻辑分开，方便代码的进一步拆分，复用，维护及测试
+* [ 210917 ] 可视化大屏绝对布局简单总结 <http://fe.lvwan-inc.com/zhaojunyi/visual-big-screen/visual-big-screen-absolute.md.html>  [ from 君毅 ]
+* [ 210917 ] 可以在 Nginx 中运行 JavaScript，厉害了 <https://mp.weixin.qq.com/s/22e4xLKwLidmSWItjtHtkw> [ from 红梅]
+* [ 210806 ] iOS 的组件化 <https://mp.weixin.qq.com/s/ZrFgZyi_qpUZAF2G9kYkcw>  [ from 孟丰]
+
+> 最佳实践
+* [ 191230 ] Typescript 最佳实践 <https://juejin.cn/post/6844904034302705671 >  [ from 文玲 ]
+
+> 资源
+* [ 210916 ] 10 个“哇塞”的 web 资源 <https://juejin.cn/post/7008303011655057444 >  [ from 文玲 ]
 
 ## 210823-210828
 
