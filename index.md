@@ -2,6 +2,30 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+## 210920-210930
+
+`本周轮值主编`：赵文玲 `下周轮值主编`：吴海萍
+
+> 工程化
+* [ 210927 ] 简介使用gitlab-runner实现自动化部署前端项目 <https://juejin.cn/post/7012496217003261959 > [ from 文玲 ]
+    * Pipeline，描述一次构建任务，里面可以包含多个流程，如安装依赖、运行测试、编译、部署测试服务器、部署生产服务器等流程。
+    * Stages，表示构建阶段，一次 Pipeline 中可以定义多个 Stages。
+    * Jobs，表示构建工作，表示某个 Stage 里面执行的工作。
+* [ 210922 ] Webpack to Vite <https://github.com/originjs/webpack-to-vite>  [ from 君毅 ]
+    *  convert a webpack project to a vite project. It has been offically included
+
+> 数据结构
+* [ 210927 ] 简述一种购买车票位图实现数据结构 <https://juejin.cn/post/7012507519595577375 > [ from 文玲 ]
+
+> 知识手册
+* [ 210928 ] 《认知偏差知识手册 》将人在思考和决策时容易犯的67种认知偏差总结而成。 <https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf > [ from 孟丰 ]
+
+> 工具
+* [ 210926 ] 请UI小姐姐喝了一杯奶茶要来的网站 <https://mp.weixin.qq.com/s/NYPFmEsYP6PznZNg7eCdEQ > [ from 海萍 ]
+* [ 210924 ] 38个CSS资源升级你的CSS技能 <https://mp.weixin.qq.com/s/Kaj_gjE9prlSMuuSawYbeg > [ from 海萍 ]
+
+
 ## 210905-210917
 
 `本周轮值主编`：刘红梅 `下周轮值主编`：吴海萍
