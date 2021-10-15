@@ -3,6 +3,20 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 211008-211015
+
+`本周轮值主编`：吴海萍 `下周轮值主编`：孟丰
+
+> 干货
+* [ 211013 ] 图解JavaScript之原型与原型链 <https://juejin.cn/post/7018355953955241997 > [ from 文玲 ]
+* [ 211014 ] 几个有趣的算法 <https://juejin.cn/post/7018727094108553224 > [ from 文玲 ]
+* [ 211011 ] Automating a software company with GitHub Actions <https://posthog.com/blog/automating-a-software-company-with-github-actions>  [ from 君毅 ]
+    *  With Actions, you can define per-repository workflows which run on robust runner virtual machines
+* [ 211011 ] CSS实现渐变色边框（Gradient borders）的5种方法 <https://segmentfault.com/a/1190000040794056>  [ from 红梅]
+
+> 工具
+* [ 201011 ] 分享20个JS库 <https://juejin.cn/post/7017575020633260069> [ from 海萍]
+
 ## 210920-210930
 
 `本周轮值主编`：赵文玲 `下周轮值主编`：吴海萍
