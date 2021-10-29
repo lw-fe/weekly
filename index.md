@@ -3,6 +3,27 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 ## 211018-211022
 
+`本周轮值主编`：师风鑫 `下周轮值主编`：彭文娟
+
+> 干货
+* [ 211029 ] 选择合适的包管理器工具 <https://github.com/antfu/ni /> [ from 文玲 ]
+    * 抹平不同的包管理器的命令差异
+    * npm i -g @antfu/ni
+    * 相关命令：ni、nr、nx、nu、nci、nrm
+* [ 211028 ] ni源码解密  <https://juejin.cn/post/7023910122770399269 /> [ from 文玲 ]
+   * 根据锁文件猜测用哪个包管理器 npm/yarn/pnpm 
+   * 抹平不同的包管理器的命令差异
+   * 最终运行相应的脚本
+* [ 210617 ] Working From Orbit  <https://blog.immersed.team/working-from-orbit-39bf95a6d385 /> [ from 君毅 ]
+* [ 210617 ] 小程序框架对比（Taro VS uni-app）<https://juejin.cn/post/6974584590841167879 >  [ from 风鑫 ]
+* [ 211027 ] 几个少见却很有用的 JS 技巧 <https://mp.weixin.qq.com/s/v_zLYS-hp6-KWt9pQRPgJw >  [ from 海萍 ]
+* [ 211028 ] 巧妙实现文字二次加粗再加边框 <https://segmentfault.com/a/1190000040876086>   [ from 红梅 ]
+> 学习网站
+* [ 211019] C语言中文网 <http://c.biancheng.net/ > [ from 文玲 ]
+
+
+## 211018-211022
+
 `本周轮值主编`：孟丰 `下周轮值主编`：师风鑫
 
 > 干货
