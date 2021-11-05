@@ -3,7 +3,7 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 ## 211101-211105
 
-`本周轮值主编`：彭文娟 `下周轮值主编`：
+`本周轮值主编`：彭文娟 `下周轮值主编`：赵文玲
 
 > 干货
  * [ 211101 ] Detect inactive users with the Idle Detection API <https://web.dev/idle-detection/>  [ from 君毅 ]
