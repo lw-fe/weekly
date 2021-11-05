@@ -1,6 +1,26 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+## 211101-211105
+
+`本周轮值主编`：彭文娟 `下周轮值主编`：
+
+> 干货
+ * [ 211101 ] Detect inactive users with the Idle Detection API <https://web.dev/idle-detection/>  [ from 君毅 ]
+    *  The Idle Detection API notifies developers when a user is idle, indicating such things as lack of interaction with the keyboard, mouse, screen, activation of a screensaver, locking of the screen, or moving to a different screen
+
+> 工具
+* [ 211103 ] 前端MOCK数据方案与工具 <https://juejin.cn/post/7026165301255340045 > 
+      * 代码入侵
+      * 接口管理工具（rap, swagger, moco, yapi）
+      * 本地node服务器（json-server）
+      * 请求拦截（mockjs）
+      * 抓包工具（charles\fiddler），适合线上问题排查
+      * 组合模式（easy-mock + json-server + mockjs）
+* [ 210725 ] 10 Useful Responsive Design Testing Tools <https://www.webfx.com/blog/web-design/responsive-design-testing-tools>  [ from 君毅 ]
+    *  To make the crucial duty of testing your site’s responsiveness easier, here are a few excellent free online tools to check out
+
+
 ## 211018-211022
 
 `本周轮值主编`：师风鑫 `下周轮值主编`：彭文娟
