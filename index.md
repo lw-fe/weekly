@@ -8,6 +8,10 @@
 > 干货
  * [ 211101 ] Detect inactive users with the Idle Detection API <https://web.dev/idle-detection/>  [ from 君毅 ]
     *  The Idle Detection API notifies developers when a user is idle, indicating such things as lack of interaction with the keyboard, mouse, screen, activation of a screensaver, locking of the screen, or moving to a different screen
+ * [ 211105 ]<http://172.17.3.51:40420/home/> [ from 红梅 ]
+ * [ 211105 ]<http://172.17.3.51:40419/#/datashow /> [ from 红梅 ]
+ * [ 211105 ]<http://172.17.3.51:40421/ /> [ from 红梅 ]
+ * [ 210329 ] iOS中触摸事件的传递和响应分析 <https://mp.weixin.qq.com/s/l0dofJrCRjOJwm-QvMQNyA/> [from 孟丰]
 
 > 工具
 * [ 211103 ] 前端MOCK数据方案与工具 <https://juejin.cn/post/7026165301255340045 > 
