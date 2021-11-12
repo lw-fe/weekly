@@ -1,6 +1,25 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+
+
+## 211108-211112
+
+`本周轮值主编`：赵文玲 `下周轮值主编`：赵君毅
+
+> 干货
+* [ 190526 ] 大型项目前端架构浅谈 <https://juejin.cn/post/6844903853859536903 > [ from 文玲 ]
+* [ 211004 ] CSS accent-color <https://davidwalsh.name/css-accent-color>  [ from 君毅 ]
+    * The accent-color CSS property allows us to change the accent of input, input[type=radio], and input[type=checkbox] elements
+* [ 211112 ] 一个超好用的git命令 git stash <https://juejin.cn/post/7029345047497670669 >  [ from 风鑫 ]
+
+> 开源
+* [ 211108 ] Semi Design <https://semi.design/zh-CN>  [ from 君毅 ]
+    * 由字节跳动抖音前端与 UED 团队设计、开发并维护，包含设计语言、React组件、主题等开箱即用的中后台解决方案，帮助设计师与开发者打造高质量产品
+* [ 211030 ] 微软最终放弃了 Electron <https://www.infoq.cn/news/JgLZVEzvAElfBhTkPrsv> [ from 红梅 ]
+
+
+
 ## 211101-211105
 
 `本周轮值主编`：彭文娟 `下周轮值主编`：赵文玲
