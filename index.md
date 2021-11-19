@@ -10,18 +10,18 @@
 * [ 190311 ] Deep dive: How do React hooks really work? <https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work>  [ from 君毅 ]
     *  In this article, author reintroduce closures by building a tiny clone of React Hooks
 * [ 211030 ] 你需要知道的 25 个 Vue 技巧 <https://juejin.cn/post/7024746977363492895>   [ from 红梅 ]
-* [ 211112 ] css有了css变量这个神器，我再也不需要less和sass了  <https://my.oschina.net/webzhifeiji/blog/5308554 />  [ from 海萍 ]
+* [ 211112 ] css有了css变量这个神器，我再也不需要less和sass了  <https://my.oschina.net/webzhifeiji/blog/5308554>  [ from 海萍 ]
     * 同一个 CSS 变量，可以在多个选择器内声明，优先级最高的声明生效
     * JavaScript 可以操作css变量，意味着，JavaScript 可以将任意值存入样式表
 
 > 工具
-* [ 211028 ] 好用的神器ni  <https://juejin.cn/post/7023910122770399269 />  [ from 彭文娟 ]
+* [ 211028 ] 好用的神器ni  <https://juejin.cn/post/7023910122770399269>  [ from 彭文娟 ]
 
 > 开源
 * [ 211115 ] 开源的后台管理系统 Vue Admin Work <https://juejin.cn/post/7030673884336619557>  [ from 风鑫 ]
 
 > 新鲜事物
-* [ 211116 ] 元宇宙下的前端现状 <https://mp.weixin.qq.com/s/RS87Mfm7a6WcSOlEAgEOGQ > [ from 文玲 ]
+* [ 211116 ] 元宇宙下的前端现状 <https://mp.weixin.qq.com/s/RS87Mfm7a6WcSOlEAgEOGQ> [ from 文玲 ]
 
 ## 211108-211112
 
