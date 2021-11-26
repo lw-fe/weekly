@@ -2,26 +2,25 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
-## 211115-211120
+
+
+## 211122-211126
 
 `本周轮值主编`：君毅 `下周轮值主编`：红梅
 
 > 干货
-* [ 190311 ] Deep dive: How do React hooks really work? <https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work>  [ from 君毅 ]
-    *  In this article, author reintroduce closures by building a tiny clone of React Hooks
-* [ 211030 ] 你需要知道的 25 个 Vue 技巧 <https://juejin.cn/post/7024746977363492895>   [ from 红梅 ]
-* [ 211112 ] css有了css变量这个神器，我再也不需要less和sass了  <https://my.oschina.net/webzhifeiji/blog/5308554>  [ from 海萍 ]
-    * 同一个 CSS 变量，可以在多个选择器内声明，优先级最高的声明生效
-    * JavaScript 可以操作css变量，意味着，JavaScript 可以将任意值存入样式表
+* [ 211125 ] 前端如何修改组件库源码来封装符合自己需求的组件? <https://mp.weixin.qq.com/s/Mx8V7kCk2CgtK85X1ymSIA > [ from 文玲 ]
+* [ 211125 ] 90行代码！大一学生自学编程，自创搜题网站，已在GitHub开源 <https://mp.weixin.qq.com/s/-g8NSSKphf-z3QTAzChixw > [ from 文玲 ]
+* [ 201128 ] Canvas 局部渲染总结 <https://blog.csdn.net/weixin_39687881/article/details/110799282>  [ from 君毅 ]
+   *  介绍了 antv 底层 2d 渲染引擎实现局部刷新的基本方案以及遇到的多种问题
+*  [ 211126 ]  React18专门引入了新Hook：useId  <https://segmentfault.com/a/1190000041020566> [ from 红梅 ]
 
-> 工具
-* [ 211028 ] 好用的神器ni  <https://juejin.cn/post/7023910122770399269>  [ from 彭文娟 ]
+> 组件
+* [ 211124 ]  一个切换夜间模式的组件<https://juejin.cn/post/7034128124098904078  /> [ from 风鑫 ]
 
-> 开源
-* [ 211115 ] 开源的后台管理系统 Vue Admin Work <https://juejin.cn/post/7030673884336619557>  [ from 风鑫 ]
+> 实践
+* [ 211125 ] echarts实现的小游戏<https://juejin.cn/post/7034290086111871007 />  [ from 彭文娟 ]
 
-> 新鲜事物
-* [ 211116 ] 元宇宙下的前端现状 <https://mp.weixin.qq.com/s/RS87Mfm7a6WcSOlEAgEOGQ> [ from 文玲 ]
 
 ## 211108-211112
 
