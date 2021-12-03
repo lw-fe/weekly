@@ -3,6 +3,20 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+## 211129-211203
+
+`本周轮值主编`：海萍 `下周轮值主编`：孟丰
+
+> 干货
+* [ 211201 ] 一篇非常 Nice 的 UmiJS 教程 <https://mp.weixin.qq.com/s/cje33KA7gjDPomkC0U9U0w > [ from 文玲 ]
+* [ 201129 ] Arco Design <https://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html >  [ from 君毅 ]
+    *  字节跳动推出的企业级设计系统，可通过主题定制平台，物料开放平台进行各种定制
+    *  介绍了 antv 底层 2d 渲染引擎实现局部刷新的基本方案以及遇到的多种问题
+* [ 210217 ] 二维地图前端js api对比分析 <https://zhuanlan.zhihu.com/p/350866070 > [ from 红梅 ]
+
+> 总结
+* [ 211130 ] 2022前端未来发展趋势 < https://juejin.cn/post/7036294322567774239 > [ from 海萍 ]
+
 
 ## 211122-211126
 
