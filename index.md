@@ -1,6 +1,28 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+## 211206-211210
+
+`本周轮值主编`：孟丰 `下周轮值主编`：师风鑫
+
+> 干货
+
+* [ 211206 ] 浏览器的 structuredClone() 方法 <https://developer.mozilla.org/en-US/docs/Web/API/structuredClone>  [ from 君毅 ]
+    *  Firefox 浏览器开始原生提供 structuredClone() 方法，用于对象的深拷贝
+* [ 210825 ] 你不知道的CSS <https://juejin.cn/post/7000261375654101005> [from 风鑫]
+
+* [ 210822 ] 不使用file类型input也能触发文件上传 <https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/> [ from 海萍 ]
+   * Chrome 86以后版本支持 showOpenFilePicker 
+
+> 总结
+
+* [ 211114 ] 浏览器中的音视频知识总结 <https://mp.weixin.qq.com/s/SGOwrE3IiTiZxRN2lYKnhw> [ from 文玲 ]
+* [ 211107 ] 前端模块化的今生 <https://mp.weixin.qq.com/s/8tbp7L6mtYJJq5ibH51S0A> [ from 文玲 ]
+*  [ 200620 ] 前端性能优化总结 <https://juejin.cn/post/6844904195707895816#heading-12> [ from 红梅 ]
+
+> 好用工具
+
+* [ 211210 ] 吐血推荐一大波让你直呼哇塞的Canvas库 <https://mp.weixin.qq.com/s/wPI7Le-YZ5tOqJtqTE4HGA> [ from 海萍 ]
 
 
 ## 211129-211203
@@ -406,3 +428,5 @@
 
 > OS
 * [ 210610 ] 初窥鸿蒙 <https://segmentfault.com/a/1190000040158589> [ from 红梅 ]
+
+
