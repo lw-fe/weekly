@@ -1,6 +1,29 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> ## 211213-211218
+
+`本周轮值主编`：师风鑫 `下周轮值主编`：彭文娟
+
+> 干货
+
+* [ 211214 ] 2021 年在 Web 领域有哪些关键进展？<https://mp.weixin.qq.com/s/IhFcZTDCWLu3mAHeNbrOrg > [ from 文玲 ]
+* [ 211212 ] 前端工程化发展历史 <https://mp.weixin.qq.com/s/l5tfPwCmbJlGvhdE49D6mQ > [ from 文玲 ]
+* [ 210715 ] React 18 的三大特性 <https://www.jianshu.com/p/6a6fc1baca2b>  [ from 君毅 ]
+    *  Automatic batching
+    * Concurrent APIS
+    * SSR for Suspense  
+* [ 211209 ] WebP图片优化  [ from 风鑫 ] <https://juejin.cn/post/7039564188385017864 >
+* [ 211208 ] 手写清除console的loader<https://juejin.cn/post/7039258932845477925 />  [ from 彭文娟 ]
+* [ 211119 ] 精读《深入了解现代浏览器一》<https://segmentfault.com/a/1190000041031501> [ from 红梅 ]
+* [ 211206 ] 精读《深入了解现代浏览器二》<https://segmentfault.com/a/1190000041069091> [ from 红梅 ]
+* [ 211213 ] 精读《深入了解现代浏览器三》<https://segmentfault.com/a/1190000041106305> [ from 红梅 ]
+
+> 工具
+
+* [ 191021 ] Tmux 使用教程 <http://www.ruanyifeng.com/blog/2019/10/tmux.html>  [ from 君毅 ]
+    *  Tmux 是一个终端复用器（terminal multiplexer），配合vim可以实现终端和代码的同屏展示
+
 ## 211206-211210
 
 `本周轮值主编`：孟丰 `下周轮值主编`：师风鑫
