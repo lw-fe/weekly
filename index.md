@@ -1,6 +1,23 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> ## 211220-211224
+
+`本周轮值主编`：彭文娟 `下周轮值主编`：赵文玲
+
+> 干货
+* [ 211221 ] postTask：React的杀手锏被浏览器原生实现了？ <https://mp.weixin.qq.com/s/33DhFfJ0igAizTcwgCJhaw > [ from 文玲 ]
+     * 优先级调度: 根据任务优先级将任务拆解，分配执行时间的技术
+     * scheduler.postTask: Chrome实现的「优先级调度API」
+* [ 211221 ] 有趣的 CSS 数学函数 <https://mp.weixin.qq.com/s/Cbwy72-4ah6lwUxB6FksCw >[ from 文玲 ]
+* [ 211213 ] 理解 Log4Shell 漏洞 <https://sspai.com/post/70394>  [ from 君毅 ]
+    *  Log4Shell 漏洞原理解释
+* [ 211223 ] 从 0 到 1 上手 Web Components 业务组件库开发 <https://segmentfault.com/a/1190000041170989>[ from 红梅 ]
+* [ 211224 ] 复杂表单开发优化技巧<https://juejin.cn/post/7033910308057907213/>  [ from 彭文娟 ]
+> 工具
+* [ 210525 ] Azure Text-to-Speech updates at //Build 2021 <https://techcommunity.microsoft.com/t5/azure-ai-blog/azure-text-to-speech-updates-at-build-2021/ba-p/2382981>  [ from 君毅 ]
+    *  微软最新人工智能训练之后的语音库，非常逼真
+
 > ## 211213-211218
 
 `本周轮值主编`：师风鑫 `下周轮值主编`：彭文娟
