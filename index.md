@@ -1,6 +1,29 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+
+> ## 211227-211231
+
+`本周轮值主编`：赵文玲 `下周轮值主编`：刘红梅
+
+> 干货
+* [ 211226 ] 如何严格判断文件上传类型 <https://juejin.cn/post/7046002905278578725> [ from 红梅 ]
+* [ 211208 ] 2021 年你需要知道的 CSS 工程化技术 <https://mp.weixin.qq.com/s/HsFW86_oM5r7LXbgojdoBA > [ from 文玲 ]
+    * Less/Sass + PostCSS 的纯 CSS c侧方案
+    * styled-components / emotion 的纯 CSS-in-JS 侧方案
+    * TailwindCSS 的以写辅助类为主的 HTML 侧方案
+* [ 211207 ] code-review 之前端代码优化汇总 <https://mp.weixin.qq.com/s/wpC1TyilxN3FZ7ys4n0LaQ > [ from 文玲 ]
+* [ 211228 ] Vue性能优化 <https://juejin.cn/post/7046730134354657288 > [ from 风鑫 ]
+
+> 趋势
+* [ 211225 ] 2021 年 CSS 使用趋势 <https://mp.weixin.qq.com/s/_csuj9dcmgjSIhx-6a4Vtg > [ from 君毅 ]
+
+> 工具
+* [ 211227 ] codeamigo <https://codeamigo.dev>  [ from 君毅 ]
+    *  各类语言在线学习平台
+
+    
+
 > ## 211220-211224
 
 `本周轮值主编`：彭文娟 `下周轮值主编`：赵文玲
