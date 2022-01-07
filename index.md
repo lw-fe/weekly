@@ -2,6 +2,21 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+> ## 220104-220107
+
+`本周轮值主编`：吴海萍 `下周轮值主编`：刘红梅
+
+> 干货
+
+* [ 220105 ] 前端开发必须了解的 Nginx 单页加载优化 <https://mp.weixin.qq.com/s/MMo3NxLus8wOHpG6YWeY8Q > [ from 文玲 ]
+* [ 220105 ] 2021 年从零开发前端项目指南 <https://mp.weixin.qq.com/s/O9Ik5RGlkDc2fKRMkiZpCg > [ from 文玲 ]
+* [ 211228 ] 面试官最喜欢问的14种Vue修饰符 <https://segmentfault.com/a/1190000041191163> [ from 红梅 ]
+
+
+> 新鲜事
+* [ 220107 ] Web3.0是什么，为什么MetaVerse这么火？ <https://segmentfault.com/a/1190000041219802> [ from 红梅 ]
+
+
 > ## 211227-211231
 
 `本周轮值主编`：赵文玲 `下周轮值主编`：刘红梅
