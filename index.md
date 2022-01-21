@@ -1,6 +1,21 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> ## 220117-220122
+
+`本周轮值主编`：孟丰 `下周轮值主编`：刘红梅
+
+> 干货
+
+* [ 220116 ] 前端周报: Node.js 开发者 2021 报告；AngularJS 生命周期结束； <https://mp.weixin.qq.com/s/8QiPej-fxzun4nc89Qxa7A> [ from 文玲 ]
+* [ 220119 ] 大规模 Node.js 网关的架构设计与工程实践 <https://mp.weixin.qq.com/s/nWKCX1INkP7uKGONzW7CPg> [ from 文玲 ]
+* [ 220118 ] 为什么不建议用index作为v-for的key <https://juejin.cn/post/7054473358070513701> [ from 风鑫]
+* [ 220121 ] css实现丰富多彩的多边形制作<https://juejin.cn/post/7036549260241797134>  [ from 彭文娟 ]
+* [ 180506 ] iOS 端数据库比较<https://www.jianshu.com/p/39603f991909>  [ from 孟丰 ]
+
+> 新鲜事
+* [ 220120 ] 《Node.js 开发者 2021 报告》发布 <https://mp.weixin.qq.com/s/tTsJxnhqy8BuOK54h-wE2w>[ from 文玲 ]
+
 
 > ## 220104-220107
 
