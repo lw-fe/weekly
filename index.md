@@ -3,7 +3,7 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 > ## 220117-220122
 
-`本周轮值主编`：孟丰 `下周轮值主编`：刘红梅
+`本周轮值主编`：孟丰 `下周轮值主编`：风鑫
 
 > 干货
 
@@ -15,6 +15,20 @@
 
 > 新鲜事
 * [ 220120 ] 《Node.js 开发者 2021 报告》发布 <https://mp.weixin.qq.com/s/tTsJxnhqy8BuOK54h-wE2w>[ from 文玲 ]
+
+> ## 220110-220114
+
+`本周轮值主编`：刘红梅 `下周轮值主编`：孟丰
+
+> 干货
+
+* [ 220110 ] css画灯笼 <https://juejin.cn/post/7051370971932033038 /> [ from 风鑫 ]
+* [ 220113 ] 解读 React Conf 2021 <https://mp.weixin.qq.com/s/n8v5c_-3b44ECdh9qVEQIA > [ from 文玲 ]
+* [ 220113 ] 暴力拒绝白嫖，faker.js 作者“删库跑路”，数千个应用程序无限输出乱码 <https://mp.weixin.qq.com/s/XQfg0L2s3LZCgOC2At21MA >  [ from 文玲 ]
+* [ 220112 ] 56 个 JavaScript 实用工具函数助你提升开发效率！ <https://mp.weixin.qq.com/s/aU2LMBB9KJTinyIAybuzLg >  [ from 文玲 ]
+* [ 220103 ] 前端该如何优雅地Mock数据  <https://juejin.cn/post/7048916480032768013 > [ from 海萍 ]
+* [ 220103 ] Apifox首页: API 文档、API 调试、API Mock、API 自动化测试  < https://www.apifox.cn/ > [ from 海萍 ]
+* [ 220114 ]  2021，17个 最流行的 Vue 插件 <https://segmentfault.com/a/1190000041233013>  [ from 红梅 ]
 
 
 > ## 220104-220107
