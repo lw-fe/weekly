@@ -11,6 +11,7 @@
 * [ 220210 ] 谈谈我这些年对前端框架的理解 <https://mp.weixin.qq.com/s/QnjXyfdN_DwWRGC7NBMtPw> [ from 红梅]
 * [ 210422 ] Swift 2021 生态调研报告 <https://mp.weixin.qq.com/s/5SXAozM2c6Ivyzl7B9IfQQ >[ from 孟丰]
 * [ 220207 ] 前后端都要懂一点的 GIS <https://mp.weixin.qq.com/s/UkQvMFEWyHDbsmh7LDWU7A >[ from 海萍]
+* [ 220211 ] 关于slice()、substr()、substring()方法<https://juejin.cn/post/6844903827766771725/>  [ from 彭文娟 ]
 
 > 新鲜事
 
