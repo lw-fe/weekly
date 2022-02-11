@@ -1,6 +1,23 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> ## 220207-220211
+
+`本周轮值主编`：风鑫 `下周轮值主编`：文娟
+
+> 干货
+
+* [ 220210 ] React 概述&脚手架搭建 <https://juejin.cn/post/7062925935099510797 > [ from 风鑫]
+* [ 220210 ] 谈谈我这些年对前端框架的理解 <https://mp.weixin.qq.com/s/QnjXyfdN_DwWRGC7NBMtPw> [ from 红梅]
+* [ 210422 ] Swift 2021 生态调研报告 <https://mp.weixin.qq.com/s/5SXAozM2c6Ivyzl7B9IfQQ >[ from 孟丰]
+* [ 220207 ] 前后端都要懂一点的 GIS <https://mp.weixin.qq.com/s/UkQvMFEWyHDbsmh7LDWU7A >[ from 海萍]
+
+> 新鲜事
+
+* [ 220112 ] React vs Vue：谁是2022年的最佳框架？ <https://www.toutiao.com/i7052223374012973571/?only_rec=1 >[ from 风鑫]
+* [ 220211 ] 「冰墩墩」代码，开源了！ <https://mp.weixin.qq.com/s/0nWnFKQ1k0xHcmXxeEqHQw> [ from 红梅]
+
+
 > ## 220117-220122
 
 `本周轮值主编`：孟丰 `下周轮值主编`：风鑫
