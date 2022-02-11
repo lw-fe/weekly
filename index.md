@@ -12,6 +12,8 @@
 * [ 210422 ] Swift 2021 生态调研报告 <https://mp.weixin.qq.com/s/5SXAozM2c6Ivyzl7B9IfQQ >[ from 孟丰]
 * [ 220207 ] 前后端都要懂一点的 GIS <https://mp.weixin.qq.com/s/UkQvMFEWyHDbsmh7LDWU7A >[ from 海萍]
 * [ 220211 ] 关于slice()、substr()、substring()方法<https://juejin.cn/post/6844903827766771725/>  [ from 彭文娟 ]
+* [ 220211 ] CSI.JS 重建犯罪现场 <https://github.com/tnfe/csijs > [ from 海萍 ]
+   * CSI.JS是一个前端日志系统，它将错误信息记录于本地localStorage中
 
 > 新鲜事
 
