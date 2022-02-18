@@ -1,6 +1,26 @@
 # 技术快报
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
+> ## 2202014-220218
+
+`本周轮值主编`：文娟 `下周轮值主编`：文玲
+
+> 干货
+* [ 220217 ] 使用 css模拟图片透明背景效果 <https://juejin.cn/post/7065512291516547080 >[ from 风鑫 ]
+* [ 220210 ] 使用 Rust 编写更快的 React 组件 <https://mp.weixin.qq.com/s/Lr8H_9wzVS6EAdI30YS9rQ >[ from 文玲]
+* [ 220213 ] 2022年了，这些 ES7-ES12 的知识点你都掌握了嘛？<https://mp.weixin.qq.com/s/QxaHOQIJW2nx0a_cVd824g >[ from 文玲]
+* [ 220218 ] 关于vue的生命周期<https://juejin.cn/post/7032881219524100132/> [ from 彭文娟 ]
+
+> 工具
+* [ 220202 ]  2021 年最受欢迎开发工具 TOP 100 <https://stackshare.io/posts/top-developer-tools-2021 >  [ from 孟丰]
+
+> 推荐
+* [ 220203 ] 15个很有趣的开源项目推荐 <https://juejin.cn/post/7060411919361900574> [ from 红梅 ]
+
+> 趋势
+* [ 220120 ] 展望大前端的2022：VR大潮来袭，大前端迎来新机遇<https://www.infoq.cn/article/k1Qpf3FaxNHdb7yqQptg>[ from 红梅 ]
+* [ 220215 ] JS历史最头疼的对象Date即将淘汰，替代物Temporal真的好用（全网首发Temporal教程） <https://juejin.cn/post/7064853912880152613 >[ from 海萍 ]
+
 > ## 220207-220211
 
 `本周轮值主编`：风鑫 `下周轮值主编`：文娟
