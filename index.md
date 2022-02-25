@@ -12,6 +12,7 @@
 * [ 220216 ] Rust 才是 JavaScript 基础设施的未来 <https://mp.weixin.qq.com/s/g8ZwWsX8yo3u9fbx0oe8Eg > [ from 文玲 ]
 * [ 220222 ] 有关es6的那些事<https://juejin.cn/post/7016520448204603423 >  [ from 文娟 ]
 * [ 220223 ] 前端生成PDF，让后端刮目相看 <https://segmentfault.com/a/1190000041447795> [ from 红梅 ]
+* [ 220215 ] javascript判断数组的方法总结<https://juejin.cn/post/7064713519672852511> [ from 风鑫 ]
 
 > 适配方案
 * [ 220219 ] 根据设计稿，计算出网页REM的大小，有那么难吗？<https://mp.weixin.qq.com/s/Nw2roqGIUdb8sU9XDeIP-Q > [ from 海萍 ]
