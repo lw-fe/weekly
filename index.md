@@ -2,6 +2,22 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+> ## 220228-220304
+
+`本周轮值主编`：红梅 `下周轮值主编`：海萍
+
+> 干货
+* [ 220224 ] WebXR 应用开发之 aframe 框架入门 <https://mp.weixin.qq.com/s/4CK8toKpd9sMO5lT__kzFg >   [ from 文玲 ]
+* [ 220303 ] 读懂 CSS 投影与透视 <https://mp.weixin.qq.com/s/jjWLoCZdQjP0ygjCYX25NA> [ from 红梅 ]
+* [ 220226 ] 20个JS技巧 < https://juejin.cn/post/7068853819135754253 > [ from 风鑫 ]
+
+> 最佳实践
+* [ 220225 ] 用babel和nodemon搭建一个功能齐全的nodejs开发环境 <https://mp.weixin.qq.com/s/VHqK--TmhYhMRgeT8PxZqw > [ from 文玲 ]
+
+> 资讯
+* [ 220304 ] 阿里自研 IDE 研发框架 OpenSumi 正式开源 <https://mp.weixin.qq.com/s/Qk6-2DP9V8KOsRtvK5SVeg > [ from 文玲 ]
+
+
 
 > ## 220221-220225
 
