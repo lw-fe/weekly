@@ -2,6 +2,20 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+> ## 220307-220311
+
+`本周轮值主编`：海萍 `下周轮值主编`：孟丰
+
+> 干货
+* [ 220311 ] once-init : 减少重复的请求，也许这个库能帮到你<https://mp.weixin.qq.com/s/gVHCv7uGGS0ny2LBWKXDAw >   [ from 文玲 ]
+* [ 220310 ] JSON.stringify详解及灵活运用 <https://juejin.cn/post/7073394453540503560 > [ from 风鑫 ]
+* [ 220310 ] Promise 静态四兄弟，你学会了吗? <https://xie.infoq.cn/article/06d24b816fc2ffe94c75a9ef6 > [ from 海萍 ]
+* [ 220308 ] 如果美国把根域名服务器封了，中国会从网络上消失吗？ <https://mp.weixin.qq.com/s/4UBIu-wm3ZhyIxZFucZxaQ > [ from 红梅 ]
+* [ 220228] 有关前端里的拖拽<https://juejin.cn/post/7069588012912361509/ >  [ from 文娟 ]
+
+
+
 > ## 220228-220304
 
 `本周轮值主编`：红梅 `下周轮值主编`：海萍
