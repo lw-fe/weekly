@@ -2,6 +2,20 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+> ## 220328-220401
+
+`本周轮值主编`：文娟 `下周轮值主编`：文玲
+
+> 干货
+
+* [ 220328 ] 你不知道的前端音视频知识 <https://mp.weixin.qq.com/s/Sb00MXCdIhNCrn-7J2XwsQ>[ from 红梅 ]
+* [ 220328 ] Vue+ElementUI实现动态调整表格列 显示隐藏&显示顺序<https://juejin.cn/post/7022140926906597384/ >[ from 文娟 ]
+* [ 220325 ] 运行npm run xxx 的时候发生了什么？<https://juejin.cn/post/7078924628525056007 / > [ from 师风鑫]
+* [ 220331 ] React Hooks基本使用详解 <https://mp.weixin.qq.com/s/jEOjD5dChczL20THnMzCfQ >[ from 文玲 ]
+* [ 220330 ] 奇怪的代码反面教材 <https://mp.weixin.qq.com/s/gOAptdlNJEj61PA0ykFAow >[ from 海萍 ]
+* [ 220401 ] 怎么实现大文件快速上传？ <https://mp.weixin.qq.com/s/AsG1uCyJkaIpnFcHbSgvBQ >  [ from 海萍 ]
+
+
 > ## 220321-220325
 
 `本周轮值主编`：风鑫 `下周轮值主编`：文娟
