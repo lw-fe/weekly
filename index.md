@@ -2,6 +2,17 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+> ## 220411-220415
+
+`本周轮值主编`：红梅 `下周轮值主编`：海萍
+
+> 干货
+* [ 220326 ] React Hooks使用误区  <https://mp.weixin.qq.com/s/UqdFCDwf5KN4oZ-XwcTBnA> [ from 红梅 ]
+* [ 220402 ] 前端git经典操作<https://mp.weixin.qq.com/s/45DudofvviGm8xyukIRoPQ >  [ from 彭文娟 ]
+* [ 220413 ] 虚拟 DOM 和原生 JS 究竟谁性能更好？<https://juejin.cn/post/7085891028640595981 >  [ from 师风鑫 ]
+
+
 > ## 220328-220401
 
 `本周轮值主编`：文娟 `下周轮值主编`：文玲
