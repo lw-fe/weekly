@@ -2,6 +2,19 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+> ## 220418-220424
+
+`本周轮值主编`：海萍 `下周轮值主编`：孟丰
+
+> 干货
+* [ 220411 ] 11+ chrome高级调试技巧 <https://juejin.cn/post/7085135692568723492 > [ from 风鑫 ]
+* [ 220412 ] 让页面无懈可击！关于 CSS，你该做好这 20 件事<https://mp.weixin.qq.com/s/UUkXnLIIwBbpu0vWc-YOEg >  [ from 彭文娟 ]
+* [ 220415 ] 离开页面时，你知道如何可靠地发送一个 HTTP 请求吗？ <https://mp.weixin.qq.com/s/3moKMIZD8JcgRsO5VXn01Q  > [ from 海萍 ]
+* [ 220418 ] 5个一定要学会的JavaScript新特性 <https://mp.weixin.qq.com/s/1xdWS-6xTKPVua4IPnt6JQ > [ from 海萍 ]
+   * 用 # 来声明私有变量 
+* [ 220420 ] 前端从 web 服务器或者 CDN 下载资源 <https://mp.weixin.qq.com/s/ZVISq--0TFdiAyOxR98VTw > [ from 红梅 ]
+* [ 220421 ] 一文彻底搞懂前端实现文件预览（word、excel、pdf、ppt、mp4、图片、文本）  <https://mp.weixin.qq.com/s/lUKhaqcNVrYmT4Bn1Vq-sA > [ from 红梅 ]
+
 
 > ## 220411-220415
 
