@@ -9,7 +9,9 @@
 > 干货
 * [ 220601 ]  传统与现代可视化 PK：再生水厂二维工艺组态系统 <https://segmentfault.com/a/1190000041929177 > [ from 红梅 ]
 * [ 220530 ] 锁定项目 Node 版本和包管理器 <https://segmentfault.com/a/1190000041918155> [ from 红梅 ]
+* [ 220525 ] 都2022年了，一个还不知道Lottie动画的前端已经OUT啦！ <https://juejin.cn/post/7101629986427109383> [ from 红梅 ]
 * [ 220525 ]  Base64 编码知识 <https://www.toutiao.com/article/7101637737157214755/?only_rec=1&wid=1653631599341 > [ from 风鑫 ]
+* [ 220427 ] Web3.0来了，花呗借呗前端团队开源的Web图形引擎会成为元宇宙的技术支撑吗？ <https://juejin.cn/post/7091187236342874143> [ from 红梅 ]
 
 > ## 220523-220527
 
