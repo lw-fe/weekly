@@ -2,6 +2,18 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 > 
+
+> ## 220619-220624
+
+`本周轮值主编`： 红梅  `下周轮值主编`：海萍
+
+> 干货
+* [ 220623 ]  前端build打包dist并压缩成zip最佳实践 <https://juejin.cn/post/7112371366279512101 > [ from 风鑫 ]
+* [ 220621 ] 有意思的鼠标指针交互探究 <https://segmentfault.com/a/1190000042012558> [ from 红梅 ]
+* [ 220620 ] 动态监听DOM元素高度变化 <https://mp.weixin.qq.com/s/VoKPVLDlj1n_0-wrAYlLVA > [ from 海萍 ]
+* [ 220619 ] 善用 Git 的 sparse checkout 跟 shallow clone/pull 來提高工作效率 <https://mp.weixin.qq.com/s/8BgNxmmNxUQD04AbTBHPLg > [ from 海萍 ]
+
+
 > ## 220613-220617
 
 `本周轮值主编`： 风鑫  `下周轮值主编`：红梅
