@@ -3,6 +3,18 @@
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
 
+> ## 22018-220722
+
+`本周轮值主编`： 海萍  `下周轮值主编`：风鑫
+
+> 干货
+* [ 220720 ] 你的图片加载，一点都不酷炫！不信You Look Look...<https://juejin.cn/post/7122256732940107813 > [ from 海萍 ]
+   * 一些可以收藏的资源
+   * https://axe312ger.github.io/sqip/
+   * https://www.samcodes.co.uk/project/geometrize-haxe-web/
+   * http://yuta1984.github.io/canny/examples/
+
+
 > ## 220711-220716
 
 `本周轮值主编`： 风鑫  `下周轮值主编`：海萍
