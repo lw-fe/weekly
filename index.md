@@ -2,6 +2,25 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+
+> ## 220822-220826
+
+`本周轮值主编`： 海萍  `下周轮值主编`：风鑫
+
+> 干货
+* [220826]  上手 Vue 新的状态管理 Pinia，一篇文章就够了<https://mp.weixin.qq.com/s/uIcd00cLc2Jy-hmTgULWKw > [ from 海萍 ]
+* [ 220725 ] 一文解析 Pinia 和 Vuex，带你全面理解这两个 Vue 状态管理模式 <https://mp.weixin.qq.com/s/GUK7eUo4ua23sWVJ8ysUsQ > [ from 海萍 ]
+
+
+> ## 220815-220819
+
+`本周轮值主编`： 红梅  `下周轮值主编`：海萍
+
+> 干货
+* [ 220814 ] 尤雨溪：新版Vue 3中文文档上线；谷歌开发者工具迎来大更新；英伟达CEO：不裁员，还加薪；谷歌怒指苹果阻碍跨平台交流  <https://mp.weixin.qq.com/s/FQf1EYmPtyLq0XjasN-cZg>  [ from 红梅 ]
+* [ 220801 ] 11 个 ES2022（ES13)中惊人的 JavaScript 新特性 <https://mp.weixin.qq.com/s/CMVcIje5bH4Y7KYmRQDutQ >  [ from 海萍 ]
+
+
 > ## 220725-220729
 
 `本周轮值主编`： 风鑫  `下周轮值主编`：红梅
