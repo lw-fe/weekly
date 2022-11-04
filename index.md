@@ -2,6 +2,22 @@
 
 > 业界技术跟进，不限于前端技术，按时间逆序梳理，每周一份，[轮值主编制度参考](./editors.md)
 
+> ## 221024-221028
+
+`本周轮值主编`： 海萍  `下周轮值主编`：风鑫
+
+> 干货
+* [ 221026 ] Webpack 创始人推出比 Webpack“快 700 倍”的 Turbopack，基于 Rust 编写 <https://www.infoq.cn/article/iKecr1k4eQMMpCaaXEDr > [ from 海萍 ] 
+* [ 221101 ]  CSS 如何设置自动滚动定位的“安全”间距 <https://segmentfault.com/a/1190000042718469> [ from 红梅 ]
+
+
+> ## 221024-221028
+
+`本周轮值主编`： 红梅  `下周轮值主编`：海萍
+
+> 干货
+* [221028]  Htmx意外走红，我们从React“退回去”后：代码行数减少 67%，JS 依赖项从 255 下降到 9 <https://mp.weixin.qq.com/s/eBBa-A42h_cDfdg4A32InA > [ from 红梅 ]
+* [221018]  前端需要去了解的nodejs知识(express中间件)<https://juejin.cn/post/7155792020357775391 > [ from 风鑫 ]
 
 
 > ## 220919-220923
